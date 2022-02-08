@@ -1721,7 +1721,7 @@ mogma = {
         male_names = { Karis  Kagma Renga Dosma Zog Narug Garsh Garengar Vesma Loreg
         Risga Sodma Rengar Nogarsh Shenga Lareg Ukag Parma Fararsh Yisrug
         Kogis Larrog Lesagsh Venema Bronzi Cobal Guld Kartz Ledd Merco
-        “Mr_Tubert” Nackle Plats Silva Tyto Zanc Dibal Kakuld Kreadd Frosco
+        Tubert Nackle Plats Silva Tyto Zanc Dibal Kakuld Kreadd Frosco
         Vegkle Dratz Zeeto Lelga Edrubert Norbal Sorwarsh Muslat Lomoga
         Krarepes 
         }
