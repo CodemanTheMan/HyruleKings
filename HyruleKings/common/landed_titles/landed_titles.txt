@@ -9082,7 +9082,7 @@ e_lands_of_famine = {
 
 			}
 
-			c_on_rodsek ={
+			c_ob_rodsek ={
 				color={32 4 32}
 				color2={76 5 98}
 
