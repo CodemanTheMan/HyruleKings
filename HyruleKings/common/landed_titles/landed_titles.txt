@@ -1,0 +1,14357 @@
+e_akkala = {
+	color={35 244 148}
+	color2={99 246 10}
+
+	allow = {
+	}
+	
+	k_east_akkala ={
+
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_presud ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_dawl ={
+
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_dawl={}
+				b_gor_moron={}
+				b_jarac={}
+				b_onronon={}
+				b_gor_molgo={}
+				b_gor_shakam={}
+				b_volfasi={}
+
+			}
+
+			c_chei_uhn = {
+
+				color = {54 34 44}
+				color2 = {54 34 44}
+
+				b_chei_uhn={}
+				b_surgota={}
+				b_harman={}
+				b_gor_nargota={}
+				b_negaru={}
+				b_bosuhn={}
+				b_gor_sharsohg={}
+
+			}
+
+			c_gor_daran = {
+
+				color = {54 34 44}
+				color2 = {65 43 55}
+
+				b_gor_daran={}
+				b_cheifas={}
+				b_uhnant={}
+				b_dawli={}
+				b_presudon={}
+				b_sohpehg={}
+				b_jango={}
+
+			}
+
+			c_surgo = {
+
+				color = {54 34 44}
+				color2 = {65 34 44}
+
+				b_surgo={}
+				b_sohgota={}
+				b_hargaru={}
+				b_presuhgota={}
+				b_barbani={}
+				b_gor_volagra={}
+				b_gor_songo={}
+
+			}
+
+			c_gor_sohg = {
+
+				color = {54 34 44}
+				color2 = {65 34 44}
+
+				b_gor_sohg={}
+				b_hargota={}
+				b_gor_dongo={}
+				b_dongota={}
+				b_shago={}
+				b_igota={}
+				b_gorbac={}
+
+			}
+
+		}
+
+		d_akkala_highlands = {
+
+			color = {225 223 20}
+			color2 = {216 64 222}
+
+			c_citadel_span = {
+
+				color = {143 134 144}
+				color2 = {65 45 55}
+
+				b_akkala_citadel={}
+				b_lutona={}
+				b_falin={}
+				b_saeru={}
+				b_nottika={}
+				b_laran={}
+				b_kaedia={}
+
+			}
+
+			c_kanalet_ridge = {
+
+				color = {143 134 144}
+				color2 = {65 45 55}
+
+				b_kanalet_ridge={}
+				b_meron={}
+				b_kabun={}
+				b_arkos={}
+				b_fairu={}
+				b_lapas={}
+				b_diaru={}
+
+			}
+
+			c_torin = {
+
+				color = {54 34 44}
+				color2 = {54 34 44}
+
+				b_torin={}
+				b_deleth={}
+				b_kydro={}
+				b_leigh={}
+				b_vottu={}
+				b_melimara={}
+				b_lebun={}
+
+			}
+
+			c_old_tarrey = {
+
+				color = {54 34 44}
+				color2 = {65 34 44}
+
+				b_old_tarrey={}
+				b_damainis={}
+				b_karuto={}
+				b_reron={}
+				b_dabu={}
+				b_gotru={}
+				b_de_leen={}
+
+			}
+
+		}
+
+		d_akkala_plains = {
+
+			color = {138 222 64}
+			color2 = {64 222 157}
+
+			c_kaepora_pass = {
+
+				color = {54 34 44}
+				color2 = {54 34 44}
+
+				b_kaepora_pass={}
+				b_zikela={}
+				b_xizuto={}
+				b_z_zakk={}
+				b_zle={}
+				b_belor={}
+				b_nayoz={}
+
+			}
+
+			c_akkala_spring = {
+
+				color = {54 34 44}
+				color2 = {54 34 44}
+
+				b_akkala_spring={}
+				b_zide={}
+				b_kore={}
+				b_coroze={}
+				b_zisela={}
+				b_leruz={}
+				b_oceo={}
+
+			}
+
+			c_bell_zor = {
+
+				color = {54 23 44}
+				color2 = {54 23 33}
+
+				b_bell_zor={}
+				b_belekor={}
+				b_zakz={}
+				b_xhi_dan={}
+				b_zbor={}
+				b_xiez={}
+				b_zigor={}
+
+			}
+
+		}
+
+		d_crucible_of_hylia = {
+
+			color = {45 157 50}
+			color2 = {153 170 61}
+
+			c_demise = {
+
+				color = {43 34 44}
+				color2 = {54 45 55}
+
+				b_demise={}
+				b_ganon's_castle={}
+				b_spring_of_power={}
+				b_feldia={}
+				b_lairu={}
+				b_nyemaron={}
+				b_zalera={}
+
+			}
+
+			c_hylo = {
+
+				color = {54 45 55}
+				color2 = {65 56 66}
+
+				b_hylo={}
+				b_leme={}
+				b_kant={}
+				b_doma={}
+				b_layto={}
+				b_surore={}
+				b_lyro={}
+
+			}
+
+		}
+
+	}
+
+	k_west_akkala = {
+
+		color = {235 150 49}
+		color2 = {234 222 153}			
+
+		d_north_akkala = {
+
+			color = {232 132 106}
+			color2 = {106 232 162}
+
+			c_nohan's_landing = {
+
+				color = {54 34 44}
+				color2 = {54 43 34}
+
+				b_nohan's_landing={}
+				b_keeba={}
+				b_larneli={}
+				b_tenli={}
+				b_daisa={}
+				b_gnott={}
+				b_loermali={}
+
+			}
+
+			c_tumlea = {
+	
+				color = {54 34 44}
+				color2 = {65 45 55}
+
+				b_tumlea={}
+				b_kyson={}
+				b_becilli={}
+				b_leeli={}
+				b_desaane={}
+				b_luetovali={}
+				b_dodorli={}
+
+			}
+
+			c_bloodleaf = {
+
+				color = {54 34 44}
+				color2 = {43 34 44}
+
+				b_bloodleaf={}
+				b_kedoli={}
+				b_kakoot={}
+				b_tekk={}
+				b_aarth={}
+				b_vrass={}
+				b_peshli={}
+
+			}
+
+			c_deplian = {
+
+				color={165 60 70}
+				color2 = {54 34 44}
+
+				b_deplian={}
+				b_portamali={}
+				b_voskit={}
+				b_dilli={}
+				b_obli={}
+				b_suill={}
+				b_sarevali={}
+
+			}
+
+		}
+
+		d_akkala_wilds = {
+
+			color = {118 214 116}
+			color2 = {232 156 56}
+
+			c_gutcheck = {
+
+				color = {43 23 33}
+				color2 = {43 23 33}
+
+				b_gut_check_rock={}
+				b_great_skeleton={}
+				b_kylea={}
+				b_reeli={}
+				b_edoli={}
+				b_fordoleli={}
+				b_merecilli={}
+
+			}
+
+			c_eldin's_flank = {
+
+				color = {45 34 34}
+				color2 = {43 23 22}
+
+				b_eldin's_flank={}
+				b_vodli={}
+				b_werevali={}
+				b_casse={}
+				b_namonett={}
+				b_bedoboli={}
+				b_kosane={}
+
+			}
+
+			c_drenan = {
+
+				color = {54 34 44}
+				color2 = {43 23 33}
+
+				b_drenan={}
+				b_khazli={}
+				b_crysorn={}
+				b_plott={}
+				b_reredli={}
+				b_heulin={}
+				b_nali={}
+
+			}
+
+			c_thyphlo = {
+
+				color = {54 34 44}
+				color2 = {43 23 33}
+
+				b_thyphlo={}
+				b_peeba={}
+				b_vali={}
+				b_kayneli={}
+				b_orepeli={}
+				b_lemovali={}
+				b_logoelavi={}
+
+			}
+
+		}
+
+		d_darman_tundra = {
+
+			color = {224 132 201}
+			color2 = {77 222 128}
+
+			c_ordorac = {
+
+				color={43 34 44}
+				color2 = {43 23 33}
+
+				b_ordorac={}
+				b_dunia={}
+				b_karmani={}
+				b_beggoron={}
+				b_fudo={}
+				b_gor_doron={}
+				b_lyro={}
+
+			}
+
+			c_rok = {
+
+				color = {43 23 33}
+				color2 = {54 23 33}
+
+				b_elder's_village={}
+				b_rok={}
+				b_gor_leggs={}
+				b_sonoron={}
+				b_kodder={}
+				b_vangoro={}
+				b_konigoron={}
+
+			}
+
+			c_snowhead = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_snowhead={}
+				b_dabetta={}
+				b_lorhrin={}
+				b_feagah={}
+				b_jaydon={}
+				b_parbus={}
+				b_loffrak={}
+
+			}
+
+			c_darman_pass = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_darman_village={}
+				b_kyndae={}
+				b_nortram={}
+				b_logaro={}
+				b_veehl={}
+				b_kugby={}
+				b_pergo={}
+
+			}
+
+		}
+
+	}
+
+}
+
+e_eldin = {
+	color={35 244 148}
+	color2={99 246 10}
+
+	allow = {
+	}
+
+	k_soseheh_sohg ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_sorel ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_turtle_rock ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_turtle_rock={}
+				b_orniagon={}
+				b_donfas={}
+				b_corduga={}
+				b_urfas={}
+				b_malgo={}
+				b_malaw={}
+
+			}
+
+			c_onsuhn ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_onsuhn={}
+				b_meniagon={}
+				b_blaaz's_cavern={}
+				b_barkam={}
+				b_voronon={}
+				b_sogant={}
+				b_engo={}
+
+			}
+
+			c_gor_dalagra ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_gor_dalagra={}
+				b_aiagon={}
+				b_dogant={}
+				b_gor_arac={}
+				b_suduga={}
+				b_goram={}
+				b_gor_napeh={}
+
+			}
+
+			c_marpeh ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_marpeh={}
+				b_gorsohg={}
+				b_oduga={}
+				b_volkam={}
+				b_gorniagon={}
+				b_gorfas={}
+				b_gor_doman={}
+
+			}
+
+		}
+
+		d_dodongo_pass ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_gor_karac ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_gor_karac={}
+				b_malgaru={}
+				b_kakam={}
+				b_gor_aba={}
+				b_hotfeather_cavern={}
+				b_gorko={}
+				b_onkam={}
+
+			}
+
+			c_dodongo's cavern ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_dodongo's_cavern={}
+				b_dangaru={}
+				b_uman={}
+				b_shaniagon={}
+				b_broba={}
+				b_gouen={}
+				b_gor_suba={}
+
+
+			}
+
+		}
+
+		d_ori ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_zelo ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_zelo={}
+				b_dinraal's_landing={}
+				b_eldin's_landing={}
+				b_dinraaljaro={}
+				b_fireproof_cavern={}
+				b_dakkon's_grave={}
+				b_bongoriko={}
+
+
+			}
+
+			c_eldin_pass ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_eldin_pass={}
+				b_farosh's_landing={}
+				b_faron's_landing={}
+				b_akkala's_stand={}
+				b_stonecleaver_spot={}
+				b_dragonbone_cove={}
+				b_dragon's_retreat={}
+
+
+			}
+
+			c_old_kakariko ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_old_kakariko={}
+				b_shadow_temple={}
+				b_fort_muno={}
+				b_storiko={}
+				b_gurun={}
+				b_kakariko_graveyards={}
+				b_attala={}
+
+
+			}
+
+		}
+
+		d_linetha ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_uniagon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_uniagon={}
+				b_nasohg={}
+				b_dorsuhn={}
+				b_gor_sukam={}
+				b_karam={}
+				b_aronon={}
+				b_shagaru={}
+
+
+			}
+
+			c_kiro ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kiro={}
+				b_hidden_village={}
+				b_gor_malniagon={}
+				b_akam={}
+				b_dargant={}
+				b_barsuhn={}
+				b_gor_dopeh={}
+
+
+			}
+
+			c_gor_ango ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_gor_ango={}
+				b_ostrich's_caverns={}
+				b_isuhn={}
+				b_onduga={}
+				b_suniagon={}
+				b_gor_erfas={}
+				b_sorac={}
+
+
+			}
+
+		}
+
+		d_goronon ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_gor_goronon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_gor_goronon={}
+				b_fire_temple={}
+				b_kaduga={}
+				b_gor_soman={}
+				b_onsohg={}
+				b_doniagon={}
+				b_naronon={}
+
+			}
+
+			c_scaldera's_caldera ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_scaldera's_caldera={}
+				b_gor_iman={}
+				b_corpeh={}
+				b_volgant={}
+				b_onman={}
+				b_uduga={}
+				b_corkam={}
+
+			}
+
+			c_gorgota ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_gorgota={}
+				b_furnix's_cavern={}
+				b_gor_sosohg={}
+				b_naduga={}
+				b_volpeh={}
+				b_corfas={}
+				b_gor_oba={}
+
+			}
+
+		}
+
+		d_gortram ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_eldin_spring ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_eldin_spring={}
+				b_ongaru={}
+				b_coronon={}
+				b_malkam={}
+				b_flamola's_cavern={}
+				b_gor_ugant={}
+				b_asohg={}
+
+			}
+
+			c_medingo ={
+				color={32 4 32}
+				color2={76 5 98}
+				b_medingo={}
+				b_deadrock's_cavern={}
+				b_sharonon={}
+				b_malduga={}
+				b_molon={}
+				b_dangoro's_hole={}
+				b_gorgol={}
+
+			}
+
+			c_volgaru ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_volgaru={}
+				b_dongo={}
+				b_daronon={}
+				b_iniagon={}
+				b_corgant={}
+				b_molsohg={}
+				b_gor_vorac={}
+
+			}
+
+		}
+
+		d_peh ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_yugora ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_yugora={}
+				b_darduga={}
+				b_gor_soba={}
+				b_urac={}
+				b_barpeh={}
+				b_marsuhn={}
+				b_oranon={}
+
+			}
+
+			c_golow ={
+				color={32 4 32}
+				color2={76 5 98}
+
+
+				b_golow={}
+				b_gor_ekam={}
+				b_volvagia's_cavern={}
+				b_kasuhn={}
+				b_gor_erac={}
+				b_oniagon={}
+				b_volgo={}
+
+
+			}
+
+			c_broniagon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_broniagon={}
+				b_doduga={}
+				b_arfas={}
+				b_ogant={}
+				b_gor_igaru={}
+				b_darkam={}
+				b_bargo={}
+
+			}
+
+		}
+
+		d_ohg ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_barboga ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_barboga={}
+				b_volniagon={}
+				b_nakam={}
+				b_gor_eduga={}
+				b_darfas={}
+				b_gor_eba={}
+				b_morgant={}
+
+			}
+
+			c_gor_uba ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_gor_uba={}
+				b_surfac={}
+				b_gorac={}
+				b_molniagon={}
+				b_ukam={}
+				b_sugaru={}
+				b_naram={}
+
+			}
+
+			c_kaman ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kaman={}
+				b_ongant={}
+				b_gor_iba={}
+				b_darniagon={}
+				b_oman={}
+				b_donon={}
+				b_volba={}
+
+			}
+
+		}
+
+	}
+
+	k_moorgant ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_shadow_pass ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_gor_fogaru ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_gor_fogaru={}
+				b_suronon={}
+				b_aram={}
+				b_gor_ingo={}
+				b_barman={}
+				b_narfas={}
+				b_osohg={}
+
+			}
+
+			c_shargant ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_shargant={}
+				b_karonon={}
+				b_molgaru={}
+				b_gor_oram={}
+				b_nango={}
+				b_volsuhn={}
+				b_goram={}
+
+			}
+
+			c_corgo ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_corgo={}
+				b_narant={}
+				b_broronon={}
+				b_barba={}
+				b_brosuhn={}
+				b_gor_sopeh={}
+				b_marac={}
+
+			}
+
+			c_ulri ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ulri={}
+				b_suman={}
+				b_molduga={}
+				b_gorba={}
+				b_gor_kargo={}
+				b_doba={}
+				b_eniagon={}
+
+
+			}
+
+			c_gor_eronon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_gor_eronon={}
+				b_orgaru={}
+				b_soiagon={}
+				b_karfas={}
+				b_dorsohg={}
+				b_nasuhn={}
+				b_moran={}
+
+
+			}
+
+		}
+
+		d_mafra ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_gor_suhn ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_gor_suhn={}
+				b_sogaru={}
+				b_kaniagon={}
+				b_moronon={}
+				b_volduga={}
+				b_bargant={}
+				b_gor_corsuhn={}
+
+
+			}
+
+			c_rabac ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rabac={}
+				b_gorduga={}
+				b_brogo={}
+				b_aduga={}
+				b_gor_sorfas={}
+				b_epeh={}
+				b_usuhn={}
+
+
+			}
+
+			c_molkam ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_molkam={}
+				b_cragma's_cavern={}
+				b_gor_ipeh={}
+				b_dorsohg={}
+				b_borac={}
+				b_broman={}
+				b_corac={}
+
+
+			}
+
+			c_kaba ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kaba={}
+				b_gor_kapeh={}
+				b_molba={}
+				b_shaduga={}
+				b_brokam={}
+				b_gor_eman={}
+				b_maran={}
+
+
+			}
+
+		}
+
+		d_dalshi ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_agant ={
+				color={32 4 32}
+				color2={76 5 98}
+¨
+				b_agant={}
+				b_meman={}
+				b_marfas={}
+				b_gor_usohg={}
+				b_coran={}
+				b_gor_ironon={}
+				b_soduga={}
+
+
+			}
+
+			c_gor_unduga ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_gor_unduga={}
+				b_dokam={}
+				b_volman={}
+				b_shaba={}
+				b_gor_mekam={}
+				b_boram={}
+				b_gorsuhn={}
+
+
+			}
+
+			c_morsuhn ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_morsuhn={}
+				b_shaman={}
+				b_darba={}
+				b_gor_apeh={}
+				b_gor_ongo={}
+				b_malsohg={}
+				b_volfas={}
+
+
+			}
+
+		}
+
+		d_muhsa ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_susohg ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_susohg={}
+				b_molman={}
+				b_orfas={}
+				b_gor_muh_sa={}
+				b_onram={}
+				b_gor_irac={}
+				b_ikam={}
+
+
+			}
+
+			c_gor_galonga ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_gor_galonga={}
+				b_suman={}
+				b_jarfas={}
+				b_gor_soronon={}
+				b_gor_barfas={}
+				b_dargota={}
+				b_gor_narac={}
+
+
+			}
+
+			c_gor_baronon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_gor_baronon={}
+				b_heedle's_cavern={}
+				b_malman={}
+				b_malgota={}
+				b_gor_okam={}
+				b_gormani={}
+				b_corsuhn={}
+
+
+			}
+
+		}
+
+	}
+
+}
+
+e_faron = {
+	color={35 244 148}
+	color2={99 246 10}
+
+	allow = {
+	}
+
+	k_faron ={
+
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_tobio ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_jia = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_jia={}
+				b_nog={}
+				b_doxco={}
+				b_kenaxx={}
+				b_quetel={}
+				b_heico={}
+				b_jinofos={}
+
+			}
+
+			c_keelay = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_keelay={}
+				b_galukuska={}
+				b_varnyle={}
+				b_rereon={}
+				b_letzli={}
+				b_jarpoza={}
+				b_vuih={}
+
+			}
+
+			c_dracozu = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_dracozu={}
+				b_vicachua={}
+				b_kanetonal={}
+				b_grurpack={}
+				b_zuema={}
+				b_letezalli={}
+				b_xochii={}
+
+			}
+
+			c_finra = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_finra={}
+				b_manuic={}
+				b_qetehexo={}
+				b_loxxa={}
+				b_katrugua={}
+				b_pohlix={}
+				b_yochya={}
+
+			}
+
+		}
+
+		d_floria ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_corta = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_corta={}
+				b_cutolush={}
+				b_acalanzi={}
+				b_damoxci={}
+				b_tilguana={}
+				b_lezofos={}
+				b_hua={}
+
+			}
+
+			c_rodai = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_rodai={}
+				b_daxxra={}
+				b_sneak={}
+				b_leruhox={}
+				b_kolvagia={}
+				b_jotl={}
+				b_zauzcuih={}
+
+			}
+
+			c_calora = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_calora={}
+				b_thozoa={}
+				b_oromaxi={}
+				b_lauqchi={}
+				b_jeteleehua={}
+				b_voxco={}
+				b_narku={}
+
+			}
+
+			c_ebara = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_ebara={}
+				b_kwami={}
+				b_luahmoc={}
+				b_vanetilee={}
+				b_lipactonal={}
+				b_zalec={}
+				b_jasaur={}
+
+			}
+
+			c_great_tree = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_great_tree={}
+				b_okiwi={}
+				b_weeki={}
+				b_jerreki={}
+				b_aleweeki={}
+				b_hekwi={}
+				b_korowi={}
+
+			}
+
+		}
+
+		d_leonorzard ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_harker = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_harker={}
+				b_naucra={}
+				b_chamexli={}
+				b_moxti={}
+				b_fuetzli={}
+				b_dashua={}
+				b_juamte={}
+
+			}
+
+			c_damel = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_damel={}
+				b_doalt={}
+				b_nocitalee={}
+				b_laneethack={}
+				b_kothli={}
+				b_jerecfos={}
+				b_unofos={}
+
+			}
+
+			c_kamah = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_kamah={}
+				b_leenex={}
+				b_paloegia={}
+				b_jexxah={}
+				b_kahuich={}
+				b_hog={}
+				b_ayayotl={}
+
+			}
+
+			c_guchini = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_guchini={}
+				b_fosaur={}
+				b_zapeon={}
+				b_lolthagia={}
+				b_heruchi={}
+				b_kamelfos={}
+				b_hylera={}
+
+			}
+
+		}
+
+		d_ukshulut ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_herin = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_herin={}
+				b_pelmikaur={}
+				b_garkat={}
+				b_adeluska={}
+				b_nolfos={}
+				b_kedra={}
+				b_joxxhua={}
+
+			}
+
+			c_pagos = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_pagos={}
+				b_faroztli={}
+				b_voxoci={}
+				b_nardulan={}
+				b_rotendra={}
+				b_azoki={}
+				b_barokuet={}
+
+			}
+
+			c_kalaso = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_kalaso={}
+				b_karog={}
+				b_likta={}
+				b_nolneak={}
+				b_tollotl={}
+				b_cahuatzi={}
+				b_hacuamoc={}
+
+			}
+
+		}
+
+		d_kadolukshut ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_ubozs = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_ubozs={}
+				b_odrofos={}
+				b_valiguana={}
+				b_jareeyotl={}
+				b_icoaltl={}
+				b_egretzli={}
+				b_dohlichi={}
+
+			}
+
+			c_saluska = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_saluska={}
+				b_mashoxi={}
+				b_leza={}
+				b_kusmasaur={}
+				b_meleefos={}
+				b_holdivagia={}
+				b_depozar={}
+
+			}
+
+			c_sarjon = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_sarjon={}
+				b_acanth={}
+				b_okrasa={}
+				b_nacanthe={}
+				b_mexacanth={}
+				b_aranthi={}
+				b_cana={}
+
+			}
+
+			c_gakat = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_gakat={}
+				b_zazifos={}
+				b_peleokusha={}
+				b_huanagia={}
+				b_porozoatl={}
+				b_dareztli={}
+				b_orcco={}
+
+			}
+
+			c_ibara = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_ibara={}
+				b_kuborz={}
+				b_farfera={}
+				b_arehuici={}
+				b_luangna={}
+				b_lacoxchi={}
+				b_eletonal={}
+
+			}
+
+			c_menra = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_menra={}
+				b_kottle={}
+				b_canyana={}
+				b_valanika={}
+				b_oxelgia={}
+				b_pepvol={}
+				b_pepehautzi={}
+
+			}
+
+		}
+
+		d_bakalashut ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_rassla = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_rassla={}
+				b_bakna={}
+				b_lolelgia={}
+				b_babio={}
+				b_jemalmat={}
+				b_xoc={}
+				b_izal={}
+
+			}
+
+			c_kodolkes = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_kodolkes={}
+				b_aac={}
+				b_kaborr={}
+				b_zelialli={}
+				b_xpia={}
+				b_zaluah={}
+				b_valevati={}
+
+			}
+
+			c_vargia = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_vargia={}
+				b_narrado={}
+				b_feadrich={}
+				b_bebajide={}
+				b_kedmael={}
+				b_weeloy={}
+				b_aaepo={}
+
+			}
+
+			c_fakut_sakis = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_fakut_sakis={}
+				b_fazaac={}
+				b_pemeguana={}
+				b_senebio={}
+				b_sakkna={}
+				b_nyleoy={}
+				b_gorana={}
+
+			}
+
+		}
+
+		d_arlikk ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_faron_spring = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_faron_spring={}
+				b_chaanexx={}
+				b_paartli={}
+				b_elabio={}
+				b_hojolel={}
+				b_femazel={}
+				b_axaya={}
+
+			}
+
+			c_laotl = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_laotl={}
+				b_oreenexx={}
+				b_acuelouh={}
+				b_dadakna={}
+				b_kelluoh={}
+				b_cutli={}
+				b_yoloetli{}
+
+			}
+
+			c_cahua = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_cahua={}
+				b_cahsubor={}
+				b_caazel={}
+				b_xoccinex={}
+				b_loyebund={}
+				b_chinphoyra={}
+				b_coxlotli={}
+
+			}
+
+			c_guatekoc = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_guatekoc={}
+				b_ubpoe={}
+				b_lacoxlel={}
+				b_rasepo={}
+				b_sedramael={}
+				b_jarembe={}
+				b_akalazuah={}
+
+			}
+
+		}
+
+		d_korkuloki ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_malanya = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_malanya_spring={}
+				b_mondpo={}
+				b_kellog={}
+				b_reeanfos={}
+				b_nunmeldat={}
+				b_fiveoy={}
+				b_almoxoc={}
+
+			}
+
+			c_puffer = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_puffer={}
+				b_muefexx={}
+				b_dorabiio={}
+				b_seitzel={}
+				b_gudrog={}
+				b_cheelkusha={}
+				b_palatelik={}
+
+			}
+
+			c_farok = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_farok={}
+				b_vezezalfos={}
+				b_agasaur={}
+				b_maapo={}
+				b_hadranmaek={}
+				b_keloyoy={}
+				b_heonne={}
+
+			}
+
+			c_larlik = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_larlik={}
+				b_tuan={}
+				b_zebunnd={}
+				b_harednyle={}
+				b_okraradi={}
+				b_reyakna={}
+				b_negchaac={}
+
+			}
+
+			c_sardu = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_sardu={}
+				b_thelmazaur={}
+				b_haharnnog={}
+				b_rekibor={}
+				b_maekrich={}
+				b_esumakmat={}
+				b_fellaxaz={}
+
+			}
+
+			c_iguan = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_iguan={}
+				b_rodenalfos={}
+				b_sorregabio={}
+				b_werechima={}
+				b_drenkakna={}
+				b_stueloy={}
+				b_totkarado={}
+
+			}
+
+		}
+
+		d_menoch ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_menoato = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_menoato={}
+				b_kelzaac={}
+				b_memmbre={}
+				b_olovagia={}
+				b_genraa={}
+				b_kadigarnyle={}
+				b_jaac={}
+
+			}
+
+			c_dracozu = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_dracozu={}
+				b_walodrich={}
+				b_forzosaur={}
+				b_lengereon={}
+				b_tacenedo={}
+				b_cixpiacoc={}
+				b_perotbor={}
+
+			}
+
+			c_fural = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_fural={}
+				b_jematrienex={}
+				b_thorsnaac={}
+				b_casesogmal={}
+				b_kogvagia={}
+				b_hermloy={}
+				b_hartyoc={}
+
+			}
+
+			c_haranzal = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_haranzal={}
+				b_notroxx={}
+				b_koxk={}
+				b_woemzolouh={}
+				b_becadnael={}
+				b_vaertlie={}
+				b_pyxa={}
+
+			}
+
+		}
+
+		d_farosh_hills ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_helmasaur = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_helmasaur={}
+				b_eludoro={}
+				b_agemebe={}
+				b_orthakna={}
+				b_lucasha={}
+				b_savzek={}
+				b_vabieo={}
+
+			}
+
+			c_barula = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_barula={}
+				b_whazsugia={}
+				b_aixocs={}
+				b_beiklel={}
+				b_flegjalmat={}
+				b_dasabor={}
+				b_neefdo={}
+
+			}
+
+			c_harfin = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_harfin={}
+				b_suugox={}
+				b_eafricuali={}
+				b_aizaiio={}
+				b_tirepopo={}
+				b_talkra={}
+				b_sorgimael={}
+
+			}
+
+		}
+
+		d_zonai woods ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_oseira = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_oseira={}
+				b_cancebio={}
+				b_daulouy={}
+				b_capedo={}
+				b_rathecaac={}
+				b_greacox={}
+				b_heleliuo={}
+
+			}
+
+			c_zonai_ruins = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_zonai_ruins={}
+				b_zeenai={}
+				b_norunai={}
+				b_arzey={}
+				b_zazoxxu={}
+				b_keshai={}
+				b_gornzia={}
+
+			}
+
+			c_apoza = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_apoza={}
+				b_helooza={}
+				b_joghra={}
+				b_bmelegos={}
+				b_naruneak={}
+				b_walkalpo={}
+				b_awu={}
+
+			}
+
+		}
+
+	}
+
+	k_deku_woods ={
+
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_kud_kuh ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_joogal = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_joogal={}
+				b_ocodeku={}
+				b_jacecci={}
+				b_fopat={}
+				b_beba={}
+				b_papyo={}
+				b_keduling={}
+
+			}
+
+			c_layo = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_layo={}
+				b_luh_ki={}
+				b_holwa={}
+				b_dubhet={}
+				b_lu_kani={}
+				b_peppi={}
+				b_haandla={}
+
+			}
+
+			c_kan_loh = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_kan_loh={}
+				b_kekit={}
+				b_lekuu={}
+				b_nakassa={}
+				b_lendla={}
+				b_leh_po={}
+				b_kadu={}
+
+			}
+
+		}
+
+		d_viyer_soh ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_geppi = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_geppi={}
+				b_nacci={}
+				b_huhtelle={}
+				b_jovodolwa={}
+				b_wapek={}
+				b_heahku={}
+				b_kadofo={}
+
+			}
+
+			c_thecci = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_thecci={}
+				b_nat={}
+				b_duk_hol={}
+				b_wadolwu={}
+				b_jatdo={}
+				b_salut={}
+				b_nutta={}
+
+			}
+
+			c_for_kud = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_for_kud={}
+				b_lano={}
+				b_kuh_huh={}
+				b_bana={}
+				b_einendla={}
+				b_hutte={}
+				b_ketpit={}
+
+			}
+
+			c_scrub_do = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_scrub_do={}
+				b_molyo={}
+				b_darku={}
+				b_ecci={}
+				b_gorhart={}
+				b_leawa={}
+				b_lappi={}
+
+			}
+
+		}
+
+		d_dorhat ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_orhet = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_orhet={}
+				b_nal_oh={}
+				b_detko={}
+				b_guttyo={}
+				b_hekket_do={}
+				b_roobawee={}
+				b_orm_loh={}
+
+			}
+
+			c_ord_nan = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_ord_nan={}
+				b_kengbaba={}
+				b_wahkan={}
+				b_teullulu={}
+				b_farthing={}
+				b_hedukessa={}
+				b_jorhatt={}
+
+			}
+
+			c_goobalwee = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_goobalwee={}
+				b_manecci={}
+				b_naba={}
+				b_boona={}
+				b_fingku={}
+				b_adabeba={}
+				b_gani_do={}
+
+			}
+
+		}
+
+		d_odolwa_swamps ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_adolwee = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_adolwee={}
+				b_ekhee={}
+				b_forocci={}
+				b_guhruh={}
+				b_selelrub={}
+				b_reahat={}
+				b_nomikassa={}
+
+			}
+
+			c_kudu_kedi = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_kudu_kedi={}
+				b_kettio={}
+				b_kakki={}
+				b_ganjorhat={}
+				b_hordowolda={}
+				b_peddi={}
+				b_narthhi={}
+
+			}
+
+			c_occu = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_occu={}
+				b_san_da={}
+				b_banando={}
+				b_woedfo={}
+				b_fodo={}
+				b_mumku={}
+				b_leceti={}
+
+			}
+
+			c_satling = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_satling={}
+				b_udulva={}
+				b_dannihet={}
+				b_soil_loh={}
+				b_plentto={}
+				b_beskki={}
+				b_buttraku={}
+
+			}
+
+		}
+
+		d_oda_do ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_woedyo = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_woedyo={}
+				b_geo={}
+				b_grorhat={}
+				b_drub={}
+				b_larkati={}
+				b_uh={}
+				b_ananpi={}
+
+			}
+
+			c_prekkit = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_prekkit={}
+				b_safpe={}
+				b_deafgat={}
+				b_lanndla={}
+				b_sleepe={}
+				b_foreshat={}
+				b_doedi={}
+
+			}
+
+			c_nautelle = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_nautelle_ruins={}
+				b_agruh={}
+				b_redu={}
+				b_dearubu={}
+				b_beerhut={}
+				b_ginl={}
+				b_judo_ko={}
+
+			}
+
+			c_odolwa = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_odolwan_ruins={}
+				b_manabyo={}
+				b_borohat={}
+				b_hubscrub={}
+				b_baba_dub={}
+				b_codeket={}
+				b_nababakuu={}
+
+			}
+
+		}
+
+		d_woodfall_swamps ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_peahet = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_peahet={}
+				b_kaarecci={}
+				b_hoebalee={}
+				b_orlandla={}
+				b_krubku={}
+				b_pooedo={}
+				b_jaraba={}
+
+			}
+
+			c_hy_ku = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_hy_ku={}
+				b_fran_kan={}
+				b_cessi={}
+				b_gorodat={}
+				b_soen_do={}
+				b_getthi_ot={}
+				b_zecba={}
+
+			}
+
+			c_beeba = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_beeba={}
+				b_go={}
+				b_kreakuh={}
+				b_vadecci={}
+				b_kedu={}
+				b_sarba={}
+				b_talen_do={}
+
+			}
+
+			c_mekarwee = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_mekarwee={}
+				b_kannee={}
+				b_horkohat={}
+				b_ulwa={}
+				b_pepddici={}
+				b_janda={}
+				b_nappepe={}
+
+			}
+
+		}
+
+		d_woodfall ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_woodfall_temple = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_woodfall_temple={}
+				b_hudyat={}
+				b_pokat={}
+				b_judfassa={}
+				b_porehat={}
+				b_hedeccee={}
+				b_kandrala={}
+
+			}
+
+			c_weedkit = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_weedkit={}
+				b_eet_it={}
+				b_jekusu={}
+				b_multkit={}
+				b_har_kuh={}
+				b_noedo={}
+				b_gleen_loh={}
+
+			}
+
+			c_felku = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_felku={}
+				b_manukano={}
+				b_farenu={}
+				b_okan={}
+				b_yellekud={}
+				b_aloh={}
+				b_peapar={}
+
+			}
+
+			c_jooba = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_jooba={}
+				b_heck_kuh={}
+				b_kettah={}
+				b_cude_kuh={}
+				b_harmdecci={}
+				b_geebi={}
+				b_sorpkit={}
+
+			}
+
+		}
+
+		d_moruge ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_moruge_ruins = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_moruge_ruins={}
+				b_markan={}
+				b_josruku={}
+				b_kaydo={}
+				b_jorbalwee={}
+				b_joh_han={}
+				b_marhhat={}
+
+			}
+
+			c_moruge_palace = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_moruge_palace={}
+				b_mercoci={}
+				b_legku={}
+				b_climmit={}
+				b_farba={}
+				b_goh_jo={}
+				b_caiyo={}
+
+			}
+
+			c_pato = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_pato={}
+				b_fartsele={}
+				b_aaha={}
+				b_celebil={}
+				b_bevecci={}
+				b_galee={}
+				b_por_poh={}
+
+			}
+
+			c_cora = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_cora={}
+				b_methicci={}
+				b_foretah={}
+				b_varedo={}
+				b_casmandla={}
+				b_kawda={}
+				b_beepi={}
+
+			}
+
+			c_zokassa = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_zokassa={}
+				b_calajat={}
+				b_cebedee={}
+				b_peekcha={}
+				b_pubie={}
+				b_cuddleeci={}
+				b_or_daneedu={}
+
+			}
+
+			c_ke_no = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_ke_no={}
+				b_vaneelo={}
+				b_babagaree={}
+				b_seezyo={}
+				b_afreppi={}
+				b_hugga={}
+				b_mebba={}
+
+			}
+
+		}
+
+		d_southern_swamps ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_dekuru = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_dekuru={}
+				b_dekkaru={}
+				b_kadruheku={}
+				b_dolobud={}
+				b_ceelling={}
+				b_jartba={}
+				b_legurub={}
+
+			}
+
+			c_nutu = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_nutu={}
+				b_non_loh={}
+				b_sarenla={}
+				b_khettik={}
+				b_ginbaba={}
+				b_bubscrub={}
+				b_seekki={}
+
+			}
+
+			c_dekling = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_dekling={}
+				b_laukoko={}
+				b_hodorlolwa={}
+				b_formkan={}
+				b_vareddi={}
+				b_noedii={}
+				b_searhatti={}
+
+			}
+
+		}
+
+		d_kano_ko_woods ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_gorub = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_gorub={}
+				b_soreekuh={}
+				b_smecci={}
+				b_kityit={}
+				b_rolohandla={}
+				b_makeetii={}
+				b_eru_du={}
+
+			}
+
+			c_nette = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_nette_ruins={}
+				b_korrhat={}
+				b_jetfodo={}
+				b_jenkgandla={}
+				b_foruhecci={}
+				b_vemmicci={}
+				b_luh_kuho={}
+
+			}
+
+			c_sekat = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_sekat={}
+				b_bubcrub={}
+				b_peefii={}
+				b_jarengethi={}
+				b_furbra={}
+				b_todhat={}
+				b_toddekan={}
+
+			}
+
+			c_lingwa = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_lingwa={}
+				b_tooed={}
+				b_bowku={}
+				b_mariba={}
+				b_peeadla={}
+				b_kedrofecci={}
+				b_letegetti={}
+
+			}
+
+			c_kano = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_kano_palace={}
+				b_arnoo={}
+				b_vavva={}
+				b_volgeedo={}
+				b_boiludo={}
+				b_finggub={}
+				b_deerratu={}
+
+			}
+
+		}
+
+		d_woods_of_mystery ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_dead_deku_tree = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_dead_deku_tree={}
+				b_kuhnkay={}
+				b_beaku={}
+				b_mornke={}
+				b_mavaen={}
+				b_sweengro={}
+				b_hareeu={}
+
+			}
+
+			c_loenkay = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_loenkay={}
+				b_joencey={}
+				b_lenaan={}
+				b_tetru={}
+				b_wookkay={}
+				b_bakure={}
+				b_lodeaku={}
+
+			}
+
+			c_benaanan = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_benaanan={}
+				b_kobnan={}
+				b_beere={}
+				b_makaey={}
+				b_ulugro={}
+				b_kakay={}
+				b_theeku={}
+
+			}
+
+		}
+
+		d_dokano_woods ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_dokano = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_dokano={}
+				b_ehrihano={}
+				b_kefegaba={}
+				b_garharba={}
+				b_derekkih={}
+				b_deovecci={}
+				b_leaaba={}
+
+			}
+
+			c_poe_kud = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_poe_kud={}
+				b_muddla={}
+				b_shorrub={}
+				b_neeici={}
+				b_greenhandla={}
+				b_heeargh={}
+				b_kaleedo={}
+
+			}
+
+		}
+
+		d_kudo ={
+
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_kudokano = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_kudokano={}
+				b_yolodolwa={}
+				b_mashyo={}
+				b_gelema={}
+				b_joshudeppi={}
+				b_yashu={}
+				b_shaydla={}
+
+			}
+
+			c_kudokee = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_kudokee={}
+				b_morebaba={}
+				b_yormaloh={}
+				b_toreleng={}
+				b_arrda={}
+				b_iorat={}
+				b_jorrdicci={}
+
+			}
+
+			c_laudo = {
+
+				color = {154 123 133}
+				color2 = {54 23 33}
+
+				b_laudo={}
+				b_kalappi={}
+				b_pencesandla={}
+				b_keembe={}
+				b_towoldwa={}
+				b_heku_leku={}
+				b_herrmee={}
+
+			}
+
+		}
+
+	}
+
+}
+
+e_gerudo = {
+	color={35 244 148}
+	color2={99 246 10}
+
+	allow = {
+	}
+
+	k_zunaya ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_zuna_mesa ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_zunayus ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_zunayus={}
+				b_orday={}
+				b_dardus={}
+				b_yunoyus={}
+				b_naros={}
+				b_lotos={}
+				b_nuy={}
+
+			}
+
+			c_udou ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_udou={}
+				b_moron={}
+				b_lorus={}
+				b_dardanos={}
+				b_onou={}
+				b_vanos={}
+				b_manzou={}
+
+			}
+
+			c_madara ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_madara={}
+				b_ladayus={}
+				b_rodou={}
+				b_aroyus={}
+				b_voyou={}
+				b_muvar={}
+				b_medolou={}
+
+			}
+
+			c_lozunos ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_lozunos={}
+				b_rusayus={}
+				b_rodayus={}
+				b_moudo={}
+				b_laudan={}
+				b_nedorou={}
+				b_zano={}
+
+			}
+
+			c_samayus ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_samayus={}
+				b_rou={}
+				b_musou={}
+				b_adou={}
+				b_zadayus={}
+				b_yozos={}
+				b_dodoyus={}
+
+			}
+
+			c_gerudo_spring ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_gerudo_spring={}
+				b_murou={}
+				b_lamas={}
+				b_odou={}
+				b_yu={}
+				b_zoyu={}
+				b_loryu={}
+
+			}
+
+		}
+
+		d_toruma ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_tantari ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_tantari={}
+				b_rolou={}
+				b_savou={}
+				b_rudou={}
+				b_radoyus={}
+				b_mozoyos={}
+				b_arou={}
+
+			}
+
+			c_valdoon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_valdoon={}
+				b_dozonus={}
+				b_yazayus={}
+				b_dlu={}
+				b_rynoyus={}
+				b_marou={}
+				b_doron={}
+
+			}
+
+			c_ryu ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ryu={}
+				b_yzu={}
+				b_rozonus={}
+				b_zunou={}
+				b_odyu={}
+				b_unyu={}
+				b_maryu={}
+
+			}
+
+			c_mayu ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mayu={}
+				b_manoyus={}
+				b_voroyus={}
+				b_udyu={}
+				b_daryus={}
+				b_naryos={}
+				b_muzunyu={}
+
+			}
+
+		}
+
+	}
+
+	k_kovaloo's_shelf ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_tanagar ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_reesong ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_reesong={}
+				b_peratana={}
+				b_menu={}
+				b_surah={}
+				b_limpa={}
+				b_saya={}
+				b_dado={}
+
+			}
+
+			c_dodomai ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_dodomai={}
+				b_sepa={}
+				b_warsiba={}
+				b_longo={}
+				b_seeka={}
+				b_lerah={}
+				b_seiko={}
+
+			}
+
+			c_lorio ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_lorio={}
+				b_naude={}
+				b_seyu={}
+				b_meru={}
+				b_katan={}
+				b_labonne={}
+				b_krieko={}
+
+			}
+
+			c_nakure ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nakure={}
+				b_sabe={}
+				b_valyban={}
+				b_keimpa={}
+				b_oro={}
+				b_eju={}
+				b_hirokama={}
+
+			}
+
+			c_noritoko ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_noritoko={}
+				b_meeko={}
+				b_liniya={}
+				b_zekrye={}
+				b_mepha={}
+				b_nji={}
+				b_borokodo={}
+
+			}
+
+		}
+
+		d_crenan ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_zaldorf ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_zaldorf={}
+				b_falusharva={}
+				b_keleake={}
+				b_dedorf={}
+				b_zasaluma={}
+				b_werubo={}
+				b_mustava={}
+
+			}
+
+			c_aslosus ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_aslosus={}
+				b_larussa={}
+				b_korlabaca={}
+				b_nishei={}
+				b_bardorf={}
+				b_metra={}
+				b_lemala={}
+
+			}
+
+			c_crenandorf ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_crenando={}
+				b_savella={}
+				b_rejamu={}
+				b_saboa={}
+				b_machoe={}
+				b_rendorf={}
+				b_misha={}
+
+			}
+
+			c_risoka_snowfield ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_risoka={}
+				b_arsorka={}
+				b_lardorf={}
+				b_leldorf={}
+				b_zalustra={}
+				b_woshasa={}
+				b_mensha={}
+
+			}
+
+		}
+
+		d_sav'ro ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_parapa ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_parapa={}
+				b_oshai={}
+				b_avidorf={}
+				b_felasa={}
+				b_ledorf={}
+				b_nevdorf={}
+				b_ketana={}
+
+			}
+
+			c_karusa ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_karusa={}
+				b_suliroba={}
+				b_wasoka={}
+				b_roche={}
+				b_shenon={}
+				b_kaledorf={}
+				b_dethi={}
+
+			}
+
+			c_birida_lookout ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_birida={}
+				b_nar_nar={}
+				b_nenasdorf={}
+				b_sathea={}
+				b_melika={}
+				b_cedorf={}
+				b_buru={}
+
+			}
+
+		}
+
+		d_nav_sene ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_meadela's_mantle ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_meadela={}
+				b_naridorf={}
+				b_taudee={}
+				b_larvi={}
+				b_daly_din={}
+				b_liotana={}
+				b_eredorf={}
+
+			}
+
+			c_heemar's_descent ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_heemar={}
+				b_seladorf={}
+				b_pesa={}
+				b_ciese={}
+				b_cheken={}
+				b_arre={}
+				b_okeui={}
+
+			}
+
+		}
+
+		d_asahsha ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_rutimala ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rutimala={}
+				b_fadarr={}
+				b_meshed={}
+				b_ganeites={}
+				b_duyoh={}
+				b_anithee={}
+				b_porshadorf={}
+
+			}
+
+			c_sapphia ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_sapphia={}
+				b_ahvan={}
+				b_flawa={}
+				b_seruberu={}
+				b_treya={}
+				b_jerasha={}
+				b_sorch={}
+
+			}
+
+		}
+
+		d_relara ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_mystathi's_shelf ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mystathi={}
+				b_harn_geri={}
+				b_kheleb={}
+				b_bervera={}
+				b_verra={}
+				b_orleda={}
+				b_shauke={}
+
+			}
+
+			c_laparoh ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_laparoh={}
+				b_hewa={}
+				b_shri={}
+				b_afrodorf={}
+				b_erlo={}
+				b_forsa={}
+				b_shubi={}
+
+			}
+
+			c_vatorsa ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_vatorsa={}
+				b_kotake={}
+				b_koume={}
+				b_ashinar={}
+				b_lethu={}
+				b_dhelon={}
+				b_berta={}
+
+			}
+
+			c_ruvara ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ruvara={}
+				b_meska={}
+				b_mushka={}
+				b_keejo={}
+				b_tarasharve={}
+				b_maveil={}
+				b_lelda={}
+
+			}
+
+		}
+
+	}
+
+	k_gerudo ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_haunted_wasteland ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_nabu ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nabu={}
+				b_rilos={}
+				b_fladar={}
+				b_plodi={}
+				b_calthi={}
+				b_fedar={}
+				b_ramdel={}
+
+			}
+
+			c_aidadorf ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_aidadorf={}
+				b_spirit_temple={}
+				b_malekara={}
+				b_kouden={}
+				b_jirah={}
+				b_jarserva={}
+				b_maubo={}
+
+			}
+
+			c_sakrela ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_sakrela={}
+				b_mabaro={}
+				b_kachana={}
+				b_ketta={}
+				b_lamaad={}
+				b_trija={}
+				b_larai={}
+
+			}
+
+			c_wynaldorf ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_wynaldorf={}
+				b_sadorf={}
+				b_vetree={}
+				b_nalban={}
+				b_kasaad={}
+				b_nanche={}
+				b_ormus={}
+
+			}
+
+			c_reva ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_reva={}
+				b_pepa={}
+				b_saliha={}
+				b_ganose'em={}
+				b_selehdorf={}
+				b_selda={}
+				b_sanko={}
+
+			}
+
+		}
+
+		d_pala ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_hermit_flat ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_cave_of_vision={}
+				b_pale'eda={}
+				b_kujat={}
+				b_vai_geri={}
+				b_ansha={}
+				b_jema'al={}
+				b_lu'uda={}
+
+			}
+
+			c_paladorf ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_paladorf={}
+				b_sardean={}
+				b_robea={}
+				b_sabi_sa={}
+				b_lashai={}
+				b_periroba={}
+				b_hoekemdorf={}
+
+			}
+
+			c_dorf_jurat ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_dorf_jurat={}
+				b_dare'eria={}
+				b_alushe={}
+				b_anudorf={}
+				b_gorsha={}
+				b_le_lesha={}
+				b_utdorf={}
+
+			}
+
+			c_rokaro ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rokaro={}
+				b_polesha={}
+				b_kreera={}
+				b_urngani_centre={}
+				b_shana'am={}
+				b_joshu={}
+				b_tensha={}
+
+			}
+
+		}
+
+		d_loka ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_kara ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kara_oasis={}
+				b_falya={}
+				b_le'ethi={}
+				b_dash_voe={}
+				b_feregash={}
+				b_le'ebi={}
+				b_rolash={}
+
+			}
+
+			c_zirco_mesa ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_zirco={}
+				b_vasa={}
+				b_erash={}
+				b_codeselah={}
+				b_reetsel={}
+				b_washka={}
+				b_calesh={}
+
+			}
+
+			c_nephra_hill ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nephra={}
+				b_lindsey={}
+				b_shashen={}
+				b_lasish={}
+				b_oles={}
+				b_karesa={}
+				b_gerud={}
+
+			}
+
+			c_koukot_plateau ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_koukot={}
+				b_komodorf={}
+				b_menor={}
+				b_wa'an={}
+				b_parera={}
+				b_paules={}
+				b_i'ende={}
+
+			}
+
+		}
+
+		d_mesal ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_ayloc ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ayloc={}
+				b_ayloch_fortress={}
+				b_geresta={}
+				b_dorf_loron={}
+				b_nerot={}
+				b_lasheidorf={}
+				b_geros={}
+
+			}
+
+			c_nis_gerudot ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nis_gerudot={}
+				b_vana_merva={}
+				b_mashe'en={}
+				b_busdorf={}
+				b_nis_servar={}
+				b_jerumas={}
+				b_dorf_crestas={}
+
+			}
+
+			c_mesal_durof ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mesal_durof={}
+				b_nanesa={}
+				b_dorf_deme={}
+				b_lavadorf={}
+				b_bashi={}
+				b_nis_pides={}
+				b_reanis={}
+
+			}
+
+		}
+
+		d_kalisa ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_ashinon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ashinon={}
+				b_great_oasis={}
+				b_norshan={}
+				b_nis_armad={}
+				b_primdorf={}
+				b_zorsa={}
+				b_lanarash={}
+
+			}
+
+			c_avei ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_avei={}
+				b_nis={}
+				b_dorf_porsh={}
+				b_avielish={}
+				b_morma={}
+				b_peshaedorf={}
+				b_dorf_nec={}
+
+			}
+
+			c_lakura ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_lakura={}
+				b_falvas={}
+				b_jorshe={}
+				b_keva'an={}
+				b_nocos={}
+				b_dorf_nesh={}
+				b_miele={}
+
+			}
+
+			c_se'aka ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_se'aka={}
+				b_hanai={}
+				b_speshdorf={}
+				b_patrush={}
+				b_se_awar={}
+				b_krebes={}
+				b_pepesh={}
+
+			}
+
+		}
+
+		d_valley_of_seers ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_arbiter's_grounds ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_arbiter's_grounds={}
+				b_ames={}
+				b_ginorn={}
+				b_plavi={}
+				b_noke'ela={}
+				b_vaias={}
+				b_che'ara={}
+
+			}
+
+			c_y'aino ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_y'aino={}
+				b_tesh={}
+				b_hebar={}
+				b_luchedorf={}
+				b_darodorf={}
+				b_faroloda={}
+				b_maledorf={}
+
+			}
+
+			c_faldoon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_faldoon={}
+				b_leviathan_of_faldoon={}
+				b_nis_fal={}
+				b_judorf={}
+				b_aldorf={}
+				b_tessa={}
+				b_bele'ara={}
+
+			}
+
+			c_mudora ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mudora={}
+				b_maska={}
+				b_nareya={}
+				b_langa={}
+				b_oronesh={}
+				b_shala={}
+				b_kele_sharva={}
+
+			}
+
+		}
+
+		d_palu ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_goronu ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_goronu_face={}
+				b_maredorf={}
+				b_geredorf={}
+				b_koledorf={}
+				b_ashadorf={}
+				b_perforf={}
+				b_ceredorf={}
+
+			}
+
+			c_bulro ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_bulro={}
+				b_harpa={}
+				b_magidorf={}
+				b_korli={}
+				b_sha'abe={}
+				b_dorf_porsha={}
+				b_urshodorf={}
+
+			}
+
+			c_barba ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_barba={}
+				b_dragon's_exile={}
+				b_scorchs={}
+				b_salutadorf={}
+				b_brandus={}
+				b_modorf={}
+				b_nis_mos={}
+
+			}
+
+		}
+
+		d_desert_of_doubt ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_rijon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rijon={}
+				b_lesedorf={}
+				b_merus={}
+				b_eyodorf={}
+				b_ondorf={}
+				b_mesal_uphen={}
+				b_pashan={}
+
+			}
+
+			c_desert_of_outcasts ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_thieftown={}
+				b_scoundrali={}
+				b_nidorf={}
+				b_belesh={}
+				b_waregdorf={}
+				b_norada={}
+				b_eldorf={}
+
+			}
+
+			c_garuda ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_garuda={}
+				b_southern_oasis={}
+				b_amazon={}
+				b_agdorf={}
+				b_thameli={}
+				b_balesa={}
+				b_aleshta={}
+
+			}
+
+		}
+
+		d_hasana ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_hasanadorf ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_hasanadorf={}
+				b_wusesh={}
+				b_loroko={}
+				b_plenus={}
+				b_dorf_orog={}
+				b_agra_asa={}
+				b_weme_nash={}
+
+			}
+
+			c_denra ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_denra={}
+				b_luka={}
+				b_sueda={}
+				b_dorf_dosh={}
+				b_parva={}
+				b_aneru={}
+				b_lere_lara={}
+
+			}
+
+			c_kara_kara ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kara_kara={}
+				b_ledi_dorf={}
+				b_paedorf={}
+				b_belo={}
+				b_karosh={}
+				b_voloshu={}
+				b_tersha={}
+
+			}
+
+		}
+
+		d_granajh ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_mesal_alol ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mesal_alol={}
+				b_east_gerudo_ruins={}
+				b_maldaro={}
+				b_kele_saro={}
+				b_argasi={}
+				b_pala_lasha={}
+				b_arudorf={}
+
+			}
+
+			c_daval ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_daval={}
+				b_marvali={}
+				b_apodorf={}
+				b_helesu={}
+				b_adresi={}
+				b_volodorf={}
+				b_erodorf={}
+
+			}
+
+		}
+
+	}
+
+}
+
+e_holodrum = {
+	color={35 244 148}
+	color2={99 246 10}
+
+
+	allow = {
+	}
+
+	k_horon ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_yambi ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_clarnet ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_clarnet={}
+				b_jen={}
+				b_saeron={}
+				b_polsel={}
+				b_fenna={}
+				b_garew={}
+				b_dayne={}
+
+			}
+
+			c_netook ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_netook={}
+				b_efreabel={}
+				b_plonie={}
+				b_meslia={}
+				b_foron={}
+				b_keala={}
+				b_lessa={}
+
+			}
+
+			c_temto_hills ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_temto={}
+				b_lovena={}
+				b_katrimona={}
+				b_mansa={}
+				b_dew={}
+				b_ferealna={}
+				b_aegeth={}
+
+			}
+
+			c_spool_swamp ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_poison_moth's_lair={}
+				b_lanessa={}
+				b_hema={}
+				b_jydic={}
+				b_olodok={}
+				b_cramden={}
+				b_tevas={}
+
+			}
+
+			c_rabella ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rabella={}
+				b_beliney={}
+				b_kardu={}
+				b_namero={}
+				b_sahuron={}
+				b_leyloch={}
+				b_ganoe={}
+
+			}
+
+			c_karnsel ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_karnsel={}
+				b_metoke={}
+				b_rolno={}
+				b_deliza={}
+				b_slezuna={}
+				b_haske={}
+				b_ganae={}
+
+			}
+
+		}
+
+		d_katrew ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_samasa ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_samasa={}
+				b_xebo={}
+				b_xolin={}
+				b_oxiglax={}
+				b_xaresa={}
+				b_marex={}
+				b_boxra={}
+
+			}
+
+			c_jaenet ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_jaenet={}
+				b_lorbona={}
+				b_jorok={}
+				b_mudork={}
+				b_alesie={}
+				b_freiser={}
+				b_delles={}
+
+			}
+
+			c_kella ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kella={}
+				b_keyed={}
+				b_derory={}
+				b_visru={}
+				b_kendru={}
+				b_feian={}
+				b_yenah={}
+
+			}
+
+		}
+
+		d_daime ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_sonnie ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_sonnie={}
+				b_zoma={}
+				b_kaime={}
+				b_sla={}
+				b_lastica={}
+				b_baylen={}
+				b_nesa={}
+
+			}
+
+			c_sley ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_sley={}
+				b_morok={}
+				b_aevina={}
+				b_daven={}
+				b_afru={}
+				b_babenna={}
+				b_bothus={}
+
+			}
+
+			c_unicorn's_cave ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_unicorn's_cave={}
+				b_visla={}
+				b_uneron={}
+				b_cabel={}
+				b_kenna={}
+				b_zadena={}
+				b_malney={}
+
+			}
+
+			c_kair ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kair={}
+				b_orithork={}
+				b_boros={}
+				b_eldaney={}
+				b_seaona={}
+				b_kellarthi={}
+				b_herenos={}
+
+			}
+
+		}
+
+		d_horon_mountain_range ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_mt._cucco ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_castle_cucco={}
+				b_kakro={}
+				b_vina={}
+				b_kenu={}
+				b_herfair={}
+				b_casdeth={}
+				b_lannabel={}
+
+			}
+
+			c_mt._dunsel ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_castle_dunsel={}
+				b_fardu={}
+				b_vonne={}
+				b_eslaba={}
+				b_meakena={}
+				b_sagae={}
+				b_kodna={}
+
+			}
+
+			c_mt._onox ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_castle_onox={}
+				b_afrasie={}
+				b_skye={}
+				b_throndic={}
+				b_remate={}
+				b_laelisa={}
+				b_lodiley={}
+
+			}
+
+			c_mt._laime ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_castle_laime={}
+				b_lebair={}
+				b_lapena={}
+				b_kaves={}
+				b_kenjew={}
+				b_lasnu={}
+				b_salasi={}
+
+			}
+
+		}
+
+		d_melney ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_sunken_city ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_sunken_city={}
+				b_etga={}
+				b_blede={}
+				b_nerabhain={}
+				b_dain={}
+				b_marvey={}
+				b_kereli={}
+
+			}
+
+			c_natzu ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_natzu={}
+				b_lanzu={}
+				b_tema={}
+				b_pramay={}
+				b_korodenra={}
+				b_meldona={}
+				b_pasley={}
+
+			}
+
+			c_jeanna ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_jeanna={}
+				b_otol={}
+				b_leafar={}
+				b_medei={}
+				b_hareborn={}
+				b_yarnko={}
+				b_cleroc={}
+
+			}
+
+			c_skaba ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_skaba={}
+				b_ekkain={}
+				b_lopsu={}
+				b_scarisla={}
+				b_haredek={}
+				b_sargonth={}
+				b_loremto={}
+
+			}
+
+		}
+
+		d_ransel ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_horon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_horon_village={}
+				b_prema_atook={}
+				b_vabrina={}
+				b_lorop={}
+				b_sorthu={}
+				b_fenae={}
+				b_bela={}
+
+			}
+
+			c_byde ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_byde={}
+				b_crenleu={}
+				b_bina={}
+				b_zelleanna={}
+				b_reble={}
+				b_foronisla={}
+				b_atook_lodrum={}
+
+			}
+
+			c_lezar ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rem_lezar={}
+				b_mereron={}
+				b_rabeto={}
+				b_ked={}
+				b_larun={}
+				b_kamma={}
+				b_nerti={}
+
+			}
+
+		}
+
+		d_deana ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_holly ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_holly={}
+				b_hedbeth={}
+				b_aeme={}
+				b_ikodru={}
+				b_orela={}
+				b_peth={}
+				b_kananel={}
+
+			}
+
+			c_halen ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_halen={}
+				b_nepzu={}
+				b_chairon={}
+				b_exoderon={}
+				b_askame={}
+				b_deiesara={}
+				b_nachaken={}
+
+			}
+
+			c_horon_cemetery ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_explorer's_crypt={}
+				b_manoeuk={}
+				b_faronke={}
+				b_crusadas={}
+				b_keng={}
+				b_notrealne={}
+				b_seva={}
+
+			}
+
+			c_kamden ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kamden={}
+				b_nean_neden={}
+				b_macosh={}
+				b_wenlane={}
+				b_bremene={}
+				b_aledru={}
+				b_vudork={}
+
+			}
+
+		}
+	}
+
+	k_tolemac ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_taran_pass ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_tarin_ruins ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_tarin_ruins={}
+				b_ochleben={}
+				b_eskry={}
+				b_tarm's_tears={}
+				b_shattered_stone={}
+				b_lorikuch={}
+				b_brenno={}
+
+			}
+
+			c_glutko ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_glutko_face={}
+				b_wedrablen={}
+				b_fargalon={}
+				b_nethem={}
+				b_odrasen={}
+				b_keama={}
+				b_nenlen={}
+
+			}
+
+			c_torian ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_torian={}
+				b_base={}
+				b_kearnu={}
+				b_demusalon={}
+				b_bremanon={}
+				b_glutko's_toilet={}
+				b_unicron's_fountain={}
+
+			}
+
+			c_andor ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_andor={}
+				b_foresblin={}
+				b_jarin={}
+				b_kiena={}
+				b_skydric={}
+				b_secret_spot={}
+				b_releu={}
+
+			}
+
+			c_ogbam ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ogbam={}
+				b_bogblin={}
+				b_minblin={}
+				b_fendan={}
+				b_zelfadri={}
+				b_vaben={}
+				b_not_so_secret_spot={}
+
+			}
+
+			c_shrine_of_vision ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_brenno={}
+				b_deidru={}
+				b_rarok={}
+				b_den={}
+				b_teirad={}
+				b_mescu={}
+				b_slim_shady={}
+
+			}
+
+		}
+
+		d_reballa_wetwoods ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_reballa_ruins ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_reballa_ruins={}
+				b_balsnik={}
+				b_kerkit={}
+				b_kala_holodrum={}
+				b_deswa={}
+				b_olek_dondra={}
+				b_siata={}
+
+			}
+
+			c_jolenda ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_jolenda={}
+				b_alebin={}
+				b_dozar={}
+				b_kanetol={}
+				b_latzi={}
+				b_frasia={}
+				b_geira={}
+
+			}
+
+			c_casia ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_casia={}
+				b_leka={}
+				b_bino={}
+				b_rokoy={}
+				b_peretri={}
+				b_aldatz={}
+				b_vramik={}
+
+			}
+
+			c_canvula ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_canvula={}
+				b_lonala={}
+				b_kongen={}
+				b_fetze={}
+				b_pakena={}
+				b_urohin={}
+				b_enik={}
+
+			}
+
+			c_eurolesia ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_eurolesia={}
+				b_caldona={}
+				b_weskia={}
+				b_mareki={}
+				b_orin={}
+				b_gerukala={}
+				b_botzli={}
+
+			}
+
+		}
+
+		d_southern_lost_woods ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_hickaly ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_hickaly={}
+				b_gozalia={}
+				b_morepi={}
+				b_theryk={}
+				b_vona={}
+				b_leshia={}
+				b_eili={}
+
+			}
+
+			c_holodrum_spring ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_holodrum_spring={}
+				b_uryk={}
+				b_lomonik={}
+				b_serocco={}
+				b_loftli={}
+				b_siaolesi={}
+				b_lantea={}
+
+			}
+
+			c_akla ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_akla={}
+				b_akkale={}
+				b_starfo={}
+				b_canjo={}
+				b_judruthu={}
+				b_flei={}
+				b_malue={}
+
+			}
+
+			c_verek ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_verek={}
+				b_tozo={}
+				b_denig={}
+				b_neutzli={}
+				b_eryka={}
+				b_jola={}
+				b_fendra={}
+
+			}
+
+		}
+
+		d_tarm_woods ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_tarm_ruins ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_tarm_ruins={}
+				b_shrine_of_illusion={}
+				b_navzalia={}
+				b_wodra={}
+				b_aerek={}
+				b_wholtol={}
+				b_tarmlia={}
+
+			}
+
+			c_findo ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_findo={}
+				b_gano={}
+				b_forede={}
+				b_faina={}
+				b_kotzi={}
+				b_rydona={}
+				b_sendrea={}
+
+			}
+
+			c_skotness ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_skotness={}
+				b_minik={}
+				b_longpek={}
+				b_ekkela={}
+				b_sazi={}
+				b_lelry={}
+				b_surila={}
+
+			}
+
+			c_wimbich ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_wimbich={}
+				b_verot={}
+				b_lanamor={}
+				b_valanevi={}
+				b_jenuas={}
+				b_oflein={}
+				b_noto={}
+
+			}
+
+		}
+
+		d_paetra ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_ubato ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ubato={}
+				b_watzi={}
+				b_yabota={}
+				b_ereb={}
+				b_rablem={}
+				b_skoroc={}
+				b_mornkala={}
+
+			}
+
+			c_vendoss ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_vendoss={}
+				b_merendoss={}
+				b_devlia={}
+				b_keren={}
+				b_lijasia={}
+				b_coveti={}
+				b_nurano={}
+
+			}
+
+			c_boruna ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_boruna={}
+				b_edesaro={}
+				b_alek_holod={}
+				b_welanda={}
+				b_rocloft={}
+				b_kaliena={}
+				b_jelblin={}
+
+			}
+
+			c_hobel ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_hobel={}
+				b_mapztu={}
+				b_ienba={}
+				b_rekre={}
+				b_redgena={}
+				b_kalia={}
+				b_endrok={}
+
+			}
+
+		}
+
+	}
+
+}
+
+e_hyrule = {
+	color={35 244 148}
+	color2={99 246 10}
+
+
+	allow = {
+	}
+
+	k_north_hyrule ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_ludfo ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_illumeni_plateau ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_castle_rhoam={}
+				b_dolash={}
+				b_mokian={}
+				b_sodru={}
+				b_hantus={}
+				b_maroniko={}
+				b_therion={}
+
+			}
+
+			c_rhoamos ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rhoamos={}
+				b_gothem={}
+				b_peth={}
+				b_lorcadi={}
+				b_aedjaro={}
+				b_hamto={}
+				b_honlorn={}
+
+			}
+
+			c_illumeni ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_illumeni={}
+				b_eluria={}
+				b_tonalen={}
+				b_dodrian={}
+				b_crumle={}
+				b_reylon={}
+				b_diero={}
+
+			}
+
+			c_jeddo ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_jeddo={}
+				b_gedron={}
+				b_jathen={}
+				b_drion={}
+				b_eraeon={}
+				b_terakeni={}
+				b_driron={}
+
+			}
+
+			c_regencia ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_regencia={}
+				b_lerariko={}
+				b_ferendia={}
+				b_ciare={}
+				b_kuhn={}
+				b_dami={}
+				b_ana={}
+
+			}
+
+			c_maritta ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_maritta={}
+				b_ayr={}
+				b_guna={}
+				b_meah={}
+				b_katdi={}
+				b_ruroda={}
+				b_deredorn={}
+
+			}
+
+		}
+
+		d_rowan_plain ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_aldor ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_aldor={}
+				b_melekor={}
+				b_ohdam={}
+				b_rondhi={}
+				b_lodorriko={}
+				b_emtha={}
+				b_gustavu={}
+
+			}
+
+			c_hathad ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_hathad={}
+				b_kadriko={}
+				b_villa_naci={}
+				b_rocion={}
+				b_len={}
+				b_orode={}
+				b_azest={}
+
+			}
+
+			c_ratha ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ratha={}
+				b_kerariko={}
+				b_daray={}
+				b_niaro={}
+				b_therojaro={}
+				b_diro={}
+				b_aerov={}
+
+			}
+
+		}
+
+		d_vigjaro_valley ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_audorn ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_audorn={}
+				b_bandit's_cove={}
+				b_kadron={}
+				b_divejaro={}
+				b_nanno={}
+				b_rafos={}
+				b_foevre={}
+
+			}
+
+			c_vigjaro ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_vigjaro={}
+				b_stean={}
+				b_vreges={}
+				b_seusor={}
+				b_oreav={}
+				b_adel={}
+				b_melh={}
+
+			}
+
+			c_valkariko ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_valkariko={}
+				b_yosjaro={}
+				b_trule={}
+				b_amnre={}
+				b_modenal={}
+				b_kede={}
+				b_salronay={}
+
+			}
+
+			c_atoth ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_atoth={}
+				b_medret={}
+				b_kytho={}
+				b_thorredo={}
+				b_rohlu={}
+				b_coderos={}
+				b_neth={}
+
+			}
+
+		}
+
+		d_haron ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_villa_harkinian ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_villa_harkinian={}
+				b_varki={}
+				b_lenra={}
+				b_azusos={}
+				b_roser={}
+				b_gurederos={}
+				b_drandeme={}
+
+			}
+
+			c_great_hyrule_forest ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mohyjaro={}
+				b_elevaro={}
+				b_leceieth={}
+				b_medder={}
+				b_rekin={}
+				b_jhoas={}
+				b_viannor={}
+
+			}
+
+			c_hycia ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_hycia={}
+				b_nasedia={}
+				b_marro={}
+				b_syallza={}
+				b_daquamme={}
+				b_bronnas={}
+				b_delthos={}
+
+			}
+
+		}
+
+		d_hebra ={
+			color={238 104 57}
+			color2={220 196 63}
+
+		}
+
+			c_snowpeak ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_snowpeak={}
+				b_alashe={}
+				b_rurenkio={}
+				b_palen={}
+				b_lakoveni={}
+				b_larhey={}
+				b_luria={}
+
+			}
+
+			c_terenkio ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_terenkio={}
+				b_jalin={}
+				b_ponlon={}
+				b_darpith={}
+				b_woth={}
+				b_poriko={}
+				b_bontha={}
+
+			}
+
+			c_ariel ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ariel={}
+				b_releon={}
+				b_dore={}
+				b_birojaro={}
+				b_korloh={}
+				b_areko={}
+				b_jeriko={}
+
+			}
+
+	}
+
+	k_middle_hyrule ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_hylith_ceore ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_gundrumether ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_castle_town={}
+				b_hyrule_castle={}
+				b_temple_of_time={}
+				b_east_district={}
+				b_west_district={}
+				b_marketplace={}
+				b_hyrule_barracks={}
+
+			}
+
+			c_nylia ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nylia={}
+				b_yenayra={}
+				b_kren={}
+				b_poridia={}
+				b_derelue={}
+				b_dumla={}
+				b_capesth={}
+
+			}
+
+			c_sogoriko ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_sogoriko={}
+				b_loporiko={}
+				b_dyrelon={}
+				b_dardey={}
+				b_erekk={}
+				b_mederoea={}
+				b_cinaden={}
+
+			}
+
+			c_oredo ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_oredo={}
+				b_malvakari={}
+				b_ordonaki={}
+				b_eamus={}
+				b_zarard={}
+				b_arrdin={}
+				b_treninass={}
+
+			}
+
+		}
+
+		d_sedena ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_trinas ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_trinas={}
+				b_lahnneth={}
+				b_raelode={}
+				b_telorhn={}
+				b_camorae={}
+				b_peajaro={}
+				b_celdenveld={}
+
+			}
+
+			c_irch ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_irch={}
+				b_jurecho={}
+				b_heinthon={}
+				b_dawimaro={}
+				b_lukas={}
+				b_lethoam={}
+				b_orofor={}
+
+			}
+
+			c_salari ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_salari={}
+				b_poeple={}
+				b_gallore={}
+				b_vifijaro={}
+				b_lakariko={}
+				b_nepeth={}
+				b_urocia={}
+
+			}
+
+		}
+
+		d_nayteno ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_letradi ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_letradi={}
+				b_chrembla={}
+				b_jaronlon={}
+				b_erethorn={}
+				b_leglar={}
+				b_wimble={}
+				b_raol={}
+
+			}
+
+			c_raulom ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_raulom={}
+				b_roaban={}
+				b_olledown={}
+				b_papariko={}
+				b_kaladero={}
+				b_mettra={}
+				b_rorodad={}
+
+			}
+
+			c_heruna ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_heruna={}
+				b_kien={}
+				b_laoden={}
+				b_avnu={}
+				b_thoramus={}
+				b_enamadi={}
+				b_teleteno={}
+
+			}
+
+		}
+
+		d_malsiera ={
+			color={238 104 57}
+			color2={220 196 63}
+
+		}
+
+			c_stratveni ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_stratveni={}
+				b_sollcea={}
+				b_lehtus={}
+				b_erebrion={}
+				b_kelilom={}
+				b_ayfon={}
+				b_kalya={}
+
+			}
+
+			c_darangar ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_darangar={}
+				b_lalamaro={}
+				b_wathen={}
+				b_ononeno={}
+				b_ronmaron={}
+				b_madinza={}
+				b_ontha={}
+
+			}
+
+			c_rodgud ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rogrud={}
+				b_merebuohn={}
+				b_vannalin={}
+				b_tilore={}
+				b_dhorlon={}
+				b_kathorn={}
+				b_eredarm={}
+
+			}
+
+	}
+
+	k_west_hyrule ={
+		color={240 232 109}
+		color2={240 155 109}
+
+	}
+
+		d_passeri ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_dalite ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_sanidin={}
+				b_manhala={}
+				b_safula={}
+				b_tandlin={}
+				b_kajron={}
+				b_tuva={}
+				b_veveres={}
+
+			}
+
+			c_mt._daphnes ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mount_daphnes={}
+				b_daphnes={}
+				b_leiriko={}
+				b_annumas={}
+				b_rogkinia={}
+				b_luntus={}
+				b_laidin={}
+
+			}
+
+			c_aquame ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_aquame={}
+				b_verariko={}
+				b_alsen={}
+				b_dulia={}
+				b_elmarron={}
+				b_kahnhan={}
+				b_falknu={}
+
+			}
+
+			c_yarna ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_yarna={}
+				b_yarnasoth={}
+				b_ayron={}
+				b_sadlin={}
+				b_hatlen={}
+				b_haldor={}
+				b_beckla={}
+
+			}
+
+			c_lodria ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_lordia={}
+				b_julla={}
+				b_krumda={}
+				b_aenika={}
+				b_bauveca={}
+				b_malinlon={}
+				b_laicard={}
+
+			}
+
+		}
+
+		d_naldor ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_naldariko ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_naldariko={}
+				b_naldari={}
+				b_annian={}
+				b_jirousen={}
+				b_yolin={}
+				b_youda={}
+				b_tethru={}
+
+			}
+
+			c_omeriko ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_omeriko={}
+				b_sarlith={}
+				b_aishi={}
+				b_ryalza={}
+				b_emithon={}
+				b_younan={}
+				b_jinjaro={}
+
+			}
+
+			c_madijaro ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_madijaro={}
+				b_marirelu={}
+				b_kurveni={}
+				b_satamoth={}
+				b_karetham={}
+				b_koharey={}
+				b_airedo={}
+
+			}
+
+		}
+
+		d_moria ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_moriko ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_moriko={}
+				b_chana={}
+				b_cleru={}
+				b_fleurada={}
+				b_maldlin={}
+				b_martus={}
+				b_gires={}
+
+			}
+
+			c_maramos ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_maramos={}
+				b_generiko={}
+				b_cludo={}
+				b_marramus={}
+				b_nicarthon={}
+				b_charlashi={}
+				b_coruna={}
+
+			}
+
+			c_mt._gustaf ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mount_gustaf={}
+				b_huc={}
+				b_daltin={}
+				b_aycel={}
+				b_fallas={}
+				b_rhonelle={}
+				b_synon={}
+
+			}
+
+		}
+
+		d_ardeleth ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_rumlore ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rumlore={}
+				b_laya={}
+				b_dabda={}
+				b_casru={}
+				b_marule={}
+				b_danres={}
+				b_esdrim={}
+
+			}
+
+			c_annohn ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_annohn={}
+				b_dorada={}
+				b_elkian={}
+				b_dandlia={}
+				b_joaden={}
+				b_kevashi={}
+				b_lenk={}
+
+			}
+
+			c_aydou ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_aydou={}
+				b_lonk={}
+				b_berendru={}
+				b_flortus={}
+				b_belza={}
+				b_ganron={}
+				b_koemaro={}
+
+			}
+
+		}
+
+		d_kodredo ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_kolomo ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kolomo={}
+				b_trollunas={}
+				b_ellea={}
+				b_aquakus={}
+				b_doama={}
+				b_danuno={}
+				b_lorez={}
+
+			}
+
+			c_gatepost ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_gatepost={}
+				b_ayaro={}
+				b_baum={}
+				b_helmaro={}
+				b_kegou={}
+				b_abetho={}
+				b_eldred={}
+
+			}
+
+			c_vorab ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_vorab={}
+				b_kalthem={}
+				b_havan={}
+				b_jespen={}
+				b_dorise={}
+				b_adrianus={}
+				b_keese={}
+
+			}
+
+			c_natdo ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_natdo={}
+				b_koronthela={}
+				b_iehento={}
+				b_isayron={}
+				b_pimlicia={}
+				b_joralu={}
+				b_modrenan={}
+
+			}
+
+		}
+
+		d_illumeni_hills ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_rutile ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rutile={}
+				b_foren={}
+				b_doriamadi={}
+				b_yoredio={}
+				b_tholonoam={}
+				b_aritarrey={}
+				b_foruveni={}
+
+			}
+
+			c_satori_spring ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_satori_spring={}
+				b_zucafon={}
+				b_arcanon={}
+				b_valomoth={}
+				b_brogrodia={}
+				b_oreothoam={}
+				b_ravath={}
+
+			}
+
+			c_arcad ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_arcad={}
+				b_daronlus={}
+				b_rukari={}
+				b_porelu={}
+				b_leruohn={}
+				b_lobodria={}
+				b_yorea={}
+
+			}
+
+			c_nima ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nima={}
+				b_prerelon={}
+				b_rotonagar={}
+				b_erefradi={}
+				b_zamardi={}
+				b_veraputh={}
+				b_azakoe={}
+
+			}
+
+			c_ramus ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ramus={}
+				b_dadnes={}
+				b_rormaru={}
+				b_serajaro={}
+				b_nerio={}
+				b_uinra={}
+				b_leledi={}
+
+			}
+
+		}
+
+	k_south_hyrule ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_malkori ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_malkariko ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_malkariko={}
+				b_malkari={}
+				b_helke={}
+				b_inlia={}
+				b_loronlia={}
+				b_doroelin={}
+				b_klaza={}
+
+			}
+
+			c_sorkariko ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_sorkariko={}
+				b_johlom={}
+				b_kargou={}
+				b_leoteno={}
+				b_finylin={}
+				b_gikariko={}
+				b_bruton={}
+
+			}
+
+			c_hylenen ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_hylenen={}
+				b_lothnas={}
+				b_florcia={}
+				b_poleden={}
+				b_sparadai={}
+				b_marlthon={}
+				b_dietho={}
+
+			}
+
+			c_reylon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_reylon={}
+				b_ingephon={}
+				b_berthatop={}
+				b_rhidam={}
+				b_sofer={}
+				b_kytop={}
+				b_leith={}
+
+			}
+
+		}
+
+		d_nohan's_rest ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_hylia_marine ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_hylia={}
+				b_lieku={}
+				b_aredof={}
+				b_hyleban={}
+				b_eizak={}
+				b_darlfon={}
+				b_peruriko={}
+
+			}
+
+			c_parisade ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_parisade={}
+				b_narudume={}
+				b_yannel={}
+				b_alguou={}
+				b_oewind={}
+				b_moredo={}
+				b_mevajaro={}
+
+			}
+
+			c_cianaro ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_cianaro={}
+				b_bernidai={}
+				b_feralore={}
+				b_orophardi={}
+				b_kalveni={}
+				b_nellenoam={}
+				b_sabine={}
+
+			}
+
+			c_hylia_island ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_water_temple={}
+				b_rinban={}
+				b_meriloam={}
+				b_gaumaron={}
+				b_krathon={}
+				b_keranas={}
+				b_cieriko={}
+
+			}
+
+			c_stalry_plateau ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_stalry={}
+				b_kariko={}
+				b_nerecdia={}
+				b_ronlu={}
+				b_garafon={}
+				b_orodi={}
+				b_lashadi={}
+
+			}
+
+		}
+
+		d_lon ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_lona ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_lon_gate={}
+				b_eleriko={}
+				b_nasjaro={}
+				b_lutho={}
+				b_aulia={}
+				b_colnan={}
+				b_kingou={}
+
+			}
+
+			c_lon_lon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_lon_lon_ranch={}
+				b_colnzak={}
+				b_wilme={}
+				b_layriko={}
+				b_carza={}
+				b_adcia={}
+				b_malfon={}
+
+			}
+
+			c_mabe ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mabe={}
+				b_mandon={}
+				b_lowmaro={}
+				b_scarmus={}
+				b_hudlom={}
+				b_cyralu={}
+				b_everthon={}
+
+			}
+
+			c_melkas ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_melkas={}
+				b_brearon={}
+				b_dineron={}
+				b_delthen={}
+				b_auno={}
+				b_talojaro={}
+				b_greylore={}
+
+			}
+
+			c_telon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_telon={}
+				b_kudrey={}
+				b_follon={}
+				b_elhodria={}
+				b_ilepith={}
+				b_junarey={}
+				b_lensveni={}
+
+			}
+
+			c_jonadi ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_jonadi={}
+				b_hatham={}
+				b_addimoth={}
+				b_reyphadi={}
+				b_tanalet={}
+				b_ruohnjaro={}
+				b_terholon={}
+
+			}
+
+		}
+
+		d_great_plateau ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_rauru ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rauru={}
+				b_maslia={}
+				b_iemdria={}
+				b_welltrinon={}
+				b_zelnoam={}
+				b_avernoth={}
+				b_kazel={}
+
+			}
+
+			c_othry ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_othrynon={}
+				b_othry={}
+				b_ladinalin={}
+				b_lynfon={}
+				b_lethdo={}
+				b_skillotho={}
+				b_eldai={}
+
+			}
+
+			c_forest_of_spirits ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_edroh={}
+				b_meslera={}
+				b_toremadi={}
+				b_colthrynon={}
+				b_helogou={}
+				b_noedroredo={}
+				b_varmeron={}
+
+			}
+
+			c_arlohn ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_arlohn={}
+				b_kerajaro={}
+				b_colenlin={}
+				b_haeyron={}
+				b_jalothen={}
+				b_maredriko={}
+				b_lozakk={}
+
+			}
+
+		}
+
+		d_windwane ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_namadi ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_namadi={}
+				b_grou={}
+				b_portsiera={}
+				b_urb={}
+				b_forotham={}
+				b_kelom={}
+				b_cythop={}
+
+			}
+
+			c_rondru ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rondru={}
+				b_themdoth={}
+				b_wern={}
+				b_liedor={}
+				b_ankiriko={}
+				b_hedfon={}
+				b_norlia={}
+
+			}
+
+			c_veni ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_veni={}
+				b_narinor={}
+				b_tamlu={}
+				b_voreophomus={}
+				b_yanemada={}
+				b_melommaro={}
+				b_greinan={}
+
+			}
+
+			c_telu ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_telu={}
+				b_cartho={}
+				b_lezakk={}
+				b_jarloriko={}
+				b_donythron={}
+				b_reredoth={}
+				b_brayu={}
+
+			}
+
+		}
+
+	}
+
+	k_east_hyrule ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_batrea ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_nabi ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nabi={}
+				b_actha={}
+				b_annisno={}
+				b_covendai={}
+				b_darreldo={}
+				b_coel={}
+				b_cathfon={}
+
+			}
+
+			c_eagus ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_eagus={}
+				b_jodiemadi={}
+				b_drenriko={}
+				b_eactop={}
+				b_aethellu={}
+				b_bannitho={}
+				b_barcia={}
+
+			}
+
+			c_owlan ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_owlan={}
+				b_belmaro={}
+				b_healnon={}
+				b_gythamo={}
+				b_ceayron={}
+				b_kadthen={}
+				b_balfeld={}
+
+			}
+
+			c_tonalin ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_tonalin={}
+				b_accennan={}
+				b_daiken={}
+				b_kearuriko={}
+				b_ticmaro={}
+				b_dearamus={}
+				b_valom={}
+
+			}
+
+			c_horwell ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_horwell={}
+				b_jayen={}
+				b_codicia={}
+				b_latdari={}
+				b_peadeno={}
+				b_kreomadi={}
+				b_adaoveni={}
+
+			}
+
+		}
+
+		d_tona ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_srarjaro ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_srarjaro={}
+				b_josveni={}
+				b_selehnoam={}
+				b_miknon={}
+				b_zerallia={}
+				b_plateth={}
+				b_leadreme={}
+
+			}
+
+			c_orelia ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_orelia={}
+				b_tiariko={}
+				b_renshi={}
+				b_tosbres={}
+				b_jerojaro={}
+				b_puruluno={}
+				b_peltrin={}
+
+			}
+
+			c_mahmaro ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mahmaro={}
+				b_kerorauru={}
+				b_kindin={}
+				b_rulelia={}
+				b_rarkdus={}
+				b_lendzatharon={}
+				b_jren={}
+
+			}
+
+		}
+
+		d_baumer ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_arthos ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_arthos={}
+				b_wemil={}
+				b_premcad={}
+				b_yaneme={}
+				b_lebia={}
+				b_braia={}
+				b_darakon={}
+
+			}
+
+			c_proxim ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_proxim={}
+				b_heksom_woods={}
+				b_eratoren={}
+				b_lurinc={}
+				b_hyrelle={}
+				b_vaning={}
+				b_marbert={}
+
+			}
+
+			c_scout's_hill ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_arthon={}
+				b_aowulf={}
+				b_amecea={}
+				b_damelriko={}
+				b_madewyn={}
+				b_neclay={}
+				b_lacate={}
+
+			}
+
+			c_whistling_hills ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_whistling_hills={}
+				b_kunowel={}
+				b_doranlin={}
+				b_sybeld={}
+				b_natritina={}
+				b_korostheg={}
+				b_cauyen={}
+
+			}
+
+		}
+
+		d_danitres ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_kosrome ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kosrome={}
+				b_haiken={}
+				b_bosbert={}
+				b_loginth={}
+				b_kathelle={}
+				b_roedhelm={}
+				b_golnis={}
+
+			}
+
+			c_ronantho ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ronatho={}
+				b_aceric={}
+				b_eadme={}
+				b_maroca={}
+				b_feldenriko={}
+				b_lomnannis={}
+				b_riona={}
+
+			}
+
+			c_bruohn ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_bruohn={}
+				b_goldurenc={}
+				b_thynon={}
+				b_loambeld={}
+				b_fedien={}
+				b_thorod={}
+				b_koven={}
+
+			}
+
+		}
+
+		d_variko ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_deya ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_deya={}
+				b_hacrend={}
+				b_laedmon={}
+				b_kelic={}
+				b_thannes={}
+				b_nealoriko={}
+				b_beau={}
+
+			}
+
+			c_squabble ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_squabble={}
+				b_poperon={}
+				b_kaethel={}
+				b_them={}
+				b_lorwolf={}
+				b_yeccith={}
+				b_cate={}
+
+			}
+
+			c_thonlon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_thonlon={}
+				b_cennan={}
+				b_meala={}
+				b_kordomon={}
+				b_frethlin={}
+				b_bredme={}
+				b_forten={}
+
+			}
+
+			c_wardi ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_wardi={}
+				b_ogoriko={}
+				b_venita={}
+				b_welac={}
+				b_valeriko={}
+				b_kealthro={}
+				b_cordoroth={}
+
+			}
+
+		}
+
+		d_nado ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_rikoka ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rikoka={}
+				b_zorkoro={}
+				b_leshban={}
+				b_mia={}
+				b_defjaro={}
+				b_relle={}
+				b_edobort={}
+
+			}
+
+			c_tarrey ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_tarrey={}
+				b_castle_tarrey={}
+				b_saleyri_point={}
+				b_weludia={}
+				b_lothry={}
+				b_taveni={}
+				b_leahko={}
+
+			}
+
+			c_nabooru ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nabooru={}
+				b_pageau_way={}
+				b_delucia={}
+				b_radia={}
+				b_drorna={}
+				b_staryu={}
+				b_donoriko={}
+
+			}
+
+			c_toras ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_toras={}
+				b_hoebra={}
+				b_joesro={}
+				b_dennojaro={}
+				b_hebmadi={}
+				b_paraber={}
+				b_uddenu={}
+
+			}
+
+		}
+
+		d_lerova ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_dena ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_dema={}
+				b_porlemo={}
+				b_merobray={}
+				b_kedlin={}
+				b_veuers={}
+				b_asadea={}
+				b_naptes={}
+
+			}
+
+			c_nattna ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nattna={}
+				b_lirovek={}
+				b_lathi={}
+				b_coreleo={}
+				b_sararga={}
+				b_leredeli={}
+				b_eigra={}
+
+			}
+
+			c_alde ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_alde={}
+				b_stedarm={}
+				b_kares={}
+				b_breksong={}
+				b_markeon={}
+				b_adrakk={}
+				b_poroe={}
+
+			}
+
+		}
+
+		d_rumel ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_thims ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_thims={}
+				b_warloh={}
+				b_kereanock={}
+				b_varreck={}
+				b_lienos={}
+				b_areodaio={}
+				b_ladli={}
+
+			}
+
+			c_panoam ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_panoam={}
+				b_ceralari={}
+				b_nontego={}
+				b_welda={}
+				b_thringl={}
+				b_wind_wanker={}
+				b_angel_falls={}
+
+			}
+
+			c_orsedd ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_orsedd={}
+				b_codia={}
+				b_rolfos={}
+				b_anedigma={}
+				b_lagarri={}
+				b_saeld={}
+				b_norron={}
+
+			}
+
+			c_rebonae ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rebonae={}
+				b_parcade={}
+				b_seredago={}
+				b_kormali={}
+				b_zelba={}
+				b_ted={}
+				b_lorenzo={}
+
+			}
+
+		}
+
+		d_rayo ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_harknon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_harknon={}
+				b_lele={}
+				b_ponser={}
+				b_jairo={}
+				b_katda={}
+				b_kode={}
+				b_lairs={}
+
+			}
+
+			c_morevani ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_morevani={}
+				b_mereo={}
+				b_kegra={}
+				b_naldriko={}
+				b_heikareko={}
+				b_noreriko={}
+				b_mareau={}
+
+			}
+
+			c_kobeni ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kobeni={}
+				b_hrotaen={}
+				b_yunnis={}
+				b_egadari={}
+				b_cusader={}
+				b_laesander={}
+				b_wereg={}
+
+			}
+
+		}
+
+	}
+
+}
+
+e_kokiri = {
+	color={35 244 148}
+	color2={99 246 10}
+
+
+	allow = {
+	}
+
+	k_baga_woods ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_remoth ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_rimela ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rimela={}
+				b_dira={}
+				b_maledo={}
+				b_dise={}
+				b_tido={}
+				b_fasolla={}
+				b_darial={}
+
+			}
+
+			c_midora ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_midora={}
+				b_fite={}
+				b_solla={}
+				b_doremi={}
+				b_lalite={}
+				b_misolle={}
+				b_ledo={}
+
+			}
+
+			c_dark_ruins ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_dark_palace={}
+				b_rado={}
+				b_masera={}
+				b_lifami={}
+				b_tisedo={}
+				b_tesol={}
+				b_rora={}
+
+			}
+
+		}
+
+		d_othran ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_bando ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_bando={}
+				b_reta={}
+				b_mili={}
+				b_solti={}
+				b_fise={}
+				b_dora={}
+				b_kulria={}
+
+			}
+
+			c_baga ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_baga={}
+				b_merami={}
+				b_solledo={}
+				b_dote={}
+				b_meleti={}
+				b_mita={}
+				b_lendo={}
+
+			}
+
+			c_mareti ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mareti={}
+				b_rari={}
+				b_mila={}
+				b_direme={}
+				b_famiti={}
+				b_tareri={}
+				b_sora={}
+
+			}
+
+			c_lare ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_lare={}
+				b_mele={}
+				b_tila={}
+				b_lela={}
+				b_fase={}
+				b_doti={}
+				b_peto={}
+
+			}
+
+		}
+
+	}
+
+	k_kokiri_forest ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_ruohn ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_fami ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_fami={}
+				b_doreta={}
+				b_mirase={}
+				b_resi={}
+				b_lime={}
+				b_lasire={}
+				b_erado={}
+
+			}
+
+			c_sacred_grove ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_forest_temple={}
+				b_mirale={}
+				b_tasolle={}
+				b_tirela={}
+				b_lasol={}
+				b_ramili={}
+				b_lulnola={}
+
+			}
+
+			c_kanokiri ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kanokiri={}
+				b_kanokiri_redoubt={}
+				b_fido={}
+				b_lateri={}
+				b_sisol={}
+				b_solsi={}
+				b_defa={}
+
+			}
+
+			c_masolna ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_masolna={}
+				b_selema={}
+				b_tili={}
+				b_tilesol={}
+				b_solmare={}
+				b_dofi={}
+				b_kaedo={}
+
+			}
+
+		}
+
+		d_rasphadi ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_rimala ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rimala={}
+				b_falaro={}
+				b_domiso={}
+				b_sodomi={}
+				b_mirali={}
+				b_farati={}
+				b_fera={}
+
+			}
+
+			c_saria ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_saria={}
+				b_late={}
+				b_redofa={}
+				b_dorefa={}
+				b_malari={}
+				b_domi={}
+				b_nealari={}
+
+			}
+
+			c_mido ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mido={}
+				b_fadore={}
+				b_resime={}
+				b_remita={}
+				b_ramemi={}
+				b_tisolma={}
+				b_sarol={}
+
+			}
+
+		}
+
+		d_falmar ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_kasuto ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kasuto={}
+				b_mala={}
+				b_lira={}
+				b_solleti={}
+				b_retila={}
+				b_letaso={}
+				b_theria={}
+
+			}
+
+			c_rela ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rela={}
+				b_domite={}
+				b_dirime={}
+				b_leta={}
+				b_sele={}
+				b_tile={}
+				b_dalley={}
+
+			}
+
+		}
+
+		d_kochi ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_korkoro ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_korkoro={}
+				b_sila={}
+				b_liti={}
+				b_relama={}
+				b_leti={}
+				b_dosol={}
+				b_nenora={}
+
+			}
+
+			c_mifa ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mifa={}
+				b_rati={}
+				b_famili={}
+				b_tileme={}
+				b_tami={}
+				b_sefi={}
+				b_hado={}
+
+			}
+
+			c_deepwood ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_deepwood={}
+				b_serami={}
+				b_sire={}
+				b_meli={}
+				b_tamire={}
+				b_mirame={}
+				b_leyria={}
+
+			}
+
+	}
+
+	k_lost_woods ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_skull_woods ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_lost_grove ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_lost_grove={}
+				b_sollire={}
+				b_tira={}
+				b_liresol={}
+				b_solrati={}
+				b_tisolli={}
+				b_perali={}
+
+			}
+
+			c_skull_grove ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_skull_grove={}
+				b_fasi={}
+				b_sido={}
+				b_liredo={}
+				b_soldori={}
+				b_dosol={}
+				b_ororia={}
+
+			}
+
+			c_kokiri_spring ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kokiri_spring={}
+				b_medi={}
+				b_larate={}
+				b_ladote={}
+				b_tedo={}
+				b_medoli={}
+				b_lido={}
+
+			}
+
+		}
+
+		d_minish_woods ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_crenel ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mount_crenel={}
+				b_melari_mine={}
+				b_cave_of_flames={}
+				b_gentel={}
+				b_melal={}
+				b_chilo={}
+				b_sardo={}
+
+			}
+
+			c_minshi ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_minshi={}
+				b_picarou={}
+				b_pico={}
+				b_bela={}
+				b_chi={}
+				b_festel={}
+				b_neddo={}
+
+			}
+
+			c_picoru ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_picoru={}
+				b_cilori={}
+				b_vaal={}
+				b_jota={}
+				b_libra={}
+				b_gohda={}
+				b_kerora={}
+
+			}
+
+		}
+
+		d_dunsel_woods ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_fort_dunsel ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_dunsel={}
+				b_drogablin={}
+				b_oinker={}
+				b_keju={}
+				b_lolblin={}
+				b_korgalon={}
+				b_ketko={}
+
+			}
+
+			c_molblin ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_molblin={}
+				b_ropablin={}
+				b_oblen={}
+				b_ralon={}
+				b_dohblin={}
+				b_zanon={}
+				b_logalon={}
+
+			}
+
+			c_prach ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_prach={}
+				b_skurublin={}
+				b_tiocessa={}
+				b_cesseblin={}
+				b_bogablin={}
+				b_gelon={}
+				b_nosblin={}
+
+			}
+
+		}
+
+	}
+
+}
+
+e_labrynna = {
+	color={35 244 148}
+	color2={99 246 10}
+
+	allow = {
+	}
+
+	k_mrohlin ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_rolling_ridge ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_mt._ebon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ebon={}
+				b_wazkoron={}
+				b_legoron={}
+				b_munobon={}
+				b_vuedo={}
+				b_gor_leron={}
+				b_rerorus={}
+
+			}
+
+			c_crown_ridge ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_crown_ridge={}
+				b_wazizo={}
+				b_longoron={}
+				b_kangoro={}
+				b_lebetta={}
+				b_gohro={}
+				b_deleson={}
+
+			}
+
+			c_forest_of_time ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nayru={}
+				b_jeagarah={}
+				b_ogoh={}
+				b_teraddon={}
+				b_jerarbus={}
+				b_lorffrak={}
+				b_myrondae={}
+
+			}
+
+			c_gor_grolon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_gor_grolon={}
+				b_dorodtram={}
+				b_perengaro={}
+				b_gor_zugby={}
+				b_bonguron={}
+				b_gor_kedr={}
+				b_daronlon={}
+
+			}
+
+		}
+
+		d_fairies'_woods ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_fort_of_wings ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_wings={}
+				b_losa={}
+				b_cataba={}
+				b_alonrynna={}
+				b_kaudia={}
+				b_lebald={}
+				b_eleria={}
+
+			}
+
+			c_palmorae ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_palmorae={}
+				b_suelo={}
+				b_aurelia={}
+				b_keriposa={}
+				b_nradia={}
+				b_duisa={}
+				b_lerusol={}
+
+			}
+
+			c_labrynna_spring ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_labrynna_spring={}
+				b_garotolo={}
+				b_krenito={}
+				b_huskros={}
+				b_kavannah={}
+				b_elar={}
+				b_drenzo={}
+
+			}
+
+			c_triano ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_triano={}
+				b_korfia={}
+				b_manian={}
+				b_orector={}
+				b_lorge={}
+				b_vateo={}
+				b_feto={}
+
+			}
+
+		}
+
+		d_cresia ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_soka ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_soka={}
+				b_delena={}
+				b_ralfonzo={}
+				b_brelando={}
+				b_pretiango={}
+				b_marosofia={}
+				b_nartolo={}
+
+			}
+
+			c_deureto ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_deureto={}
+				b_selepe={}
+				b_hasebel={}
+				b_keligros={}
+				b_venriqe={}
+				b_mayneto={}
+				b_nerelos={}
+
+			}
+
+			c_lurelin ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_lurelin={}
+				b_kastaban={}
+				b_fulce={}
+				b_eskosa={}
+				b_temilia={}
+				b_mannah={}
+				b_solros={}
+
+			}
+
+			c_jelena ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_jelena={}
+				b_pisha={}
+				b_marabello={}
+				b_naullero={}
+				b_faurora={}
+				b_welce={}
+				b_lonzuelo={}
+
+			}
+
+			c_rosea ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rosea={}
+				b_ulondra={}
+				b_taudia={}
+				b_gelisa={}
+				b_jerisol={}
+				b_kealar={}
+				b_khalfons={}
+
+			}
+
+			c_woods_of_winter ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_snake's_remains={}
+				b_moctor={}
+				b_plenzo={}
+				b_lepe={}
+				b_getolo={}
+				b_heresar={}
+				b_lerateo={}
+
+			}
+
+		}
+
+	}
+
+	k_three_bells ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_mille_feuille ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_merenge ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_merenge={}
+				b_gorlena={}
+				b_lorria={}
+				b_briela={}
+				b_meligro={}
+				b_borolar={}
+				b_lokma={}
+
+			}
+
+			c_bire ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_bire={}
+				b_vemma={}
+				b_ielo_zuelo={}
+				b_rela={}
+				b_yuisa={}
+				b_rerra={}
+				b_kandra={}
+
+			}
+
+			c_kerenandra ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kerenandra={}
+				b_mopol={}
+				b_kelcion={}
+				b_milliea={}
+				b_naundia={}
+				b_lizar={}
+				b_fosiae={}
+
+			}
+
+		}
+
+		d_sable ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_mapla_ruins ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mapla_ruins={}
+				b_oriae={}
+				b_ralela={}
+				b_clera={}
+				b_nalia={}
+				b_oreosa={}
+				b_keloema={}
+
+			}
+
+			c_solenwood ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_solenwood_ruins={}
+				b_golara={}
+				b_juzce={}
+				b_belafia={}
+				b_tresaca={}
+				b_lileban={}
+				b_torlio={}
+
+			}
+
+			c_wejyblin ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_wejyblin={}
+				b_weleina={}
+				b_men={}
+				b_darlose={}
+				b_kepcion={}
+				b_cevlicia={}
+				b_lerurosa={}
+
+			}
+
+			c_kresa ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kresa={}
+				b_oleod={}
+				b_sorlo={}
+				b_delisae={}
+				b_genia={}
+				b_milagia={}
+				b_gloreia={}
+
+			}
+
+		}
+
+		d_custard ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_kondro ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kondro={}
+				b_kaledre={}
+				b_abeil={}
+				b_letruce={}
+				b_pessa={}
+				b_boronkia={}
+				b_nane={}
+
+			}
+
+			c_papuchia ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_papuchia={}
+				b_edrosa={}
+				b_korolina={}
+				b_cathalena={}
+				b_arlara={}
+				b_vion={}
+				b_durusia={}
+
+			}
+
+			c_yabel ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_yabel={}
+				b_cecilea={}
+				b_toropo={}
+				b_adrano={}
+				b_beveneto={}
+				b_sarrosa={}
+				b_valefon={}
+
+			}
+
+		}
+
+	}
+
+	k_labrynna ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_nuun_highlands ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_nuun ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nuun={}
+				b_lynoto={}
+				b_gereli={}
+				b_telenar={}
+				b_bramian={}
+				b_vesta={}
+				b_teor={}
+
+			}
+
+			c_fort_nuun ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_fort_nuun={}
+				b_ecriano={}
+				b_venieto={}
+				b_yekuel={}
+				b_verado={}
+				b_temas={}
+				b_micrente={}
+
+			}
+
+			c_lorsa ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_lorsa={}
+				b_elopoma={}
+				b_nafia={}
+				b_fonzso={}
+				b_acreano={}
+				b_ledisa={}
+				b_hecticia={}
+
+			}
+
+			c_javier ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_javier={}
+				b_feuld={}
+				b_juz={}
+				b_parebell={}
+				b_vannah={}
+				b_kremi={}
+				b_reugenia={}
+
+			}
+
+		}
+
+		d_lynna ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_lynna ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_lynna={}
+				b_ambi={}
+				b_solado={}
+				b_nere={}
+				b_maresa={}
+				b_thonzo={}
+				b_neran={}
+
+			}
+
+			c_veraen ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_veraen={}
+				b_port_lynna={}
+				b_salone={}
+				b_weiticia={}
+				b_kanoma={}
+				b_darque={}
+				b_vareteo={}
+
+			}
+
+			c_lena ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_lena={}
+				b_arturo={}
+				b_skelos={}
+				b_karlepe={}
+				b_forge={}
+				b_zatheo={}
+				b_fareaon={}
+
+			}
+
+			c_lauria ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_lauria={}
+				b_dabal={}
+				b_geron={}
+				b_verecion={}
+				b_bilicia={}
+				b_laudie={}
+				b_brela={}
+
+			}
+
+			c_dolom ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_dolom={}
+				b_revault={}
+				b_pathelina={}
+				b_desagia={}
+				b_herithosa={}
+				b_vanelo={}
+				b_morlara={}
+
+			}
+
+		}
+
+		d_talus ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_symmetry ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_symmetry={}
+				b_yare_suelo={}
+				b_hebriela={}
+				b_lerosolo={}
+				b_dandea={}
+				b_carless={}
+				b_manavele={}
+
+			}
+
+			c_hyrosa ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_hyrosa={}
+				b_thelle={}
+				b_yesa={}
+				b_kalf={}
+				b_gon_brynna={}
+				b_nekrado={}
+				b_uripisha={}
+
+			}
+
+			c_petra ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_petra={}
+				b_terbauld={}
+				b_kuerorea={}
+				b_naleisa={}
+				b_bannah={}
+				b_krentos={}
+				b_mareah={}
+
+			}
+
+			c_thoralo ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_thoralo={}
+				b_delidon={}
+				b_captia={}
+				b_consharl={}
+				b_pae={}
+				b_sharl={}
+				b_jambi={}
+
+			}
+
+			c_vethalina ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_vethalina={}
+				b_sohra={}
+				b_toesa={}
+				b_kerrie={}
+				b_berelien={}
+				b_guiliae={}
+				b_pruzla={}
+
+			}
+
+		}
+
+		d_lanza ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_yoll ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_yoll={}
+				b_brena={}
+				b_eda={}
+				b_varo={}
+				b_ohraka={}
+				b_daleruz={}
+				b_nallero={}
+
+			}
+
+			c_suende ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_suende={}
+				b_horbi={}
+				b_angauld={}
+				b_orldin={}
+				b_jendar={}
+				b_tarelandra={}
+				b_neliu={}
+
+			}
+
+			c_alora ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_alora={}
+				b_krepe={}
+				b_mar={}
+				b_norlynna={}
+				b_belele={}
+				b_heid={}
+				b_bonsio={}
+
+			}
+
+			c_ok_ru ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_old_yoll={}
+				b_ok_ru={}
+				b_engelle={}
+				b_rolfaud={}
+				b_harudia={}
+				b_nepcion={}
+				b_wargorn={}
+
+			}
+
+			c_kold ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kold={}
+				b_ceurch={}
+				b_marea={}
+				b_lebrynna={}
+				b_helethina={}
+				b_odeg={}
+				b_fargo={}
+
+			}
+
+		}
+
+	}
+
+	k_brynna_plains ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_lynea ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_boxoblin ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_brynna_ruins={}
+				b_boxoblin={}
+				b_nemlia={}
+				b_roroia={}
+				b_licia={}
+				b_alabel={}
+				b_hambi={}
+
+			}
+
+			c_dalead ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_dalead={}
+				b_mareona={}
+				b_paliena={}
+				b_gora={}
+				b_gabrynon={}
+				b_kresosa={}
+				b_erdo={}
+
+			}
+
+			c_firly ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_firly={}
+				b_formei={}
+				b_nobrido={}
+				b_fonzia={}
+				b_shredy={}
+				b_ulosa={}
+				b_beloma={}
+
+			}
+
+			c_codetvia ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_codetvia={}
+				b_vecrolena={}
+				b_safrone={}
+				b_yofia={}
+				b_arcturo={}
+				b_elend={}
+				b_sevaneh={}
+
+			}
+
+			c_nova ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_big_fort_brynna={}
+				b_nova={}
+				b_ticia={}
+				b_usebel={}
+				b_navea={}
+				b_jandra={}
+				b_puluce={}
+
+			}
+
+			c_felrosa ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_felrosa={}
+				b_resuelo={}
+				b_hendri={}
+				b_bruese={}
+				b_gargorge={}
+				b_zexeban={}
+				b_larlelos={}
+
+			}
+
+		}
+
+		d_afrom ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_afrom_ruins ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_afrom_ruins={}
+				b_thollo={}
+				b_turo={}
+				b_nabbi={}
+				b_elector={}
+				b_varal={}
+				b_veteo={}
+
+			}
+
+			c_xexoblin ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_xexoblin={}
+				b_lehg={}
+				b_sportus={}
+				b_karlena={}
+				b_forocruz={}
+				b_biphonso={}
+				b_kethuelena={}
+
+			}
+
+			c_helia ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_helia={}
+				b_dordora={}
+				b_boul={}
+				b_gleria={}
+				b_hande={}
+				b_sonz={}
+				b_erpulos={}
+
+			}
+
+			c_androz ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_androz={}
+				b_ogenia={}
+				b_korma={}
+				b_thoello={}
+				b_iloban={}
+				b_riela={}
+				b_akloma={}
+
+			}
+
+		}
+
+		d_liaron_lyna ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_huch ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_huch={}
+				b_olsun={}
+				b_jerufia={}
+				b_snoroz={}
+				b_lettcia={}
+				b_fathria={}
+				b_ronosa={}
+
+			}
+
+			c_maku ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_maku={}
+				b_plumb={}
+				b_creek={}
+				b_weilona={}
+				b_skoria={}
+				b_grasole={}
+				b_grein={}
+
+			}
+
+			c_perekt ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_big_fort_afrom={}
+				b_perekt={}
+				b_garhde={}
+				b_dassle={}
+				b_eugene={}
+				b_lannaru={}
+				b_balria={}
+
+			}
+
+			c_dadria ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_dadria={}
+				b_impla={}
+				b_tueleros={}
+				b_yanepe={}
+				b_teogel={}
+				b_centetre={}
+				b_ventiago={}
+
+			}
+
+		}
+
+	}
+
+}
+
+e_lanayru = {
+	color={35 244 148}
+	color2={99 246 10}
+
+	allow = {
+	}
+
+	k_zora's_domain ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_trillby_highlands ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_intenoch ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_intenoch={}
+				b_aruton={}
+				b_narkoch={}
+				b_pleimos={}
+				b_ezalin={}
+				b_lara={}
+				b_vona={}
+
+			}
+
+
+			c_dor_vana ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_don_vana={}
+				b_rutonis={}
+				b_nulla={}
+				b_matoval={}
+				b_zachello={}
+				b_achle={}
+				b_duchon={}
+
+			}
+
+			c_achellon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_achellon={}
+				b_lajabu={}
+				b_zaruton={}
+				b_iochla={}
+				b_meranis={}
+				b_och={}
+				b_meleth={}
+
+			}
+		}
+
+		d_zoral ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_ternio ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ternio={}
+				b_mellina={}
+				b_uchellon={}
+				b_latharo={}
+				b_ceruton={}
+				b_valeth={}
+				b_chello_malkorbagia={}
+
+			}
+
+			c_inogo ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_inogo={}
+				b_jabunis={}
+				b_neruton={}
+				b_racia={}
+				b_nehra={}
+				b_valchiron={}
+				b_atoto={}
+
+			}
+
+			c_val_en ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_val_en={}
+				b_macia={}
+				b_lazal={}
+				b_duzo={}
+				b_ployme={}
+				b_markos={}
+				b_nalchellon={}
+
+			}
+
+			c_nach ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nach={}
+				b_aelletha={}
+				b_duv={}
+				b_kojch={}
+				b_lala={}
+				b_morunis={}
+				b_zalos={}
+
+			}
+
+		}
+
+		d_dominion_pass ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_isceth ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_isceth={}
+				b_lamera={}
+				b_celia={}
+				b_aciron={}
+				b_cespar={}
+				b_zalkoval={}
+				b_sorchellon={}
+
+			}
+
+			c_chelleth ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_chelleth={}
+				b_zoranis={}
+				b_laimos={}
+				b_malu={}
+				b_jechf={}
+				b_ruval={}
+				b_ruchello={}
+
+			}
+
+			c_nephla ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nephla={}
+				b_lato={}
+				b_dufarko={}
+				b_eleth={}
+				b_rukos={}
+				b_zacia={}
+				b_tot={}
+
+			}
+
+			c_bagia ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_bagia={}
+				b_ileth={}
+				b_raspar={}
+				b_zurochell={}
+				b_nelkos={}
+				b_celeth={}
+				b_chello_rivan={}
+
+			}
+
+		}
+
+		d_val_jabun ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_akkala_falls ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_sokkala={}
+				b_zochellon={}
+				b_fercia={}
+				b_arkos={}
+				b_iruton={}
+				b_ladin={}
+				b_rubia={}
+
+			}
+
+			c_shatterback_point ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_shatterback={}
+				b_miruton={}
+				b_sidona={}
+				b_meramath={}
+				b_lethma={}
+				b_maman={}
+				b_shut={}
+
+			}
+
+			c_zorchellon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_zorchellon={}
+				b_jabu={}
+				b_greshou={}
+				b_ad_idem={}
+				b_ad_infinitum={}
+				b_cor_unum={}
+				b_in_memoriam={}
+
+			}
+
+			c_toto ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_toto={}
+				b_rutocha={}
+				b_dalian={}
+				b_uleth={}
+				b_malciron={}
+				b_chello_farkos={}
+				b_machellon={}
+
+			}
+
+		}
+
+		d_nayru's_gaze ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_nayrunis ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nayrunis={}
+				b_malcira={}
+				b_eruton={}
+				b_ecia={}
+				b_jachku={}
+				b_malkora={}
+				b_oleth={}
+
+			}
+
+			c_avalon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_avalon={}
+				b_laciron={}
+				b_oruton={}
+				b_aleth={}
+				b_chello_dunma={}
+				b_zutoval={}
+				b_zarkos={}
+
+			}
+
+			c_ich ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ich={}
+				b_val_zora={}
+				b_rubonis={}
+				b_chello_zol={}
+				b_maspar={}
+				b_phas={}
+				b_ergaou={}
+
+			}
+
+			c_deimos ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_deimos={}
+				b_lachellon={}
+				b_mino={}
+				b_calme={}
+				b_nechello={}
+				b_maleth={}
+				b_jaruton={}
+
+			}
+
+		}
+
+		d_misla ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_nespar ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nespar={}
+				b_altha={}
+				b_jachello={}
+				b_lodca={}
+				b_icia={}
+				b_achla={}
+				b_ruleth={}
+
+			}
+
+			c_nela ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nela={}
+				b_laruton={}
+				b_ocia={}
+				b_jeval={}
+				b_meroval={}
+				b_zoraval={}
+				b_ulcia={}
+
+			}
+
+			c_rabia ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rabia={}
+				b_ispar={}
+				b_maruton={}
+				b_joch={}
+				b_ocla={}
+				b_duton={}
+				b_raleth={}
+
+			}
+
+			c_mileth ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mileth={}
+				b_chello_hyljan={}
+				b_echla={}
+				b_totoval={}
+				b_latika={}
+				b_dutoto={}
+				b_duval={}
+
+			}
+
+		}
+
+	}
+
+	k_lanayru ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_ja'abu ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_laner ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_laner={}
+				b_vallan={}
+				b_nephlia={}
+				b_letto={}
+				b_orupha={}
+				b_acialan={}
+				b_auru={}
+
+			}
+
+			c_meira ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_meira={}
+				b_laleth={}
+				b_vealo={}
+				b_aphany={}
+				b_calibir={}
+				b_zolan={}
+				b_pher={}
+
+			}
+
+			c_luto ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_luto's_crossing={}
+				b_toruton={}
+				b_serpent_cove={}
+				b_phormosa={}
+				b_manis={}
+				b_aphlia={}
+				b_jabulan={}
+
+			}
+
+			c_rutala ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rutala={}
+				b_dehyru={}
+				b_zoleth={}
+				b_netolan={}
+				b_duron={}
+				b_chello_miruto={}
+				b_racia={}
+
+			}
+
+			c_malkolan ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_malkolan={}
+				b_maira={}
+				b_letolan={}
+				b_lan_airu={}
+				b_racian={}
+				b_debach={}
+				b_ieto={}
+
+			}
+
+		}
+
+		d_coast_of_airu ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_latela ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_latela={}
+				b_lahyru={}
+				b_nochello={}
+				b_phaean={}
+				b_chello_ploymus={}
+				b_celdia={}
+				b_ladian={}
+
+			}
+
+			c_inchello ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_inchello={}
+				b_moldarach_cove={}
+				b_mikolan={}
+				b_aila={}
+				b_dornia={}
+				b_zoralan={}
+				b_airu_arach={}
+
+			}
+
+			c_airu_lanayru ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_airu_lanayru={}
+				b_varuton={}
+				b_nica={}
+				b_zaren={}
+				b_wattea={}
+				b_chello_ruta={}
+				b_vrylochellon={}
+
+			}
+
+		}
+
+		d_panacle ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_amola ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_amola={}
+				b_nacia={}
+				b_aydu={}
+				b_pradle_cove={}
+				b_ellan={}
+				b_aphatu={}
+				b_nadian={}
+
+			}
+
+			c_panacle_cove ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_panacle_cove={}
+				b_malla={}
+				b_maikka={}
+				b_halian={}
+				b_ulou={}
+				b_chello_nairu={}
+				b_lachellon={}
+
+			}
+
+			c_phanosci ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_phanosci={}
+				b_gleeok_cove={}
+				b_nachena={}
+				b_solan={}
+				b_nephir={}
+				b_zodolan={}
+				b_wotta={}
+
+			}
+
+		}
+
+		d_lanayru_mountain_range ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_madorna ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_madorna={}
+				b_lazora={}
+				b_reekfish_cove={}
+				b_brynea={}
+				b_ancel={}
+				b_lairu={}
+				b_maphlia={}
+
+			}
+
+			c_retsam ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_retsam={}
+				b_mallan={}
+				b_quachellon={}
+				b_lan_chello={}
+				b_molitta={}
+				b_acelan={}
+				b_cera={}
+
+			}
+
+			c_naydra ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_naydra={}
+				b_spring_of_wisdom={}
+				b_crab_cove={}
+				b_amari={}
+				b_ralan={}
+				b_turom={}
+				b_zaphir={}
+
+			}
+
+			c_afromsia ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_afromsia={}
+				b_la_di={}
+				b_cephala={}
+				b_alana={}
+				b_juthea={}
+				b_rala={}
+				b_nelphi={}
+
+			}
+
+			c_lod ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_lod={}
+				b_tolan={}
+				b_nostilan={}
+				b_apon={}
+				b_erna={}
+				b_jachellon={}
+				b_lodchellon={}
+
+			}
+
+		}
+
+		d_lanayru_promenade ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_quatta ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_quatta={}
+				b_aruroda_cove={}
+				b_led={}
+				b_islan={}
+				b_alis={}
+				b_phana={}
+				b_posei={}
+
+			}
+
+			c_celona ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_celona={}
+				b_amaruta={}
+				b_la_da={}
+				b_lochen={}
+				b_lanada={}
+				b_ieru={}
+				b_ala={}
+
+			}
+
+			c_eri ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_eri={}
+				b_chello_rutela={}
+				b_sikka={}
+				b_la_du={}
+				b_iplatha={}
+				b_nera={}
+				b_romlia={}
+
+			}
+
+			c_phalian ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_phalian={}
+				b_ikka={}
+				b_chello_daltus={}
+				b_nutela={}
+				b_atla={}
+				b_maleka={}
+				b_baglia={}
+
+			}
+
+			c_phorcea ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_phorcea={}
+				b_daltun={}
+				b_ladru={}
+				b_ophra={}
+				b_ephe={}
+				b_sou={}
+				b_worsth={}
+
+			}
+
+			c_ralen ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ralen={}
+				b_zophra={}
+				b_docon={}
+				b_olea={}
+				b_crytie={}
+				b_arpha={}
+				b_neth={}
+
+			}
+
+		}
+
+		d_lodrum ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_airu_lodrum ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_airu_lodrum={}
+				b_con={}
+				b_natta={}
+				b_dulan={}
+				b_aducia={}
+				b_dairu={}
+				b_phara={}
+
+			}
+
+			c_lutolan ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_lutolan={}
+				b_mithria={}
+				b_gleo={}
+				b_moldu={}
+				b_turlea={}
+				b_jairu={}
+				b_la_de={}
+
+			}
+
+			c_noqua ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_noqua={}
+				b_duth={}
+				b_neu={}
+				b_natlia={}
+				b_trinoan={}
+				b_meagole={}
+				b_celatho={}
+
+			}
+
+		}
+
+		d_lota ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_nil ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nil={}
+				b_aracha_cove={}
+				b_scrilia={}
+				b_noph={}
+				b_rutacel={}
+				b_rutta={}
+				b_ceslan={}
+
+			}
+
+			c_lanayru_spring ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_lanayru_spring={}
+				b_ottola={}
+				b_tuphe={}
+				b_phonea={}
+				b_milan={}
+				b_pajeau={}
+				b_ruse={}
+
+			}
+
+			c_anchello ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_anchello={}
+				b_laru={}
+				b_waler={}
+				b_chellan={}
+				b_tulan={}
+				b_vi={}
+				b_rakjo={}
+
+			}
+
+		}
+
+	}
+
+	k_faron's_plains ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_zolahra ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_ulria ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ulria={}
+				b_rach={}
+				b_nitza={}
+				b_jel_sokuuf={}
+				b_barina={}
+				b_mosaz={}
+				b_miro={}
+
+			}
+
+			c_nelchalm ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nelchalm={}
+				b_molria={}
+				b_oro={}
+				b_solkota={}
+				b_mech={}
+				b_jelsaf={}
+				b_aruan={}
+
+			}
+
+		}
+
+		d_gagalmu ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_kachalm ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kachalm={}
+				b_jel_bellum={}
+				b_galkota={}
+				b_oropa={}
+				b_zolria={}
+				b_narach={}
+				b_mukota={}
+
+			}
+
+			c_marosafa ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_marosafa={}
+				b_negan={}
+				b_nochanra={}
+				b_jel_neleth={}
+				b_mari={}
+				b_gacharm={}
+				b_safer={}
+
+			}
+
+			c_jelane ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_jelane={}
+				b_sefojel={}
+				b_barada={}
+				b_tuuf={}
+				b_chaltera={}
+				b_jel_ropa={}
+				b_birijel={}
+
+			}
+
+			c_nelkota ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nelkota={}
+				b_jel_lyf={}
+				b_roku={}
+				b_lotojel={}
+				b_ano={}
+				b_morkota={}
+				b_ruuch={}
+
+			}
+
+		}
+
+		d_rist ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_malin_island ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_malin={}
+				b_oktogon={}
+				b_jel_gyorg={}
+				b_naguna={}
+				b_ruudaka={}
+				b_kakarmu={}
+				b_bakal={}
+
+			}
+
+			c_zruuda ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_zruuda={}
+				b_jel_omuai={}
+				b_safu={}
+				b_merto={}
+				b_loch={}
+				b_char={}
+				b_telarmus={}
+
+			}
+
+			c_chremen ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_chremen={}
+				b_neroton={}
+				b_jel_tentalus={}
+				b_rezas={}
+				b_merach={}
+				b_farek={}
+				b_bres={}
+
+			}
+
+			c_oktojel ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_oktojel={}
+				b_ropaku={}
+				b_nagal={}
+				b_sufier={}
+				b_notojel={}
+				b_raza={}
+				b_uko={}
+
+			}
+
+			c_izorach ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_izorach={}
+				b_are={}
+				b_rachta={}
+				b_kanan={}
+				b_merota={}
+				b_urna={}
+				b_norn={}
+
+			}
+
+			c_sharcana ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_sharcana={}
+				b_zarek={}
+				b_roto={}
+				b_jelzar={}
+				b_buuchta={}
+				b_notra={}
+				b_ul={}
+
+			}
+
+		}
+
+		d_morudka ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_zarojel ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_zarojel={}
+				b_izrafil={}
+				b_naroton={}
+				b_zva={}
+				b_onarch={}
+				b_roktuun={}
+				b_azne={}
+
+			}
+
+			c_unos ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_unos={}
+				b_bellun={}
+				b_kujel={}
+				b_ura={}
+				b_zases={}
+				b_onered={}
+				b_nergo={}
+
+			}
+
+			c_kudora ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kudora={}
+				b_faruun={}
+				b_parellajel={}
+				b_gost={}
+				b_ralkota={}
+				b_baronen={}
+				b_jura={}
+
+			}
+
+		}
+
+		d_korosaf ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_ukuku_plain ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ukuku={}
+				b_cthn={}
+				b_rotojel={}
+				b_morek={}
+				b_ruun={}
+				b_norjel={}
+				b_dve={}
+
+			}
+
+			c_shes ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_shes={}
+				b_barijel={}
+				b_muura={}
+				b_rachalm={}
+				b_zaro={}
+				b_ne={}
+				b_norek={}
+
+			}
+
+			c_noch ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_noch={}
+				b_maknu={}
+				b_jevoron={}
+				b_suura={}
+				b_kaljel={}
+				b_nes={}
+				b_ralin={}
+
+			}
+
+			c_machora ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_machora={}
+				b_galam={}
+				b_zas={}
+				b_oret={}
+				b_mijau={}
+				b_kilta={}
+				b_akam={}
+
+			}
+
+			c_naruuku ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_naruuku={}
+				b_chalin={}
+				b_jadora={}
+				b_zorka={}
+				b_okon={}
+				b_maruka={}
+				b_jak={}
+
+			}
+
+		}
+
+
+		d_uq ={
+			color={238 104 57}
+			color2={220 196 63}
+
+		}
+
+			c_roton ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_roton={}
+				b_zaroch={}
+				b_okana={}
+				b_nokto={}
+				b_aroton={}
+				b_ulozi={}
+				b_dijel={}
+
+			}
+
+			c_sufirak ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_sufirak={}
+				b_zesen={}
+				b_kudojel={}
+				b_myroton={}
+				b_seznam={}
+				b_chapun={}
+				b_zardjel={}
+
+			}
+
+			c_zaroku ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_zaroku={}
+				b_nachojel={}
+				b_jelroton={}
+				b_jakojel={}
+				b_geojel={}
+				b_zarod={}
+				b_obed={}
+
+			}
+
+		}
+
+	}
+
+}
+
+e_lands_of_famine = {
+	color={35 244 148}
+	color2={99 246 10}
+
+	allow = {
+	}
+
+	k_darknut_cliffs ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_agaat ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_unyus ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_unyus={}
+				b_odeza={}
+				b_morlos={}
+				b_arka={}
+				b_hoda_daldrak={}
+				b_sern={}
+				b_ke_er={}
+
+			}
+
+			c_hoda_agaat ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_hoda_agaat={}
+				b_kanis={}
+				b_rynel={}
+				b_hoda_padra={}
+				b_gamor={}
+				b_dalbir={}
+				b_der={}
+
+			}
+
+			c_idon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_idon={}
+				b_dalza={}
+				b_hoda_darknut={}
+				b_onatha={}
+				b_sodorah={}
+				b_aslom={}
+				b_esayh={}
+
+			}
+
+		}
+
+		d_drkodla ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_shoday ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_shoday={}
+				b_onthon={}
+				b_bazkinat={}
+				b_arkay={}
+				b_kaleon={}
+				b_shasker={}
+				b_klay={}
+
+			}
+
+			c_miraz ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_miraz={}
+				b_arkeon={}
+				b_yrazhe={}
+				b_drokya={}
+				b_bashara={}
+				b_kraata_kal={}
+				b_kalir={}
+
+			}
+
+			c_mesel ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mesel={}
+				b_kodlak={}
+				b_paarlo={}
+				b_hoda_drok={}
+				b_parth={}
+				b_karbo={}
+				b_ayon={}
+
+			}
+
+			c_dalbaral ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_dalbaral={}
+				b_heraon={}
+				b_ob_ri={}
+				b_marda={}
+				b_hush={}
+				b_yth={}
+				b_ozth={}
+
+			}
+
+		}
+
+		d_cliff_lord_plateau ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_ontheon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ontheon={}
+				b_arotheon={}
+				b_dunna={}
+				b_zalum={}
+				b_yoday={}
+				b_morath={}
+				b_haxi={}
+
+			}
+
+			c_raron ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_raron={}
+				b_orex={}
+				b_nut={}
+				b_oka={}
+				b_thum={}
+				b_xenomor={}
+				b_ryex={}
+
+			}
+
+			c_yezlam ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_yezlam={}
+				b_okath_is={}
+				b_porka={}
+				b_mazra={}
+				b_umbar={}
+				b_burno={}
+				b_prak={}
+
+			}
+
+			c_hrkod ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_hrkod={}
+				b_bakyal={}
+				b_bureona={}
+				b_zhen={}
+				b_yaro={}
+				b_oblaz={}
+				b_znom={}
+
+			}
+
+			c_on_rodsek ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ob_rodsek={}
+				b_zoma={}
+				b_kaludo={}
+				b_urom={}
+				b_zlune={}
+				b_tzuno={}
+				b_hasithir={}
+
+			}
+
+		}
+
+		d_menoyr ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_baral's_field ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_baral's_stand={}
+				b_azunay={}
+				b_nal={}
+				b_kobaru={}
+				b_xeerxez={}
+				b_nuri={}
+				b_kesh={}
+
+			}
+
+			c_haldrok ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_haldrok={}
+				b_orkal={}
+				b_bar_on={}
+				b_anubis={}
+				b_xera={}
+				b_nush={}
+				b_pathor={}
+
+			}
+
+			c_threon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_threon={}
+				b_yebaba={}
+				b_yerno={}
+				b_berul={}
+				b_bar_run={}
+				b_dakotha={}
+				b_onayo={}
+
+			}
+
+		}
+
+		d_baram ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_bar_maral ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_bar_maral={}
+				b_yireko={}
+				b_suuba={}
+				b_dola={}
+				b_yothran={}
+				b_ashithon={}
+				b_dyezi={}
+
+			}
+
+			c_ryelon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ryelon={}
+				b_canaan_baal={}
+				b_beru={}
+				b_sarkes={}
+				b_brkod={}
+				b_orthlan={}
+				b_karithon={}
+
+			}
+
+			c_xerona ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_xerona={}
+				b_moru={}
+				b_rhuna={}
+				b_ura={}
+				b_nara={}
+				b_bohen={}
+				b_yanrath={}
+
+			}
+
+		}
+
+		d_karkaz ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_dakyark ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_dakyark={}
+				b_manyus={}
+				b_padroy={}
+				b_draheim={}
+				b_hayzr={}
+				b_hedru={}
+				b_daniz={}
+
+			}
+
+			c_onalon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_onalon={}
+				b_ynyus={}
+				b_bazku={}
+				b_eram={}
+				b_muark={}
+				b_komon={}
+				b_moktri={}
+
+			}
+
+			c_sumay ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_sumay={}
+				b_zukta={}
+				b_shera={}
+				b_sesker={}
+				b_hasash={}
+				b_pikot={}
+				b_eshkot={}
+
+			}
+
+		}
+
+		d_darek ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_zenoher ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_zenoher={}
+				b_baatha={}
+				b_zyel={}
+				b_padrat={}
+				b_bar_zalex={}
+				b_maleon={}
+				b_korday={}
+
+			}
+
+			c_okyark ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_okyark={}
+				b_ekyoduz={}
+				b_harbaral={}
+				b_kerdo={}
+				b_xerob={}
+				b_malay={}
+				b_eth={}
+
+			}
+
+			c_yera ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_yera={}
+				b_dalhera={}
+				b_onalun={}
+				b_karuda={}
+				b_maxaaz={}
+				b_yrdzi={}
+				b_nira={}
+
+			}
+
+		}
+
+	}
+
+	k_snow_realm ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_the_blasted_crags ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_ano_qatan ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ano_qatan={}
+				b_kinreto={}
+				b_kumono={}
+				b_denaro={}
+				b_ladka={}
+				b_juyo={}
+				b_akko={}
+
+			}
+
+			c_tariak_suq ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_tariaq_suq={}
+				b_dunaaluk={}
+				b_dohko={}
+				b_fonerk={}
+				b_narubo={}
+				b_elenu={}
+				b_deuho={}
+
+			}
+
+			c_umu_jaq ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_umi_jaq={}
+				b_plefo={}
+				b_tumiru={}
+				b_lonthloo={}
+				b_yakato={}
+				b_theru={}
+				b_zulik={}
+
+			}
+
+			c_edo_yequo ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_edo_yequo={}
+				b_vacwu={}
+				b_larnq={}
+				b_lekkrenoo={}
+				b_dueyoo={}
+				b_howo={}
+				b_korndo={}
+
+			}
+
+			c_yeket_koda ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_yeket_koda={}
+				b_nuenfu={}
+				b_narglak={}
+				b_geruzu={}
+				b_qemmeq={}
+				b_fatilaaq={}
+				b_orleedo={}
+
+			}
+
+		}
+
+		d_great_ice_field ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_edo_jaq ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_edo_jaq={}
+				b_galuuki={}
+				b_bresamuuk={}
+				b_odork={}
+				b_lazzikok={}
+				b_wedcavuuk={}
+				b_sevook={}
+
+			}
+
+			c_nulia_koda ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nulia_koda={}
+				b_koaki={}
+				b_feweluuk={}
+				b_serejuuk={}
+				b_galuuku={}
+				b_devratuuk={}
+				b_mook={}
+
+			}
+
+			c_duuka ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_dooka={}
+				b_lehegkuuk={}
+				b_yokkore={}
+				b_forook={}
+				b_snueruuk={}
+				b_reiduuk={}
+				b_pepkruuk={}
+
+			}
+
+			c_kohduuka ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kohduuka={}
+				b_anasuuk={}
+				b_adorilok={}
+				b_avaebuuk={}
+				b_garetnuuk={}
+				b_leujuuk={}
+				b_loomnuuk={}
+
+			}
+
+			c_nolikuuk ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nolikuuk={}
+				b_letsguuk={}
+				b_vezavuuk={}
+				b_demenuuk={}
+				b_heiluuk={}
+				b_anoukukuuk={}
+				b_martajuuk={}
+
+			}
+
+		}
+
+		d_island_of_frost ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_azu_anou ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_azu_anou={}
+				b_dulufu={}
+				b_kessika={}
+				b_filawo={}
+				b_turithu={}
+				b_nengnouk={}
+				b_krereuzo={}
+
+			}
+
+			c_yook_alo ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_yook_alo={}
+				b_farook={}
+				b_jerekuuk={}
+				b_varkok={}
+				b_letrialo={}
+				b_zarzoek={}
+				b_ketonet={}
+
+			}
+
+		}
+
+		d_abo ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_yuek ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_yuek={}
+				b_azereuk={}
+				b_lebinuuk={}
+				b_belukuuk={}
+				b_fareek={}
+				b_oplaneuk={}
+				b_yorilaak={}
+
+			}
+
+			c_koroyok ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_koroyok={}
+				b_ocoijoek={}
+				b_gerwuuk={}
+				b_malumerinuuk={}
+				b_hasaskuuk={}
+				b_kegrisuuk={}
+				b_laszav={}
+
+			}
+
+			c_nelijaq ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nelijaq={}
+				b_oloromn={}
+				b_agreisuuk={}
+				b_larieruuk={}
+				b_ahdijuuk={}
+				b_walalluuk={}
+				b_mannuk={}
+
+			}
+
+		}
+
+		d_yeto ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_yeto_het ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_yeto_het={}
+				b_ellenbanuuk={}
+				b_acananuk={}
+				b_loprezuk={}
+				b_yoki={}
+				b_oroouk={}
+				b_erruk={}
+
+			}
+
+			c_pana_yeto ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_pana_yeto={}
+				b_paleonuek={}
+				b_desiduuk={}
+				b_lefhimuuk={}
+				b_arluk={}
+				b_lukka={}
+				b_garlinuuk={}
+
+			}
+
+			c_yeto_ulu ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_yeto_ulu={}
+				b_nooeka={}
+				b_banukiek={}
+				b_luukra={}
+				b_adavuuk={}
+				b_manonroek={}
+				b_weregreluuk={}
+
+			}
+
+			c_taqa_yeto ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_taqa_yeto={}
+				b_methuuk={}
+				b_inuuk={}
+				b_vecebuuk={}
+				b_joroduuk={}
+				b_larehuuk={}
+				b_yokowuuk={}
+
+			}
+
+		}
+
+		d_nortinka ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_ano_ulu ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ano_ulu={}
+				b_halajuk={}
+				b_gruemono={}
+				b_ferazeto={}
+				b_waeto={}
+				b_kaq={}
+				b_hegzar={}
+
+			}
+
+			c_hyqzar_taqa ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_hyqzar_taqa={}
+				b_terimaka={}
+				b_lardanaq={}
+				b_ogrosertok={}
+				b_zuquaak={}
+				b_porollia={}
+				b_skoploraq={}
+
+			}
+
+			c_yequo_naaq ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_yequo_naaq={}
+				b_fermmig={}
+				b_yoerzu={}
+				b_hannjii={}
+				b_ugruzar={}
+				b_yuluparlak={}
+				b_egigon={}
+
+			}
+
+			c_ano_agru ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ano_agru={}
+				b_regrenaro={}
+				b_qurmanouk={}
+				b_ludraqqi={}
+				b_pellepfu={}
+				b_nidoquaak={}
+				b_hedrazaiq={}
+
+			}
+
+		}
+
+		d_snowdrift_islands ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_yeko_anou ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_yeko_anou={}
+				b_taroanouk={}
+				b_merweru={}
+				b_odotoenfu={}
+				b_agreatuyfuq={}
+				b_dodetaga={}
+				b_fulsmono={}
+
+			}
+
+			c_anouko_do ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_anouko_do={}
+				b_dormaka={}
+				b_geloo_falooe={}
+				b_oledtabo={}
+				b_kurrjak={}
+				b_yuuetu={}
+				b_jedrikka={}
+
+			}
+
+		}
+
+		d_wellspring ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_eto_aino ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_eto_aino={}
+				b_zuffa={}
+				b_laboyazu={}
+				b_etutuk={}
+				b_defrieto={}
+				b_lesammiq={}
+				b_banuquo={}
+
+			}
+
+			c_aroo_eto ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_aroo_eto={}
+				b_merevu={}
+				b_aletralo={}
+				b_pokoloklo={}
+				b_epluu={}
+				b_dehododo={}
+				b_segquaake={}
+
+			}
+
+			c_anu_keth ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_anu_keth={}
+				b_thornraq={}
+				b_tartu={}
+				b_dekkeraku={}
+				b_rearmalukk={}
+				b_daqlaleyu={}
+				b_keneulik={}
+
+			}
+
+			c_anouko_het ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_anouko_het={}
+				b_jaruuki={}
+				b_lanetono={}
+				b_hermarq={}
+				b_garuutok={}
+				b_aerataga={}
+				b_jukiluit={}
+
+			}
+
+		}
+
+		d_anou ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_anou_qata ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_anou_qata={}
+				b_peopayo={}
+				b_sudraqat={}
+				b_zumihen={}
+				b_kareniq={}
+				b_hyegrawu={}
+				b_kaganvik={}
+
+			}
+
+			c_arooki_anou ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_arooki_anou={}
+				b_oreotaqa={}
+				b_veruquo={}
+				b_aldiketo={}
+				b_loresuk={}
+				b_hodakuu={}
+				b_daqqa={}
+
+			}
+
+			c_yeto_anou ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_yeto_anou={}
+				b_larniq={}
+				b_kuurjaqe={}
+				b_manouku={}
+				b_uletaquu={}
+				b_hetnuwo={}
+				b_dalarketo={}
+
+			}
+
+		}
+
+	}
+
+	k_ikana ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_garo ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_garo ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_garo={}
+				b_ancana={}
+				b_siam={}
+				b_istori={}
+				b_exnor={}
+				b_mela={}
+				b_aukul={}
+
+			}
+
+			c_mudor ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mudor={}
+				b_igara={}
+				b_yohve={}
+				b_meur={}
+				b_eval={}
+				b_death_valley={}
+				b_uron={}
+
+			}
+
+			c_asalem ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_asalem={}
+				b_seem={}
+				b_isoh={}
+				b_igodu={}
+				b_valeen={}
+				b_karal={}
+				b_askeral={}
+
+			}
+
+		}
+
+		d_ikana_valley ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_ikana ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ikana={}
+				b_ikana_palace={}
+				b_meu={}
+				b_sagara={}
+				b_branoh={}
+				b_godma={}
+				b_agora={}
+
+			}
+
+			c_stone_tower ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_stone_tower={}
+				b_garan={}
+				b_ilen={}
+				b_kason={}
+				b_abra={}
+				b_garis={}
+				b_aztur={}
+
+			}
+
+			c_malcove ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_malcove={}
+				b_sakana={}
+				b_istar={}
+				b_eekoh={}
+				b_igali={}
+				b_mikal={}
+				b_nakon={}
+
+			}
+
+		}
+
+		d_euson ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_sakon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_sakon={}
+				b_kayon={}
+				b_breuz={}
+				b_monsul={}
+				b_ezak={}
+				b_iruk={}
+				b_istron={}
+
+			}
+
+			c_betron ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_betron={}
+				b_eukan={}
+				b_ikau={}
+				b_gomen={}
+				b_seuku={}
+				b_cove={}
+				b_emeur={}
+
+			}
+
+			c_beel ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_beel={}
+				b_nekon={}
+				b_kanon={}
+				b_etake={}
+				b_koridor={}
+				b_resurrection_bank={}
+				b_eonix={}
+
+			}
+
+			c_keeson ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_keeson={}
+				b_saulon={}
+				b_lautro={}
+				b_konsa={}
+				b_zauni={}
+				b_agon={}
+				b_xodus={}
+
+			}
+
+		}
+
+		d_ison_corridor ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_ison ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ison={}
+				b_exotarium={}
+				b_ixos={}
+				b_malcana={}
+				b_bran={}
+				b_doymol={}
+				b_lasiam={}
+
+			}
+
+			c_molcana ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_molcana={}
+				b_asterah={}
+				b_zauz'_escape={}
+				b_solokon={}
+				b_dukana={}
+				b_twinmold_valley={}
+				b_keeton={}
+
+			}
+
+		}
+
+		d_ikon_corridor ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_meesiam ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_meesiam={}
+				b_eox={}
+				b_elcana={}
+				b_muto={}
+				b_kesam={}
+				b_mesi={}
+				b_tol={}
+
+			}
+
+			c_ikon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ikon={}
+				b_mason={}
+				b_starcove={}
+				b_donal={}
+				b_cay={}
+				b_kani={}
+				b_gore={}
+
+			}
+
+		}
+
+	}
+
+}
+
+e_necluda = {
+	color={35 244 148}
+	color2={99 246 10}
+
+	allow = {
+	}
+
+	k_east_necluda ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_jarrah ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_marblod ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_marblod={}
+				b_urah={}
+				b_biega={}
+				b_lakiro={}
+				b_vazadori={}
+				b_ketha={}
+				b_ricluda={}
+
+			}
+
+			c_fir ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_fir={}
+				b_neratheno={}
+				b_jadori={}
+				b_nalgo={}
+				b_kerrah={}
+				b_laloru={}
+				b_draya={}
+
+			}
+
+		}
+
+		d_nirvata ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_ovli ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ovli={}
+				b_norozari={}
+				b_ateone={}
+				b_piryle={}
+				b_kluda={}
+				b_empar={}
+				b_odo_ohga={}
+
+			}
+
+			c_agrinata ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_agrinata={}
+				b_yaega={}
+				b_karuno={}
+				b_vleana={}
+				b_karnongo={}
+				b_eizrily={}
+				b_roberro={}
+
+			}
+
+			c_necluda_spring ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_necluda_spring={}
+				b_idoriko={}
+				b_killari={}
+				b_golueda={}
+				b_doriae={}
+				b_agaruno={}
+				b_zaleri={}
+
+			}
+
+			c_kari ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kari={}
+				b_keldethori={}
+				b_linempa={}
+				b_gabiea={}
+				b_vashia={}
+				b_norothanim={}
+				b_gogoriko={}
+
+			}
+
+		}
+
+		d_robred ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_miru ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_miru={}
+				b_garuda={}
+				b_liero={}
+				b_miunari={}
+				b_karentheno={}
+				b_thethra={}
+				b_ogoaya={}
+
+			}
+
+			c_edranim ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_edranim={}
+				b_kulari={}
+				b_obojaro={}
+				b_venaro={}
+				b_rongo={}
+				b_ongoe={}
+				b_jega={}
+
+			}
+
+			c_kirana ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kirana={}
+				b_nirothani={}
+				b_gariyle={}
+				b_zekeniko={}
+				b_rieko={}
+				b_horojaro={}
+				b_oppa={}
+
+			}
+
+		}
+
+		d_rozudo ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_cliffs_of_quince ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_quince={}
+				b_pakah={}
+				b_sheipez={}
+				b_puha={}
+				b_luko={}
+				b_levano={}
+				b_gakoe={}
+
+			}
+
+			c_oakle ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_oakle's_navel={}
+				b_jiriga={}
+				b_dirokama={}
+				b_ornanego={}
+				b_luludori={}
+				b_yako={}
+				b_imza={}
+
+			}
+
+			c_rodiro ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rodiro={}
+				b_orkorah={}
+				b_rahga={}
+				b_ejena={}
+				b_gotharah={}
+				b_lovli={}
+				b_ozrel={}
+
+			}
+
+		}
+
+		d_hatenar ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_hateno ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_hateno={}
+				b_haruthari_doro={}
+				b_korgogheja={}
+				b_dorario={}
+				b_kakaya={}
+				b_ursego={}
+				b_nirzareko={}
+
+			}
+
+			c_midla ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_midla={}
+				b_arejaro={}
+				b_ganu={}
+				b_redluda={}
+				b_necaluda={}
+				b_vehga={}
+				b_ribozari={}
+
+			}
+
+			c_ginner ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ginner={}
+				b_kupaz={}
+				b_ero={}
+				b_kalunor={}
+				b_erujarrah={}
+				b_lerore={}
+				b_fordo={}
+
+			}
+
+		}
+
+	}
+
+	k_west_necluda ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_bonooru's_stand ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_telta ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_telta={}
+				b_alreguya={}
+				b_kaghabie={}
+				b_ridoretho={}
+				b_harreovli={}
+				b_jeiliro={}
+				b_rageri={}
+
+			}
+
+			c_kiro's_retreat ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kiro's_retreat={}
+				b_rohego={}
+				b_lokabari={}
+				b_viemuno={}
+				b_thamiga={}
+				b_noruthanu={}
+				b_okel={}
+
+			}
+
+			c_kakariko ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kakariko={}
+				b_bagariko={}
+				b_lerothero={}
+				b_midalvari={}
+				b_hasreli={}
+				b_kagaemin={}
+				b_woeleth={}
+
+			}
+
+			c_kiriko ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kiriko={}
+				b_agryriro={}
+				b_reroshia={}
+				b_ocevetha={}
+				b_uremneto={}
+				b_dovega={}
+				b_lakariko={}
+
+			}
+
+			c_cludero ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_cludero={}
+				b_naz_okoha={}
+				b_naronaor={}
+				b_cleya={}
+				b_rorrn={}
+				b_heilikah={}
+				b_dinrahkari={}
+
+			}
+
+			c_druthora ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_druthora={}
+				b_odojari={}
+				b_egavero={}
+				b_lakariri={}
+				b_rehkuda={}
+				b_sezengo={}
+				b_calganiro={}
+
+			}
+
+			c_gayi ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_gayi={}
+				b_veya={}
+				b_rirothi={}
+				b_kinanitha={}
+				b_polordaro={}
+				b_oite={}
+				b_lackaro={}
+
+			}
+
+		}
+
+		d_sahasra ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_mable ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mable={}
+				b_ivonetho={}
+				b_wuronati={}
+				b_cashia={}
+				b_lelepa={}
+				b_olaritho={}
+				b_rothayo={}
+
+			}
+
+			c_fort_hateno ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_fort_hateno={}
+				b_arazari={}
+				b_lugutharo={}
+				b_mecludo={}
+				b_necludor={}
+				b_jin={}
+				b_karjariko={}
+
+			}
+
+			c_ash ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ash={}
+				b_lodorniko={}
+				b_pureru={}
+				b_lempa={}
+				b_perenana={}
+				b_virava={}
+				b_cenetha={}
+
+			}
+
+			c_blatchery_plain ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_blatchery={}
+				b_joror={}
+				b_shikari={}
+				b_pashei={}
+				b_omakos={}
+				b_rudoziro={}
+				b_zimari={}
+
+			}
+
+			c_bubinga ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_bubinga={}
+				b_haritha={}
+				b_nongo={}
+				b_loebbe={}
+				b_bekero={}
+				b_keroto={}
+				b_pazarpa={}
+
+			}
+
+		}
+
+		d_angel_peaks ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_twin_bridge ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_twin_bridge={}
+				b_ashford={}
+				b_luduwik={}
+				b_loekah={}
+				b_moghe={}
+				b_yayaz={}
+				b_nirah={}
+
+			}
+
+			c_hickaly ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_hickaly={}
+				b_sadaleri={}
+				b_othodari={}
+				b_irevana={}
+				b_perolitha={}
+				b_larrah={}
+				b_vajera={}
+
+			}
+
+		}
+
+	}
+
+}
+
+e_ordona = {
+	color={35 244 148}
+	color2={99 246 10}
+
+	allow = {
+	}
+
+	k_west_ordon ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_taobab ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_soth ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_soth={}
+				b_lorus={}
+				b_ilyan={}
+				b_dajon={}
+				b_betko={}
+				b_taloan={}
+				b_perlora={}
+
+			}
+
+			c_grinnden ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_grinnden={}
+				b_raveni_ranch={}
+				b_degle={}
+				b_boren={}
+				b_nara={}
+				b_linlorn={}
+				b_dinloan={}
+
+			}
+
+			c_serell ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_serell={}
+				b_nodrum={}
+				b_koroan={}
+				b_dorell={}
+				b_dornoat={}
+				b_rache={}
+				b_hylioan={}
+
+			}
+
+			c_hylia's_retreat ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_hylia's_retreat={}
+				b_hyrore={}
+				b_zelru={}
+				b_rusdo={}
+				b_lera={}
+				b_tetbron={}
+				b_lolra={}
+
+			}
+
+			c_nayron ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nayron={}
+				b_nuli={}
+				b_aluara={}
+				b_roryan={}
+				b_segloan={}
+				b_koden={}
+				b_perfell={}
+
+			}
+
+		}
+
+		d_ordon_woods ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_timberfell ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_timberfell={}
+				b_hunter's_lodge={}
+				b_pedorn={}
+				b_gierell={}
+				b_bondo={}
+				b_drumnoa={}
+				b_yanrus={}
+
+			}
+
+			c_naltoan ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_naltoan={}
+				b_loru={}
+				b_nordon={}
+				b_bothron={}
+				b_elenoat={}
+				b_zedin={}
+				b_arazell={}
+
+			}
+
+			c_ordon_spring ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ordon_spring={}
+				b_prairie_road={}
+				b_eledorm={}
+				b_valeron_meadow={}
+				b_arareth={}
+				b_beth_abron={}
+				b_bo_orlont={}
+
+			}
+
+			c_lodorn ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_lodorn={}
+				b_orogie={}
+				b_rusyan={}
+				b_nayfellorn={}
+				b_lorelorn={}
+				b_jenra={}
+				b_terrabon={}
+
+			}
+
+			c_pernoat ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_pernoat={}
+				b_ilyia's_hound={}
+				b_dinlomo={}
+				b_rusldrum={}
+				b_parython={}
+				b_valldorn={}
+				b_valor={}
+
+			}
+
+			c_hanra ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_hanra={}
+				b_detoanu={}
+				b_ladenl={}
+				b_desleth={}
+				b_refar={}
+				b_alrus={}
+				b_rusla={}
+
+			}
+
+		}
+
+		d_ordon_march ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_darybon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_darybon={}
+				b_papetto={}
+				b_glebor={}
+				b_che_den={}
+				b_narueth={}
+				b_darylorn={}
+				b_tetrafellorn={}
+
+			}
+
+			c_bolo ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_bolo={}
+				b_naranarir={}
+				b_yolorn={}
+				b_lornrot={}
+				b_veradodorn={}
+				b_parapado={}
+				b_denyanru={}
+
+			}
+
+			c_parache ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_parache={}
+				b_perthr={}
+				b_derenoan={}
+				b_timfelorn={}
+				b_nornra={}
+				b_eregronru={}
+				b_dorusl={}
+
+			}
+
+		}
+
+		d_roldin ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_popla ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_popla={}
+				b_loe_lalorn={}
+				b_berpla={}
+				b_donar_lo={}
+				b_lo_slethr={}
+				b_yanroa={}
+				b_dornlor={}
+
+			}
+
+			c_ildo ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ildo={}
+				b_doregieron={}
+				b_grewmanie={}
+				b_perlad={}
+				b_dangeilorn={}
+				b_nuslnorn={}
+				b_bremyani={}
+
+			}
+
+		}
+
+		d_mayru ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_larusl ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_larusl={}
+				b_ellenbon={}
+				b_losl={}
+				b_rusmo={}
+				b_varjon={}
+				b_eilia={}
+				b_linden={}
+
+			}
+
+			c_berden ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_berden={}
+				b_verdin={}
+				b_ronlorn={}
+				b_ladlomo={}
+				b_veleron={}
+				b_wellen={}
+				b_virend={}
+
+			}
+
+			c_iliaon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_iliaon={}
+				b_vonlor={}
+				b_yanrore={}
+				b_woodrun={}
+				b_veren={}
+				b_terore={}
+				b_breman={}
+
+			}
+
+		}
+
+		d_ordona_plains ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_or_din ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_or_din={}
+				b_sarendorn={}
+				b_nayreln={}
+				b_zarana={}
+				b_dashei={}
+				b_garendon={}
+				b_carendell={}
+
+			}
+
+			c_deledon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_deledon={}
+				b_martoan={}
+				b_cresendell={}
+				b_barjon={}
+				b_erisveran={}
+				b_zarthos={}
+				b_orenfell={}
+
+			}
+
+			c_rusleth ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rusleth={}
+				b_yeth={}
+				b_dalo={}
+				b_voedrum={}
+				b_kerenfeld={}
+				b_borenfeld={}
+				b_beth_ordona={}
+
+			}
+
+			c_begie ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_begie={}
+				b_carenbedon={}
+				b_veslethr={}
+				b_varavado={}
+				b_terenvell={}
+				b_weren={}
+				b_mordonr={}
+
+			}
+
+		}
+
+	}
+
+	k_east_ordon ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_milk_road ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_romani ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_romani_ranch={}
+				b_vodlor={}
+				b_peth_ordona={}
+				b_tordin={}
+				b_eilyon={}
+				b_legie={}
+				b_praren={}
+
+			}
+
+			c_gorman ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_gorman_ranch={}
+				b_bo_heren={}
+				b_rusrui={}
+				b_ulizak={}
+				b_calo={}
+				b_jerenfell={}
+				b_sheperd's_mound={}
+
+			}
+
+			c_bremen ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_bremen_ranch={}
+				b_bremendor={}
+				b_gerenfell={}
+				b_cordonru={}
+				b_porrin={}
+				b_veranon={}
+				b_jutoan={}
+
+			}
+
+			c_yan ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mamamu_ranch={}
+				b_mamordon={}
+				b_varenha={}
+				b_veth={}
+				b_kalrus={}
+				b_drusl={}
+				b_eredrom={}
+
+			}
+
+		}
+
+		d_mesu ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_mesu_ordon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mesu_ordon={}
+				b_arenvell={}
+				b_kethron={}
+				b_marjon={}
+				b_narindell={}
+				b_narache={}
+				b_ildon={}
+
+			}
+			c_daldrum ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_daldrum={}
+				b_irendrum={}
+				b_nerenrui={}
+				b_kaggle={}
+				b_trede={}
+				b_zalron={}
+				b_tralrus={}
+
+			}
+
+			c_serore ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_serore={}
+				b_lerore={}
+				b_dolin={}
+				b_carthos={}
+				b_matoan={}
+				b_gusl={}
+				b_dere_ranch={}
+
+			}
+
+			c_farus ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_farus={}
+				b_helko={}
+				b_prarus={}
+				b_mesu_bordon={}
+				b_krera={}
+				b_jolinr={}
+				b_greth={}
+
+			}
+
+		}
+
+		d_harjon ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_colran ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_colran={}
+				b_grolin={}
+				b_pumdon={}
+				b_karudrum={}
+				b_lere_vedon={}
+				b_gera={}
+				b_vamondr={}
+
+			}
+
+			c_naygle ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_naygle={}
+				b_kraygle={}
+				b_oletoan={}
+				b_kralnoat={}
+				b_iltoanr={}
+				b_farmani={}
+				b_jerendrom={}
+
+			}
+
+			c_bemani ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_bemani={}
+				b_karadrusl={}
+				b_ankaru={}
+				b_bralrus={}
+				b_dinlomo={}
+				b_fethr={}
+				b_vala_fadrum={}
+
+			}
+
+		}
+
+		d_dalnara ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_sadalrus ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_sadalrus={}
+				b_hanborusl={}
+				b_cremen={}
+				b_cargie={}
+				b_crede={}
+				b_crolen={}
+				b_frindenn={}
+
+			}
+
+			c_anshei ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_anshei={}
+				b_palendorum={}
+				b_boarjon={}
+				b_jonrus={}
+				b_taloeth={}
+				b_valrnara={}
+				b_grado={}
+
+			}
+
+			c_harkin ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_harkin={}
+				b_neranakin={}
+				b_fretoan={}
+				b_prede={}
+				b_kralonr={}
+				b_grenenra={}
+				b_croeron={}
+
+			}
+
+		}
+
+		d_nal ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_nal_ordon ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nal_ordon={}
+				b_val_koeron={}
+				b_beth_arshon={}
+				b_malonmarui={}
+				b_crusl={}
+				b_lera_noran={}
+				b_grinnrore={}
+
+			}
+
+			c_arshton ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_arshton={}
+				b_bolinr={}
+				b_juili={}
+				b_terantefell={}
+				b_sorrdon={}
+				b_voe={}
+				b_krayjon={}
+
+			}
+
+			c_naydo ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_naydo={}
+				b_herellko={}
+				b_gruslr={}
+				b_prethr={}
+				b_vanchdo={}
+				b_pargle={}
+				b_warenoan={}
+
+			}
+
+		}
+
+		d_valzak ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_kazi ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kazi={}
+				b_kazakk={}
+				b_arzakk={}
+				b_iliza={}
+				b_feren={}
+				b_zaldr={}
+				b_daphenrus={}
+
+			}
+
+			c_semnar ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_semnar={}
+				b_loerusl={}
+				b_jaren={}
+				b_olenprus={}
+				b_ruigleru={}
+				b_veld_ordon={}
+				b_scerore={}
+
+			}
+
+			c_meloan ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_meloan={}
+				b_bateth={}
+				b_uliza={}
+				b_bededrus={}
+				b_garondorum={}
+				b_ilygredon={}
+				b_faror_kazore={}
+
+			}
+
+		}
+
+	}
+
+}
+
+e_tabantha = {
+	color={35 244 148}
+	color2={99 246 10}
+
+	allow = {
+	}
+
+	k_arcadia ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_serigon ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_gorru ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_gorru={}
+				b_birga={}
+				b_acade={}
+				b_tumbe={}
+				b_reyo={}
+				b_lokani={}
+				b_renekogi={}
+
+			}
+
+			c_reokard ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_reokard={}
+				b_vramble={}
+				b_rikciro={}
+				b_songe={}
+				b_lirron={}
+				b_norm={}
+				b_dalfdan={}
+
+			}
+
+			c_arnu ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_arnu={}
+				b_narru={}
+				b_zykrogi={}
+				b_mylea={}
+				b_charbia={}
+				b_elcadia={}
+				b_parca={}
+
+			}
+
+			c_sakani ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_sakani={}
+				b_tar_toyo={}
+				b_paime={}
+				b_lalne={}
+				b_frero={}
+				b_krotan={}
+				b_traru={}
+
+			}
+
+			c_halfrene ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_halfrene={}
+				b_jarakado={}
+				b_sabre={}
+				b_ode={}
+				b_griger={}
+				b_song_viron={}
+				b_verikk={}
+
+			}
+
+		}
+
+		d_ainu ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_arca_ainu ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_arca_ainu={}
+				b_kainu_aru={}
+				b_kreshubi={}
+				b_rorkani={}
+				b_caderik={}
+				b_noderado={}
+				b_krironl={}
+
+			}
+
+			c_kobitan ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kobitan={}
+				b_zaratani={}
+				b_warca={}
+				b_laime={}
+				b_fabredo={}
+				b_lorani={}
+				b_perode={}
+
+			}
+
+			c_aru_ainu ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_aru_ainu={}
+				b_laru_jaron={}
+				b_fralbe={}
+				b_laladan={}
+				b_drerik={}
+				b_rikkendo={}
+				b_lyrene={}
+
+			}
+
+			c_sakado ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_sakado={}
+				b_zaru_baur={}
+				b_koder={}
+				b_wachard={}
+				b_froyo={}
+				b_aimable={}
+				b_sarne={}
+
+			}
+
+			c_gobiya ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_port_gobiya={}
+				b_zorgadia={}
+				b_tirgrue={}
+				b_erelea={}
+				b_tumsabi={}
+				b_lacader={}
+				b_olainu={}
+
+			}
+
+			c_tykogi ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_tykogi_tower={}
+				b_sarezarca={}
+				b_zainu_oldea={}
+				b_frormbiya={}
+				b_plarnede={}
+				b_fraerik={}
+				b_rableme={}
+
+			}
+
+		}
+
+		d_hytop ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_froder ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_froder={}
+				b_mysong={}
+				b_rarchardru={}
+				b_biron_sarca={}
+				b_jarashabi={}
+				b_oyo={}
+				b_polumlea={}
+
+			}
+
+			c_aiyo ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_aiyo={}
+				b_zaoyo={}
+				b_warcade={}
+				b_mydanbe={}
+				b_meble={}
+				b_doedrer={}
+				b_lykoghi={}
+
+			}
+
+			c_walbe ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_walbe={}
+				b_gyrene={}
+				b_songbir={}
+				b_varachard={}
+				b_wabresong={}
+				b_krable={}
+				b_arcakaru={}
+
+			}
+
+			c_biron_ainu ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_biron_ainu={}
+				b_einu={}
+				b_grodelea={}
+				b_bridan={}
+				b_noyo={}
+				b_charne={}
+				b_fererik={}
+
+			}
+
+			c_arca_biron ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_arca_biron={}
+				b_kirgner={}
+				b_arca_zakadon={}
+				b_wodedan={}
+				b_praimede={}
+				b_trohubi={}
+				b_gareviron={}
+
+			}
+
+		}
+
+		d_tumlea ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_koyo_tumlea ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_koyo_tumlea={}
+				b_joraniyo={}
+				b_eldirger={}
+				b_krall={}
+				b_warezarne={}
+				b_yolea={}
+				b_rikchar={}
+
+			}
+
+			c_washubi ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_washubi={}
+				b_loryu={}
+				b_halbiya={}
+				b_worodriya={}
+				b_tarca_serik={}
+				b_hykhagi={}
+				b_iresong={}
+
+			}
+
+			c_nokani ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nokani={}
+				b_myrene={}
+				b_garadene={}
+				b_harugorm={}
+				b_teraverene={}
+				b_leatumbre={}
+				b_trovitan={}
+
+			}
+
+			c_arcadia_castle ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_arcadia={}
+				b_narcrea={}
+				b_ayo={}
+				b_yidan={}
+				b_kralben={}
+				b_barcadion={}
+				b_reneyo={}
+
+			}
+
+		}
+
+	}
+
+	k_tabantha_crown ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_north_crest ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_pikida ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_port_pikida={}
+				b_ganbosa={}
+				b_rekeladin={}
+				b_ashru={}
+				b_judin={}
+				b_vashinon={}
+				b_turabosha={}
+
+			}
+
+			c_sherfin ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_sherfin's_hot_spring={}
+				b_aveil's_watch={}
+				b_krelma={}
+				b_varasava={}
+				b_lanrova={}
+				b_maveidin={}
+				b_rithujin={}
+
+			}
+
+			c_goflam ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_goflam's_hot_spring={}
+				b_gorubrosan={}
+				b_vela_ooru={}
+				b_zakroshinon={}
+				b_plennova={}
+				b_galarova={}
+				b_nonadin={}
+
+			}
+
+			c_marasaba ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_marasaba_hotspot={}
+				b_araskrabar={}
+				b_crefela={}
+				b_tureikrosa={}
+				b_vera_aveion={}
+				b_galarova={}
+				b_nonadin={}
+
+			}
+
+			c_selmie ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_selmie's_hotspot={}
+				b_erethova={}
+				b_trijulosa={}
+				b_zela={}
+				b_terenordin={}
+				b_zin_kelashin={}
+				b_nonrulora={}
+
+			}
+
+		}
+
+		d_mogma_mountains ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_zalkaris_peak ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_zalkaris_peak={}
+				b_teremgar_cliffs={}
+				b_oletorma={}
+				b_zankagma={}
+				b_urenbar={}
+				b_irogarren={}
+				b_oris={}
+
+			}
+
+			c_dorenga_crescent ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_dorenga_crescent={}
+				b_genga={}
+				b_kore_magma={}
+				b_elebagma={}
+				b_gazmazagma={}
+				b_larmagkis={}
+				b_lorenma={}
+
+			}
+
+			c_vesmasga_range ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_vesmagma_range={}
+				b_orendosma={}
+				b_rorrorengar={}
+				b_narengar={}
+				b_hagmagus={}
+				b_polemargus={}
+				b_kreegarma={}
+
+			}
+
+			c_krohma ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_krohma={}
+				b_korokogma={}
+				b_zetehgars={}
+				b_lilegagma={}
+				b_poreargush={}
+				b_woraghtus={}
+				b_aragarsh={}
+
+			}
+
+			c_mount_mogma ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mog_summit={}
+				b_gorogroga={}
+				b_zog_arghus={}
+				b_qarengar={}
+				b_sorengrom={}
+				b_plokrogma={}
+				b_yaronghar={}
+
+			}
+
+			c_tabantha_spring ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_tabantha_spring={}
+				b_urenfag={}
+				b_leremghar={}
+				b_narugma={}
+				b_tarengharsa={}
+				b_arontohagma={}
+				b_keren_yargma={}
+
+			}
+
+			c_orengar ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_orengar={}
+				b_gartogma={}
+				b_harrenhogma={}
+				b_porfangasha={}
+				b_garenghar={}
+				b_darokhoghamga={}
+				b_mog_orengharsha={}
+
+			}
+
+		}
+
+		d_somaria_pass ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_byrna ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_byrna={}
+				b_lylia={}
+				b_naccostrum={}
+				b_nasen={}
+				b_kanacrock={}
+				b_sytia={}
+				b_norobe={}
+
+			}
+
+			c_pacci ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_pacci={}
+				b_cazansin={}
+				b_norolia={}
+				b_iyliana={}
+				b_sarensen={}
+				b_wizzorstrum={}
+				b_crohan={}
+
+			}
+
+			c_somaria ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_somaria={}
+				b_harenorshen={}
+				b_nohalia_peak={}
+				b_orock={}
+				b_hyliana={}
+				b_koroana={}
+				b_carransen={}
+
+			}
+
+			c_hysen ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_hysen={}
+				b_orolana={}
+				b_hanaliar={}
+				b_kohhenzeld={}
+				b_jorock={}
+				b_urikwiz={}
+				b_manalyia={}
+
+			}
+
+		}
+
+	}
+
+	k_calatia ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_arryl ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_lodi_loth ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_lodi_loth={}
+				b_maricio={}
+				b_lyacire={}
+				b_ayrof_cire={}
+				b_gured={}
+				b_sothlere_cire={}
+				b_strathye={}
+
+			}
+
+			c_aryos_cire ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_aryos_cire={}
+				b_afrafel={}
+				b_lofayr={}
+				b_myenal={}
+				b_nemron_ciro={}
+				b_lodimafr={}
+				b_gudiludi={}
+
+			}
+
+		}
+
+		d_therendo ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_vranaryol ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_vranaryol={}
+				b_mether={}
+				b_vronacire={}
+				b_sroryl={}
+				b_mrohry={}
+				b_yomaciro={}
+				b_caron={}
+
+			}
+
+			c_stanrye ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_stanrye={}
+				b_cire_lodi={}
+				b_hycire={}
+				b_vrol={}
+				b_lynaciro={}
+				b_vranmalo={}
+				b_dyhia={}
+
+			}
+
+		}
+
+		d_calyna ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_badociro ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_badociro={}
+				b_lyanel={}
+				b_cire_orelidi={}
+				b_stanacim={}
+				b_ayrth={}
+				b_ayrocire={}
+				b_thrul={}
+
+			}
+
+			c_hynama ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_hynama={}
+				b_vrandin={}
+				b_solaricio={}
+				b_dimohcire={}
+				b_hyoloth={}
+				b_ciro_manseth={}
+				b_ora={}
+
+			}
+
+			c_vrandime ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_vrandime={}
+				b_lidicire={}
+				b_lana={}
+				b_guthadi={}
+				b_lom={}
+				b_druthal={}
+				b_adiguma={}
+
+			}
+
+		}
+
+		d_lohna ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_cire_calatia ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_cire_calatia={}
+				b_lucid={}
+				b_amnacim={}
+				b_myenal={}
+				b_acialyn={}
+				b_digun={}
+				b_thodlof={}
+
+			}
+
+			c_druhy ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_druhy={}
+				b_acim={}
+				b_ciro_setheh={}
+				b_gumalof={}
+				b_hythora={}
+				b_sryla={}
+				b_luhm={}
+
+			}
+
+		}
+
+		d_wyciro ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_amncire ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_amncire={}
+				b_covala={}
+				b_hyore={}
+				b_sregu={}
+				b_vraoscire={}
+				b_ulyon={}
+				b_lyncire={}
+
+			}
+
+			c_fovrayro ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_forvrayro={}
+				b_mohlycire={}
+				b_saohnacire={}
+				b_maodis={}
+				b_elomal={}
+				b_dismalo={}
+				b_mafrciro={}
+
+			}
+
+		}
+
+	}
+
+	k_taban ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_sturnida ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_lerelito_summit ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_lerelito_summit={}
+				b_ergronito={}
+				b_massamali={}
+				b_kraynali={}
+				b_ferenaloo={}
+				b_lorothori={}
+				b_krorphek={}
+
+			}
+
+			c_krito_range ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_krito_range={}
+				b_druill={}
+				b_vothori={}
+				b_pruho={}
+				b_derenghou={}
+				b_sevali={}
+				b_zoroknoc={}
+
+			}
+
+			c_sturnida ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_sturnida={}
+				b_wodunali={}
+				b_brymaba={}
+				b_nidaru={}
+				b_uhrope={}
+				b_arghali={}
+				b_leneli={}
+
+			}
+
+			c_maveli ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_maveli={}
+				b_qerghass={}
+				b_gounida={}
+				b_vali={}
+				b_fosonoc={}
+				b_bayru={}
+				b_orumali={}
+
+			}
+
+		}
+
+		d_strock ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_cuho ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_cuho={}
+				b_oluthuli={}
+				b_jorrenghalo={}
+				b_skheba={}
+				b_wodfuvali={}
+				b_shuhor={}
+				b_qelgali={}
+
+			}
+
+			c_nasuill ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nasuill={}
+				b_koroballi={}
+				b_lassu={}
+				b_fhopek={}
+				b_puridu={}
+				b_arenghali={}
+				b_ormateba={}
+
+			}
+
+			c_morpek ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_morpek={}
+				b_veritho={}
+				b_skorotori={}
+				b_hoquill={}
+				b_loovahli={}
+				b_erengo={}
+				b_norochayru={}
+
+			}
+
+			c_strock ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_strock={}
+				b_faeveli={}
+				b_koroglehi={}
+				b_zaabrapheli={}
+				b_quill_naba={}
+				b_arabaho={}
+				b_vorplek={}
+
+			}
+
+			c_nevali ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nevali={}
+				b_foredhalu={}
+				b_eileghalia={}
+				b_medlyia={}
+				b_orengito={}
+				b_manetho={}
+				b_poronnelli={}
+
+			}
+
+		}
+
+		d_eregou ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_orovali ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_orovali={}
+				b_zoritho={}
+				b_avaloo={}
+				b_bhohu={}
+				b_kedlhi={}
+				b_lerephali={}
+				b_lalethor={}
+
+			}
+
+			c_luhokass ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_luhokass={}
+				b_oroghassue={}
+				b_faraghu={}
+				b_pekhu={}
+				b_uitho={}
+				b_gethevass={}
+				b_prorothoritu={}
+
+			}
+
+			c_porolito ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_porolito={}
+				b_vroruvali={}
+				b_arghesitho={}
+				b_lorenhoc={}
+				b_wedghek={}
+				b_gorethou={}
+				b_oronethu={}
+
+			}
+
+			c_pekba ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_pekba={}
+				b_keregali={}
+				b_wuhali={}
+				b_lelevuill={}
+				b_vekba={}
+				b_wurida={}
+				b_kanedli={}
+
+			}
+
+			c_lalleli ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_lalleli={}
+				b_qarenvloo={}
+				b_valoonvalu={}
+				b_sorghuathu={}
+				b_mennisarli={}
+				b_serengheli={}
+				b_dhaloo={}
+
+			}
+
+		}
+
+		d_dronoc ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_worbler ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_worbler={}
+				b_khorukhoru={}
+				b_vegenghou={}
+				b_satharito={}
+				b_worblenblo={}
+				b_nelika={}
+				b_toribller={}
+
+			}
+
+			c_dronoc ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_dronoc={}
+				b_etholuill={}
+				b_varhuho={}
+				b_khuho_avali={}
+				b_ulahoo={}
+				b_skebarba={}
+				b_naloo={}
+
+			}
+
+			c_zorhock ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_zorhock={}
+				b_othorgarshoo={}
+				b_ridhopek={}
+				b_worotori={}
+				b_esdli={}
+				b_bohmali={}
+				b_levalejalo={}
+
+			}
+
+			c_totori ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_totori={}
+				b_nasgaloosa={}
+				b_werurida={}
+				b_fronayru={}
+				b_galoloo={}
+				b_yeregito={}
+				b_nroruill={}
+
+			}
+
+			c_moromali ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_moromali={}
+				b_marito={}
+				b_dronehli={}
+				b_carathori={}
+				b_nay_avialis={}
+				b_rumanuho={}
+				b_plorboh={}
+
+			}
+
+		}
+
+		d_kopeeki ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_kopeeki ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kopeeki={}
+				b_oeropeekhi={}
+				b_darepek={}
+				b_fageli={}
+				b_woro_kassu={}
+				b_iophek={}
+				b_valoomali={}
+
+			}
+
+			c_gritopek ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_gritopek={}
+				b_yorarhu={}
+				b_alaghali={}
+				b_feruvali={}
+				b_murunida={}
+				b_derevali={}
+				b_redhli={}
+
+			}
+
+			c_valovassa ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_valovassa={}
+				b_warunmali={}
+				b_therevali={}
+				b_rheba={}
+				b_skuill={}
+				b_daroolo={}
+				b_skaritho={}
+
+			}
+
+			c_konnelli ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_konnelli={}
+				b_sara_agrevali={}
+				b_worpheku={}
+				b_blernida={}
+				b_woroer={}
+				b_jassu={}
+				b_luhho={}
+
+			}
+
+		}
+
+		d_kruiledli ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_puhohr ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_puhorh={}
+				b_varuhavi={}
+				b_khormali={}
+				b_reyvali={}
+				b_boroetho={}
+				b_nocgou={}
+				b_noaloo={}
+
+			}
+
+			c_zeretito ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_zeretito={}
+				b_joroepherkru={}
+				b_gronoek={}
+				b_khunor_arhoo={}
+				b_arengahito={}
+				b_qorito={}
+				b_layrun={}
+
+			}
+
+			c_aviali ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_aviali={}
+				b_skorvalia={}
+				b_desserass={}
+				b_taraloo={}
+				b_warenthaloo={}
+				b_palentito={}
+				b_granelli={}
+
+			}
+
+		}
+
+		d_tabantha_tundra ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_tabantho ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_tabantho={}
+				b_koroinayru={}
+				b_esskaquill={}
+				b_ealoo={}
+				b_valassui={}
+				b_hebaho={}
+				b_yoropek={}
+
+			}
+
+			c_argra_rathu ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_argra_rathu={}
+				b_tawenali={}
+				b_cuheba={}
+				b_sturineli={}
+				b_pekpla={}
+				b_koronocu={}
+				b_reva={}
+
+			}
+
+			c_kolomali ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kolomali={}
+				b_legopek={}
+				b_yayetho={}
+				b_zuhou={}
+				b_palaneli={}
+				b_quillanayru={}
+				b_orotitoe={}
+
+			}
+
+		}
+
+	}
+
+}
+
+e_umoloth = {
+	color={35 244 148}
+	color2={99 246 10}
+
+	allow = {
+	}
+
+	k_southern_umoloth ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_spring_islands ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_mother_island ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_valnavi={}
+				b_mother_fountain={}
+				b_luna={}
+				b_shey={}
+				b_le={}
+				b_briela={}
+				b_naena={}
+
+			}
+
+			c_child_island ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_seran={}
+				b_child_fountain={}
+				b_maena={}
+				b_kraie={}
+				b_lyley={}
+				b_pevi={}
+				b_vaia={}
+
+			}
+
+			c_thorned_fairy_island ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_thorned_fountain={}
+				b_marvi={}
+				b_neka={}
+				b_zana={}
+				b_una={}
+				b_chay={}
+				b_eizaia={}
+
+			}
+
+			c_forest_haven ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_new_kasuto={}
+				b_orok={}
+				b_laekar={}
+				b_nororko={}
+				b_shaca={}
+				b_kekari={}
+				b_loroko={}
+
+			}
+
+		}
+
+		d_stormwracked_islands ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_tempest's_edge ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_tempest's_edge={}
+				b_surfacing_ground={}
+				b_xyiro={}
+				b_ach'j={}
+				b_xo_i'ia={}
+				b_maha'xj={}
+				b_qom={}
+
+			}
+
+			c_storm's_reach ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_sor_jab={}
+				b_g'hix={}
+				b_uxja={}
+				b_b'_ga={}
+				b_ix'ma={}
+				b_hi'o={}
+				b_mo'={}
+
+			}
+
+			c_eventide_island ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_koholit={}
+				b_vorlado={}
+				b_cabafia={}
+				b_drynna={}
+				b_alentia={}
+				b_strateo={}
+				b_gada={}
+
+			}
+
+			c_tenoko_island ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_cape_tenoko={}
+				b_orlado={}
+				b_lofotia={}
+				b_valeteo={}
+				b_nagada={}
+				b_sero={}
+				b_hyrne={}
+
+			}
+
+
+		}
+
+		d_crescent_island ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_moonlit_range ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_moonlight={}
+				b_tonay={}
+				b_bobot={}
+				b_tuma={}
+				b_rosoru={}
+				b_rojba={}
+				b_tayu={}
+
+			}
+
+			c_rujban ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rujban={}
+				b_purust={}
+				b_napal={}
+				b_atu={}
+				b_yoban={}
+				b_butan={}
+				b_batjet={}
+
+			}
+
+			c_pal_ja ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_pal_ja={}
+				b_raluy={}
+				b_ban_as={}
+				b_or_lu={}
+				b_naju={}
+				b_rilomu={}
+				b_chaykena={}
+
+			}
+
+			c_ana_nat ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ana_nat={}
+				b_makay={}
+				b_raj={}
+				b_tulon={}
+				b_lamaj={}
+				b_aro_yar={}
+				b_muna={}
+
+			}
+
+			c_anay ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_anay={}
+				b_nazum={}
+				b_babut={}
+				b_ana_botas={}
+				b_joramya={}
+				b_por_mosa={}
+				b_lotka={}
+
+			}
+
+			c_nokay ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nokay={}
+				b_tu_jal={}
+				b_ana_pora={}
+				b_bura={}
+				b_lomayj={}
+				b_la_taba={}
+				b_ayjo={}
+
+			}
+
+
+		}
+
+	}
+
+	k_eastern_umoloth ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_world's_edge ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_five_star_islands ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ladus={}
+				b_ogleblin={}
+				b_maron={}
+				b_lotaku={}
+				b_bereanoc={}
+				b_byrlin={}
+				b_norblin={}
+
+			}
+
+			c_cliff_plateau_islands ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_zole={}
+				b_lutko={}
+				b_galanon={}
+				b_cherablin={}
+				b_calladus={}
+				b_oroblen={}
+				b_pagalon={}
+
+			}
+
+			c_two_eye_reef ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_nerocc={}
+				b_galon={}
+				b_jaku={}
+				b_lut={}
+				b_delma={}
+				b_teragon={}
+				b_moagalon={}
+
+			}
+
+		}
+
+		d_lodrum_islands ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_shark_island ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_sidonsaba={}
+				b_colko={}
+				b_lanaydus={}
+				b_og={}
+				b_araenon={}
+				b_iblen={}
+				b_peragon={}
+
+			}
+
+			c_wintre_island ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_port_wintre={}
+				b_nyron={}
+				b_demalon={}
+				b_nogleblin={}
+				b_putko={}
+				b_kuja={}
+				b_sueblin={}
+
+			}
+
+		}
+
+		d_lanayru_islands ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_davdi ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_davdi={}
+				b_dogleon={}
+				b_eglin={}
+				b_moroc={}
+				b_spearton={}
+				b_lulkin={}
+				b_vanon={}
+
+			}
+
+			c_knuckel ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_knuckel={}
+				b_bustinblin={}
+				b_ferroko={}
+				b_koku={}
+				b_mobbleston={}
+				b_cole's_reef={}
+				b_portlin={}
+
+			}
+
+			c_ankel ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rotolan={}
+				b_ankel={}
+				b_malladon={}
+				b_jutko={}
+				b_auroblin={}
+				b_terraton={}
+				b_non={}
+
+			}
+
+			c_tingel ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_tingel={}
+				b_thengel={}
+				b_tingoroc={}
+				b_tallagel={}
+				b_torngil={}
+				b_koolo_limpah={}
+				b_mengel={}
+
+			}
+
+		}
+
+		d_great_bay ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_cyclops_reef ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_korabu={}
+				b_inayru={}
+				b_solorn={}
+				b_jaborn={}
+				b_nihborn={}
+				b_orzola={}
+				b_haoshun={}
+
+			}
+
+			c_six_star_reef ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_shireif={}
+				b_mujon={}
+				b_dubon={}
+				b_oshe={}
+				b_zaro={}
+				b_kuuf={}
+				b_ruudakan={}
+
+			}
+
+			c_zora_cape ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_zora_hall={}
+				b_sefnay={}
+				b_zukan={}
+				b_zolaa={}
+				b_sorosef={}
+				b_ororu={}
+				b_xigen={}
+
+			}
+
+			c_pinnacle_rock ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_sea_snakes'_lair={}
+				b_zuleth={}
+				b_fesda_kan={}
+				b_zhi_zeran={}
+				b_naruuzef={}
+				b_ocro={}
+				b_moruku={}
+
+			}
+
+			c_great_bay_island ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_great_bay={}
+				b_argaus={}
+				b_zellum={}
+				b_gzai={}
+				b_zah={}
+				b_stormrocc={}
+				b_humah={}
+
+			}
+
+			c_greatfish_island ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_chelo_jabun={}
+				b_zuto={}
+				b_darlara={}
+				b_kabun={}
+				b_farkus={}
+				b_nayra={}
+				b_domainu={}
+
+			}
+
+		}
+
+	}
+
+	k_western_umoloth ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_cobble_isles ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_isle_of_the_dead ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_cobbleneur={}
+				b_froylan={}
+				b_ererant={}
+				b_remen={}
+				b_dobble={}
+				b_arenax={}
+				b_jant={}
+
+			}
+
+			c_isle_of_ruin ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mutoh={}
+				b_cobble={}
+				b_meur={}
+				b_leanbre={}
+				b_arent={}
+				b_vorlan={}
+				b_ceox={}
+
+			}
+
+		}
+
+		d_gerudo_isles ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_bannon_island ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_port_bannon={}
+				b_zara={}
+				b_deruju={}
+				b_luriara={}
+				b_ashasha={}
+				b_din_ashon={}
+				b_sosa={}
+
+			}
+
+			c_molida_island ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_port_molida={}
+				b_araghasha={}
+				b_akeela={}
+				b_burosa={}
+				b_rova={}
+				b_reeju={}
+				b_ulinon={}
+
+			}
+
+			c_spirit_island ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_servitude={}
+				b_narusova={}
+				b_vashi={}
+				b_kaleefa={}
+				b_uriju={}
+				b_liara={}
+				b_ganodru={}
+
+			}
+
+		}
+
+		d_tanagar_isles ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_ice_ring_isle ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_dragonhead={}
+				b_iron_port={}
+				b_kordban={}
+				b_zorendor={}
+				b_fendra={}
+				b_zahala={}
+				b_nylonn={}
+
+			}
+
+			c_diamond_steppe_island ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_port_linebeck={}
+				b_yaneban={}
+				b_hansenn={}
+				b_akalan={}
+				b_petk={}
+				b_rhoaf={}
+				b_rulean={}
+
+			}
+
+			c_horseshoe_island ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_keto={}
+				b_chunari={}
+				b_baruu={}
+				b_honzu={}
+				b_lerraketo={}
+				b_eto={}
+				b_deke={}
+
+			}
+
+			c_needle_rock_island ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mynari={}
+				b_vareroo={}
+				b_jonncho={}
+				b_nara={}
+				b_zuhnoh={}
+				b_aretketo={}
+				b_savari={}
+
+			}
+
+		}
+
+		d_star_reefs ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_one_star_reef ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_port_rhoaban={}
+				b_letra={}
+				b_verabeck={}
+				b_arstaf={}
+				b_guszo={}
+				b_alfons={}
+				b_nalfon={}
+
+			}
+
+			c_four_star_reef ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_port_berrymark={}
+				b_vindenra={}
+				b_erebeck={}
+				b_kalfonz={}
+				b_zelestaf={}
+				b_robeck={}
+				b_orchus={}
+
+			}
+
+			c_three_star_reef ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_port_daphnes={}
+				b_kazzetra={}
+				b_linvera={}
+				b_serebek={}
+				b_aryle={}
+				b_zakkala={}
+				b_lerendor={}
+
+			}
+
+			c_five_star_reef ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_port_sil={}
+				b_orodell={}
+				b_vryrule={}
+				b_daphstaf={}
+				b_gustav={}
+				b_eror={}
+				b_terrik={}
+
+			}
+
+		}
+
+		d_outset_island ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_outset ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_outset={}
+				b_edebroa={}
+				b_dayril={}
+				b_dorvera={}
+				b_ettlebeck={}
+				b_oiyand={}
+				b_ayuru={}
+
+			}
+
+			c_malpis ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_malpis={}
+				b_fountain_of_fortune={}
+				b_arcrad={}
+				b_theres={}
+				b_hanstaf={}
+				b_rucad={}
+				b_dian={}
+
+			}
+
+			c_aboda ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_aboda={}
+				b_mazban={}
+				b_lebra={}
+				b_nelefon={}
+				b_detra={}
+				b_arendhell={}
+				b_elda={}
+
+			}
+
+		}
+
+	}
+
+	k_northern_umoloth ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_dragonroost ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_cyclos ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_cyclos={}
+				b_vali={}
+				b_treneli={}
+				b_fazli={}
+				b_oboli={}
+				b_askit={}
+				b_ebasht={}
+
+			}
+
+			c_zephos ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_zephos={}
+				b_aissa={}
+				b_cilli={}
+				b_parvali={}
+				b_goli={}
+				b_leel={}
+				b_sanott={}
+
+			}
+
+			c_valoo's_roost ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_valoo's_roost={}
+				b_kalooba={}
+				b_netoli={}
+				b_azli={}
+				b_yitmali={}
+				b_ceceba={}
+				b_uredoli={}
+
+			}
+
+			c_vralo_kal ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_vralo_kal={}
+				b_nayrali={}
+				b_yson={}
+				b_niloo={}
+				b_gredli={}
+				b_peranil={}
+				b_sanshli={}
+
+			}
+
+			c_vorunali ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_vorunali={}
+				b_sarta={}
+				b_cuill={}
+				b_bazli={}
+				b_baranott={}
+				b_kerekass={}
+				b_eagrott={}
+
+			}
+
+		}
+
+		d_windfall ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_private_oasis ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_verlada={}
+				b_egrenban={}
+				b_deilda={}
+				b_jarenn={}
+				b_kondra={}
+				b_porengaf={}
+				b_odeolon={}
+
+			}
+
+			c_meuder ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_meuder={}
+				b_veckres={}
+				b_artherbrock={}
+				b_kaures={}
+				b_laphdres={}
+				b_veres={}
+				b_orenda={}
+
+			}
+
+			c_gherenstaf ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_gherenstaf={}
+				b_ayrana={}
+				b_hernes={}
+				b_dearendell={}
+				b_idolan={}
+				b_vellsera={}
+				b_lenk={}
+
+			}
+
+			c_hyliane ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_hyliane={}
+				b_rordham={}
+				b_seline={}
+				b_yerranberg={}
+				b_norroc={}
+				b_castrom={}
+				b_jera={}
+
+			}
+
+		}
+
+		d_lomei ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_tovali_cliffs ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_tovali={}
+				b_lonott={}
+				b_mais={}
+				b_pyson={}
+				b_premali={}
+				b_erass={}
+				b_lazzli={}
+
+			}
+
+			c_arresane ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_arresane={}
+				b_cavali={}
+				b_bredoli={}
+				b_tudli={}
+				b_thevali={}
+				b_skulin={}
+				b_kettu={}
+
+			}
+
+			c_hyoi ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_hyoi={}
+				b_hazali={}
+				b_tero={}
+				b_zehkel={}
+				b_fayzon={}
+				b_lodtt={}
+				b_geneli={}
+
+			}
+
+		}
+
+		d_mercay ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_south_mercay ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_port_mercay={}
+				b_diamani={}
+				b_bororon={}
+				b_kedioron={}
+				b_ceyrus={}
+				b_vunobo={}
+				b_bizo={}
+
+			}
+
+			c_north_mercay ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ocean_king={}
+				b_gor_rod={}
+				b_varbus={}
+				b_langoh={}
+				b_craygaro={}
+				b_gorudo={}
+				b_tangaro={}
+
+			}
+
+		}
+
+		d_onkam ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_gor_onkom ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_gor_onkom={}
+				b_ornomani={}
+				b_daebbon={}
+				b_angoro={}
+				b_ligaro={}
+				b_pelgoh={}
+				b_zortram={}
+
+			}
+
+			c_harmani ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_harmani={}
+				b_lelemani={}
+				b_dudo={}
+				b_punobo={}
+				b_zodguron={}
+				b_elegoron={}
+				b_walemani={}
+
+			}
+
+			c_ember_island ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ember={}
+				b_port_astrid={}
+				b_port_kayo={}
+				b_embaro={}
+				b_daronogon={}
+				b_reregoron={}
+				b_gorro={}
+
+			}
+
+			c_dandoro ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_dandoro={}
+				b_ganrunia={}
+				b_funobo={}
+				b_griggs={}
+				b_wohrgg={}
+				b_nadandoro={}
+				b_aluddo={}
+
+			}
+
+			c_rebbetta ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rebetta={}
+				b_teregoron={}
+				b_portguron={}
+				b_runia={}
+				b_gor_argonaro={}
+				b_ladorno={}
+				b_dynge={}
+
+			}
+
+		}
+
+		d_stone_isles ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_headstone_island ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_earth={}
+				b_zoronbizo={}
+				b_poron={}
+				b_grehlo={}
+				b_arogoron={}
+				b_uru_goron={}
+				b_garongo={}
+
+			}
+
+			c_stone_watcher_island ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_stone_head={}
+				b_twoho_port={}
+				b_kangoron={}
+				b_narongoron={}
+				b_lengmani={}
+				b_oddore={}
+				b_bonburon={}
+
+			}
+
+		}
+
+		d_akkala_isles ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_birdpeak_rock ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_revo={}
+				b_kereneli={}
+				b_gotts={}
+				b_nereavali={}
+				b_orgromali={}
+				b_tecili={}
+				b_hanrenzli={}
+
+			}
+
+			c_star_belt_achiepelago ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_oshunor={}
+				b_zimorgr={}
+				b_oruzagru={}
+				b_zhinazru={}
+				b_pola={}
+				b_zo_ola={}
+				b_lazayru={}
+
+			}
+
+			c_overlook_island ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rahbunzla={}
+				b_kahrola={}
+				b_zungr={}
+				b_zharuto={}
+				b_erazru={}
+				b_zuzon={}
+				b_zolia={}
+
+			}
+
+		}
+
+		d_horizon_isles ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_seven_star_islands ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_reven={}
+				b_iyurh={}
+				b_zolua={}
+				b_zhar={}
+				b_zharru={}
+				b_ocez={}
+				b_zayru={}
+
+			}
+
+			c_crescent_moon_isle ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_zereg={}
+				b_lozae={}
+				b_ghie={}
+				b_zru={}
+				b_edru={}
+				b_oleru={}
+				b_bezzum={}
+
+			}
+
+			c_gale_isle ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_wind={}
+				b_wendali={}
+				b_kheelic={}
+				b_passane={}
+				b_nazli={}
+				b_tasroli={}
+				b_marvali={}
+
+			}
+
+			c_pawprint_island ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_claw_cave={}
+				b_arkoot={}
+				b_dekk={}
+				b_obli={}
+				b_pruill={}
+				b_myeson={}
+				b_verkott={}
+
+			}
+
+		}
+
+	}
+
+}
+
+e_necluda = {
+	color={35 244 148}
+	color2={99 246 10}
+
+	allow = {
+	}
+
+	k_deep_woods ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_sea_of_trees ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_grand_grove ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_grand_grove={}
+				b_yencher={}
+				b_chardkus={}
+				b_muaskcher={}
+				b_fareogard={}
+				b_nuska={}
+				b_alaeghard={}
+
+			}
+
+			c_palagard's_sanctuary ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_palagard's_sanctuary={}
+				b_orthovuskus={}
+				b_eilengard={}
+				b_lusk={}
+				b_mantausk={}
+				b_chalacher={}
+				b_porusk={}
+
+			}
+
+			c_skyview ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_skyview={}
+				b_laercherl={}
+				b_aruskcherl={}
+				b_harenael={}
+				b_dorusku={}
+				b_ruskus={}
+				b_valuskche={}
+
+			}
+
+			c_shattered_sanctuary ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_shattered_sanctuary={}
+				b_nalaegard={}
+				b_oregusk={}
+				b_lancaelusk={}
+				b_taruskus={}
+				b_saerensku={}
+				b_nalaecher={}
+
+			}
+
+			c_haleagard ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_haleagard={}
+				b_chuskus={}
+				b_laelacher={}
+				b_kuskae={}
+				b_perealgard={}
+				b_kaerenlusk={}
+				b_suruska={}
+
+			}
+
+		}
+
+		d_castor ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_castor_point ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_castor_point={}
+				b_rato={}
+				b_kaldoro={}
+				b_vindtor={}
+				b_noroale={}
+				b_joroc={}
+				b_strale={}
+
+			}
+
+			c_strato ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_strato={}
+				b_torris={}
+				b_vaprice={}
+				b_vasto={}
+				b_derendoro={}
+				b_voloeroc={}
+				b_irale={}
+
+			}
+
+			c_gale ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_gale={}
+				b_virok={}
+				b_krastoedrum={}
+				b_leyind={}
+				b_poroeroc={}
+				b_taro={}
+				b_malprice={}
+
+			}
+
+			c_bronas ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_bronas={}
+				b_eragoroc={}
+				b_alandoro={}
+				b_vebrato={}
+				b_saile={}
+				b_nurodoro={}
+				b_tarendstor={}
+
+			}
+
+			c_caprice ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_caprice={}
+				b_haleodrum={}
+				b_uriand={}
+				b_priestor={}
+				b_galend={}
+				b_noroed={}
+				b_keroca={}
+
+			}
+
+			c_gregal ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_gregal={}
+				b_merdris={}
+				b_eregale={}
+				b_aravice={}
+				b_liend={}
+				b_doro={}
+				b_mastore={}
+
+			}
+
+			c_midoro ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_midoro={}
+				b_oreond={}
+				b_ieroc={}
+				b_nale={}
+				b_warenprice={}
+				b_tratoe={}
+				b_alodrum={}
+
+			}
+
+		}
+
+	}
+
+	k_forbidden_woods ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_krakar ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_kakarmi ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kakarmi={}
+				b_krestu={}
+				b_elamae={}
+				b_ldo={}
+				b_groena={}
+				b_virch={}
+				b_sinder={}
+
+			}
+
+			c_vakari ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_vakari={}
+				b_noroko={}
+				b_korelma={}
+				b_hoakcio={}
+				b_damca={}
+				b_rolicio={}
+				b_oro={}
+
+			}
+
+			c_daldo ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_daldo={}
+				b_pirch={}
+				b_jakare={}
+				b_celder={}
+				b_vrula={}
+				b_varakari={}
+				b_karmi={}
+
+			}
+
+			c_kari ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kari={}
+				b_porok={}
+				b_vrollo={}
+				b_winkar={}
+				b_kerekio={}
+				b_orocok={}
+				b_lelkin={}
+
+			}
+
+			c_oekin ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_oekin={}
+				b_toakwn={}
+				b_haramia={}
+				b_kokovio={}
+				b_tirirch={}
+				b_malokarmi={}
+				b_aekar={}
+
+			}
+
+		}
+
+		d_gakorok ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_makari ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_makari={}
+				b_jorokarmi={}
+				b_graekar={}
+				b_ronahio={}
+				b_eula={}
+				b_loaku={}
+				b_koelocio={}
+
+			}
+
+			c_aleokari ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_aleokari={}
+				b_wadoeder={}
+				b_cona_korok={}
+				b_wallenwestu={}
+				b_voak={}
+				b_khown={}
+				b_rioe={}
+
+			}
+
+			c_mestu ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_mestu={}
+				b_alestue={}
+				b_kindamia={}
+				b_sacahio={}
+				b_saloenma={}
+				b_aro_karo={}
+				b_vakar_vakar={}
+
+			}
+
+			c_krio ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_krio={}
+				b_aierch={}
+				b_aldohia={}
+				b_rarown={}
+				b_dulae={}
+				b_hiaocakin={}
+				b_garutestu={}
+
+			}
+
+			c_winde ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_winde={}
+				b_balendo={}
+				b_vulavollo={}
+				b_gorovielo={}
+				b_jorirch={}
+				b_garrkar={}
+				b_oro_krestia={}
+
+			}
+
+		}
+
+		d_kulae ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_rona ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rona={}
+				b_farorok={}
+				b_aro_garo={}
+				b_fiender={}
+				b_wulua={}
+				b_westukar={}
+				b_karokio={}
+
+			}
+
+			c_kollo ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_kollo={}
+				b_argokollo={}
+				b_erolivio={}
+				b_halldoe={}
+				b_odo_noakin={}
+				b_oro_roro={}
+				b_makaru={}
+
+			}
+
+			c_oleorown ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_oleorown={}
+				b_zakari={}
+				b_azakarmie={}
+				b_kakareru={}
+				b_bakar={}
+				b_alu={}
+				b_gown={}
+
+			}
+
+			c_aca ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_aca={}
+				b_barabarkin={}
+				b_loroko={}
+				b_karhol={}
+				b_oro_garoro={}
+				b_aru_vestu={}
+				b_gronaru={}
+
+			}
+
+		}
+
+	}
+
+	k_misery_mire ={
+		color={240 232 109}
+		color2={240 155 109}
+
+		d_okaytus ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_gohma's_reach ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_gohma's_reach={}
+				b_ganurous={}
+				b_vorma={}
+				b_kutidor={}
+				b_iezanus={}
+				b_bitra={}
+				b_vulakus={}
+
+			}
+
+			c_vitreon_point ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_vitreon_point={}
+				b_eredidor={}
+				b_lietelisk={}
+				b_zarmoe={}
+				b_aravera={}
+				b_zekemanus={}
+				b_eilukrella={}
+
+			}
+
+			c_innanis ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_innanis={}
+				b_jerradus={}
+				b_hiriduten={}
+				b_karuus={}
+				b_liskk={}
+				b_parutus={}
+				b_zera={}
+
+			}
+
+			c_saldus ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_saldus={}
+				b_orohma={}
+				b_niredor={}
+				b_vreon={}
+				b_gararasa={}
+				b_vabela={}
+				b_krirdorr={}
+
+			}
+
+		}
+
+		d_hanu ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_armo ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_armogohma={}
+				b_aruten={}
+				b_ferarus={}
+				b_veradonius={}
+				b_algera={}
+				b_manius={}
+				b_arakos={}
+
+			}
+
+			c_viridor ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_viridor={}
+				b_lanunis={}
+				b_vefusos={}
+				b_arkadera={}
+				b_paeralisk={}
+				b_amarousa={}
+				b_mukarusa={}
+
+			}
+
+			c_zalkarus ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_zalkarus={}
+				b_terrakarnis={}
+				b_jeiteous={}
+				b_vitri_armo={}
+				b_callisk={}
+				b_argdus={}
+				b_zulkos={}
+
+			}
+
+			c_arkaytus ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_arkaytus={}
+				b_youngest_kin's_cage={}
+				b_orotrenusk={}
+				b_reous={}
+				b_vimmanus={}
+				b_kabrela={}
+				b_etrilisk={}
+
+			}
+
+		}
+
+		d_uten ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_matrimanus ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_matrimanus={}
+				b_royal_hive={}
+				b_dorkus={}
+				b_nephraderu={}
+				b_krutoen={}
+				b_lolzvus={}
+				b_creanela={}
+
+			}
+
+			c_deeler ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_deeler={}
+				b_biria={}
+				b_kreerara={}
+				b_lotromannis={}
+				b_laefos={}
+				b_zitretusa={}
+				b_arendora={}
+
+			}
+
+			c_praetor's_run ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_praetorium={}
+				b_patoria={}
+				b_manohma={}
+				b_elatrus={}
+				b_ielaluten={}
+				b_ergranis={}
+				b_varamatris={}
+
+			}
+
+			c_futalisk ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_futalisk={}
+				b_middle_kin's_cage={}
+				b_feroranu={}
+				b_orysp={}
+				b_verakonius={}
+				b_waelfos={}
+				b_zarmodalrus={}
+
+			}
+
+		}
+
+		d_prefus ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_iemanis ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_iemanis={}
+				b_kraynanus={}
+				b_eregella={}
+				b_kossuul={}
+				b_vatelissk={}
+				b_veredore={}
+				b_elenjanus={}
+
+			}
+
+			c_dera ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_dera={}
+				b_malluss={}
+				b_zela={}
+				b_niskmella={}
+				b_arunu={}
+				b_agraemanu={}
+				b_arogu={}
+
+			}
+
+			c_drufis ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_drufis={}
+				b_drusazera={}
+				b_karorekera={}
+				b_nayrmanis={}
+				b_darphafos={}
+				b_erekeru={}
+				b_lsiku={}
+
+			}
+
+			c_salfos ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_salfos={}
+				b_tredohma={}
+				b_lohmaru={}
+				b_nonarmo={}
+				b_verevresus={}
+				b_ebrayla={}
+				b_zalakaris={}
+
+			}
+
+		}
+
+		d_aratus ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_immanis ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_immanis={}
+				b_mekris={}
+				b_nuridor={}
+				b_argravest={}
+				b_lirre={}
+				b_verakos={}
+				b_sulkareis={}
+
+			}
+
+			c_sulkos ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_sulkos={}
+				b_galusk={}
+				b_terikarusk={}
+				b_latelisk={}
+				b_menis={}
+				b_nusaratus={}
+				b_gohmaru={}
+
+			}
+
+			c_vitreous ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_vitreous={}
+				b_goreohma={}
+				b_veretreon={}
+				b_zelekaruz={}
+				b_naranira={}
+				b_luthen={}
+				b_markamannis={}
+
+			}
+
+		}
+
+		d_rasa ={
+			color={238 104 57}
+			color2={220 196 63}
+
+			c_rebella ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_rebella={}
+				b_oldest_kin's_cage={}
+				b_gratis={}
+				b_nellalous={}
+				b_fusdire={}
+				b_tenvreon={}
+				b_derenoius={}
+
+			}
+
+			c_felonius ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_felo={}
+				b_veloni={}
+				b_kerekonea={}
+				b_zarukarusk={}
+				b_porokisk={}
+				b_mysp={}
+				b_nahu={}
+
+			}
+
+			c_ysp ={
+				color={32 4 32}
+				color2={76 5 98}
+
+				b_ysp={}
+				b_urulkoss={}
+				b_lolorma={}
+				b_jaekafus={}
+				b_masa={}
+				b_kaytues={}
+				b_codelisk={}
+
+			}
+
+		}
+
+	}
+
+}	
