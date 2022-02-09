@@ -4891,8 +4891,8 @@ e_hyrule = {
 			color2={220 196 63}
 
 			c_gundrumether ={
-				color={32 4 32}
-				color2={76 5 98}
+				color={155 226 226}
+				color2={34 34 34}
 
 				b_castle_town={}
 				b_hyrule_castle={}
@@ -12415,8 +12415,8 @@ e_tabantha = {
 }
 
 e_umoloth = {
-	color={35 244 148}
-	color2={99 246 10}
+	color={0 82 165}
+	color2={255 255 255}
 
 	allow = {
 	}
@@ -12551,12 +12551,12 @@ e_umoloth = {
 		
 	
 		d_koholint ={
-			color={238 104 57}
+			color={19 103 162}
 			color2={220 196 63}	
 			
 			c_koholint_island ={
 				color={32 4 32}
-				color2={76 5 98}
+				color2={108 194 106}
 
 				b_kanalet={}
 				b_goponga={}
