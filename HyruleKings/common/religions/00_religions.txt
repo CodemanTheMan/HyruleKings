@@ -1,1 +1,2382 @@
-test
+trillith = {
+
+    has_coa_on_barony_only = yes
+    graphical_culture = westerngfx
+    color = { 255 238 0 }
+    playable = yes
+    ai_peaceful = yes
+    hostile_within_group = no
+    ai_fabricate_claims = no
+    ai_convert_other_group = 1
+    ai_convert_same_group = 0
+
+    hyrulean = {
+
+        aggression = 0.5
+
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 255 247 0 }
+        scripture_name = THE_BOOK_OF_MUDORA THE_SAGA_OF_NOHAN
+        priest_title = PRIEST
+        high_god_name = THE_GOLDEN_GODDESSES
+        god_names = {
+            THE_OLD_GODS THE_NEW_GODS THE_ETERNAL_RAIN THE_FIRSTBORN
+        }
+        evil_god_names = {
+            THE_PRIMORDIALS MAJORA DEMISE MALLADUS
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = yes
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = yes
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = AHNDI
+        can_hold_temples = yes
+        priests_can_marry = yes
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = yes
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    ahnnan = {
+
+        aggression = 0.5
+        parent = hyrulean
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 252 250 187 }
+        scripture_name = THE_BOOK_OF_MUDORA THE_SAGA_OF_NOHAN
+        priest_title = PRIEST
+        high_god_name = THE_GOLDEN_GODDESSES SOLAHRASIN
+        god_names = {
+            THE_OLD_GODS THE_NEW_GODS THE_ETERNAL_RAIN THE_FIRSTBORN
+        }
+        evil_god_names = {
+            THE_PRIMORDIALS MAJORA DEMISE MALLADUS
+        }
+        investiture = yes
+        can_have_antipopes = no
+        can_excommunicate = yes
+        can_grant_divorce = yes
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = yes
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = AHNDI
+        can_hold_temples = yes
+        priests_can_marry = yes
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = yes
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    adventist = {
+
+        aggression = 0.5
+
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 237 232 71 }
+        scripture_name = THE_BOOK_OF_MUDORA THE_SAGA_OF_NOHAN
+        priest_title = PRIEST
+        high_god_name = THE_GOLDEN_GODDESSES
+        god_names = {
+            THE_OLD_GODS THE_NEW_GODS THE_ETERNAL_RAIN THE_FIRSTBORN
+        }
+        evil_god_names = {
+            THE_PRIMORDIALS MAJORA DEMISE MALLADUS
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = yes
+        can_grant_claim = yes
+        can_call_crusade = yes
+        can_retire_to_monastery = yes
+        priests_can_inherit = yes
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = AHNDI
+        can_hold_temples = yes
+        priests_can_marry = yes
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = yes
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    keatonist = {
+
+        aggression = 3.5
+        parent = adventist
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 145 142 45 }
+        scripture_name = THE_BOOK_OF_MUDORA THE_SAGA_OF_NOHAN
+        priest_title = PRIEST
+        high_god_name = THE_GOLDEN_GODDESSES
+        god_names = {
+            THE_OLD_GODS THE_NEW_GODS THE_ETERNAL_RAIN THE_FIRSTBORN
+        }
+        evil_god_names = {
+            THE_PRIMORDIALS MAJORA DEMISE MALLADUS
+        }
+        investiture = yes
+        can_have_antipopes = no
+        can_excommunicate = yes
+        can_grant_divorce = yes
+        can_grant_claim = yes
+        can_call_crusade = yes
+        can_retire_to_monastery = yes
+        priests_can_inherit = yes
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = AHNDI
+        can_hold_temples = yes
+        priests_can_marry = yes
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = yes
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = no
+    }
+
+    classical = {
+
+        aggression = 0.5
+
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 235 233 185 }
+        scripture_name = THE_SAGA_OF_NOHAN
+        priest_title = PRIEST
+        high_god_name = THE_GOLDEN_GODDESSES
+        god_names = {
+            THE_OLD_GODS THE_NEW_GODS THE_ETERNAL_RAIN THE_FIRSTBORN
+        }
+        evil_god_names = {
+            THE_PRIMORDIALS MAJORA DEMISE MALLADUS
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = yes
+        can_grant_divorce = yes
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = yes
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = AHNDI
+        can_hold_temples = yes
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = yes
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    saohna = {
+
+        aggression = 1
+        parent = classical
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 222 213 0 }
+        scripture_name = THE_SAGA_OF_NOHAN
+        priest_title = PRIEST
+        high_god_name = THE_SUN
+        god_names = {
+            THE_OLD_GODS THE_NEW_GODS THE_ETERNAL_RAIN THE_FIRSTBORN
+        }
+        evil_god_names = {
+            THE_PRIMORDIALS MAJORA DEMISE MALLADUS
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = yes
+        can_grant_divorce = yes
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = yes
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = AHNDI
+        can_hold_temples = yes
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = yes
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    jabunic = {
+
+        aggression = 0.5
+
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 199 217 212 }
+        scripture_name = THE_JABUNIC_SCRIPTS
+        priest_title = PRIEST
+        high_god_name = THE_GOLDEN_GODDESSES
+        god_names = {
+            THE_OLD_GODS THE_NEW_GODS THE_ETERNAL_RAIN THE_FIRSTBORN
+        }
+        evil_god_names = {
+            THE_PRIMORDIALS MAJORA DEMISE MALLADUS
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = yes
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = yes
+        priests_can_inherit = yes
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = AHNDI
+        can_hold_temples = yes
+        priests_can_marry = no
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    malkorbagian = {
+
+        aggression = 0.5
+        parent = jabunic
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 99 199 230 }
+        scripture_name = THE_JABUNIC_SCRIPTS
+        priest_title = PRIEST
+        high_god_name = MALKORBAGIA
+        god_names = {
+            THE_OLD_GODS THE_NEW_GODS THE_ETERNAL_RAIN THE_FIRSTBORN
+        }
+        evil_god_names = {
+            THE_PRIMORDIALS MAJORA DEMISE MALLADUS
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = yes
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = yes
+        priests_can_inherit = yes
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = AHNDI
+        can_hold_temples = yes
+        priests_can_marry = no
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+primordial = {
+
+    has_coa_on_barony_only = yes
+    graphical_culture = westerngfx
+    color = { 0 0 0 }
+    crusade_cb = crusade
+    playable = yes
+    ai_peaceful = no
+    ai_fabricate_claims = yes
+    hostile_within_group = yes
+    ai_convert_other_group = 2
+    ai_convert_same_group = 2
+    }
+
+    bellumic = {
+
+        aggression = 3.5
+
+        graphical_culture = westerngfx
+        icon = 1
+        crusade_name = "DEVOURING"
+        heresy_icon = 6
+        color = { 202 222 53 }
+        scripture_name = THE_BLOOD_OATH
+        priest_title = PRIEST
+        high_god_name = BELLUM THE_DEVOURER
+        god_names = {
+            TENTALUS SPAWN_OF_BELLUM
+        }
+        evil_god_names = {
+            OSHUS MALKORBAGIA NOHAN
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = yes
+        can_grant_claim = no
+        can_call_crusade = yes
+        can_retire_to_monastery = no
+        priests_can_inherit = yes
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = HUNGER
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = no
+    }
+
+    calamity = {
+
+        aggression = 3.5
+
+        graphical_culture = westerngfx
+        icon = 1
+        crusade_name = CALAMITY
+        heresy_icon = 6
+        color = { 77 13 8 }
+        scripture_name = THE_AKKALA_STONE
+        priest_title = PRIEST
+        high_god_name = MALICE THE_ABHORRENT
+        god_names = {
+            DEMISE MALLADUS GANON FIREBLIGHT THUNDERBLIGHT WATERBLIGHT WINDBLIGHT
+        }
+        evil_god_names = {
+            HYLIA ELDIN SOLAHRASIN
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = yes
+        can_grant_claim = no
+        can_call_crusade = yes
+        can_retire_to_monastery = no
+        priests_can_inherit = yes
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = MALICE
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = no
+    }
+
+    hive = {
+
+        aggression = 3.5
+
+        graphical_culture = westerngfx
+        icon = 1
+        crusade_name = INFESTATION
+        heresy_icon = 6
+        color = { 79 247 152 }
+        scripture_name = WORD_OF_THE_GOHMA
+        priest_title = PRIEST
+        high_god_name = VITREOUS IEMANIS IMMANIS THE_TYRANT
+        god_names = {
+            THE_EYES_OF_VITREOUS SULKARIS
+        }
+        evil_god_names = {
+            THE_OLD_GODS DEMOKO
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = yes
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = yes
+        can_retire_to_monastery = no
+        priests_can_inherit = yes
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = CONTROL
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = no
+        has_heir_designation = yes
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    nightmare = {
+
+        aggression = 3.5
+
+        graphical_culture = westerngfx
+        icon = 1
+        crusade_name = TORMENTING
+        heresy_icon = 6
+        color = { 19 9 28 }
+        scripture_name = THE_HORRORS
+        priest_title = PRIEST
+        high_god_name = DETHL DITHLE
+        god_names = {
+            THE_NIGHTMARES
+        }
+        evil_god_names = {
+            EVALEEN
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = yes
+        can_grant_claim = no
+        can_call_crusade = yes
+        can_retire_to_monastery = no
+        priests_can_inherit = yes
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = FEAR
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = no
+    }
+
+    egoic = {
+
+        aggression = 3.5
+
+        graphical_culture = westerngfx
+        icon = 1
+        crusade_name = WAR_OF_THE_MASKS
+        heresy_icon = 6
+        color = { 55 15 92 }
+        scripture_name = THE_BALLAD_OF_SELF
+        priest_title = PRIEST
+        high_god_name = VAATI
+        god_names = {
+            PATRA
+        }
+        evil_god_names = {
+            THE_OLD_GODS KOVALOO
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = yes
+        can_grant_claim = no
+        can_call_crusade = yes
+        can_retire_to_monastery = no
+        priests_can_inherit = yes
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = EGO
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = no
+    }
+
+    khold = {
+
+        aggression = 3.5
+
+        graphical_culture = westerngfx
+        icon = 1
+        crusade_name = THAWING
+        heresy_icon = 6
+        color = { 179 186 186 }
+        scripture_name = THE_ICE_CARVINGS
+        priest_title = FORSWORN
+        high_god_name = KHOLDSTARE
+        god_names = {
+            CHILFOS
+        }
+        evil_god_names = {
+            THE_OLD_GODS MAPHAEUS TUPILAQ
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = yes
+        can_grant_claim = no
+        can_call_crusade = yes
+        can_retire_to_monastery = no
+        priests_can_inherit = yes
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = APATHY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = no
+    }
+
+    northern_wind = {
+
+        aggression = 3.5
+        parent = khold
+        graphical_culture = westerngfx
+        icon = 1
+        crusade_name = THAWING
+        heresy_icon = 6
+        color = { 137 140 140 }
+        scripture_name = THE_ICE_CARVINGS
+        priest_title = FORSWORN
+        high_god_name = KHOLDSTARE
+        god_names = {
+            CHILFOS
+        }
+        evil_god_names = {
+            THE_OLD_GODS MAPHAEUS TUPILAQ
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = yes
+        can_grant_claim = no
+        can_call_crusade = yes
+        can_retire_to_monastery = no
+        priests_can_inherit = yes
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = APATHY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = no
+    }
+
+idolatry = {
+
+    has_coa_on_barony_only = yes
+    graphical_culture = westerngfx
+    color = { 138 138 138 }
+    crusade_cb = crusade
+    playable = yes
+    ai_peaceful = yes
+    ai_fabricate_claims = yes
+    hostile_within_group = yes
+    ai_convert_other_group = 1
+    ai_convert_same_group = 1
+    }
+
+    hero_worship = {
+
+        aggression = 1.5
+
+        graphical_culture = westerngfx
+        icon = 1
+        crusade_name = HEROIC_CAMPAIGN
+        heresy_icon = 6
+        color = { 255 255 38 }
+        scripture_name = THE_LEGION_CODE
+        priest_title = PRIEST
+        high_god_name = 
+        god_names = {
+            THE_HEROES
+        }
+        evil_god_names = {
+        }
+        investiture = yes
+        can_have_antipopes = yes
+        can_excommunicate = yes
+        can_grant_divorce = yes
+        can_grant_claim = yes
+        can_call_crusade = yes
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = HONOR
+        can_hold_temples = yes
+        priests_can_marry = no
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = no
+    }
+
+    clothes_worship = {
+
+        aggression = 0.2
+
+        graphical_culture = westerngfx
+        icon = 1
+        crusade_name = DECLOTHING
+        heresy_icon = 6
+        color = { 29 126 161 }
+        scripture_name = THE_MOONLIT_STONES
+        priest_title = PRIEST
+        high_god_name = 
+        god_names = {
+            ONES_WITH_CLOTHES
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = yes
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = FASHION
+        can_hold_temples = no
+        priests_can_marry = no
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    power_worship = {
+
+        aggression = 5
+
+        graphical_culture = westerngfx
+        icon = 1
+        crusade_name = POWER_PLAY
+        heresy_icon = 6
+        color = { 212 92 23 }
+        scripture_name = THE_BOOK_OF_GANON
+        priest_title = PRIEST
+        high_god_name = 
+        god_names = {
+            UKBLINRO MALLADUS
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = yes
+        can_grant_claim = yes
+        can_call_crusade = yes
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = POWER
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = no
+    }
+
+madioran = {
+
+    has_coa_on_barony_only = yes
+    graphical_culture = westerngfx
+    color = { 112 0 143 }
+    crusade_cb = crusade
+    playable = yes
+    ai_peaceful = no
+    ai_fabricate_claims = yes
+    hostile_within_group = no
+    ai_convert_other_group = 2
+    ai_convert_same_group = 0
+    }
+
+    majoran = {
+
+        aggression = 3.5
+
+        graphical_culture = westerngfx
+        icon = 1
+        crusade_name = COLLAPSING_OF_THE_PEDESTALS
+        heresy_icon = 6
+        color = { 79 15 125 }
+        scripture_name = THE_BOOK_OF_MAJORA
+        priest_title = PRIEST
+        high_god_name = majora
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = yes
+        can_have_antipopes = no
+        can_excommunicate = yes
+        can_grant_divorce = yes
+        can_grant_claim = yes
+        can_call_crusade = yes
+        can_retire_to_monastery = no
+        priests_can_inherit = yes
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = TRUTH
+        can_hold_temples = yes
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    twilit = {
+
+        aggression = 3
+
+        graphical_culture = westerngfx
+        icon = 1
+        crusade_name = HYRULE_CONQUEST
+        heresy_icon = 6
+        color = { 25 28 28 }
+        scripture_name = THE_UZU_SCRIPTURE
+        priest_title = PRIEST
+        high_god_name = majora
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = yes
+        can_have_antipopes = yes
+        can_excommunicate = yes
+        can_grant_divorce = yes
+        can_grant_claim = yes
+        can_call_crusade = yes
+        can_retire_to_monastery = YES
+        priests_can_inherit = yes
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = TRUTH
+        can_hold_temples = yes
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    odolwan = {
+
+        aggression = 3.5
+
+        graphical_culture = westerngfx
+        icon = 1
+        crusade_name = DANCE_OF_DEATH
+        heresy_icon = 6
+        color = { 89 112 15 }
+        scripture_name = THE_BALLAD_OF_ODOLWA
+        priest_title = WITCH_DOCTOR
+        high_god_name = majora
+        god_names = {
+        ODOLWA
+        }
+        evil_god_names = {
+        }
+        investiture = yes
+        can_have_antipopes = no
+        can_excommunicate = yes
+        can_grant_divorce = yes
+        can_grant_claim = yes
+        can_call_crusade = yes
+        can_retire_to_monastery = yes
+        priests_can_inherit = yes
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = TRUTH
+        can_hold_temples = yes
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+light_spirit = {
+
+    has_coa_on_barony_only = yes
+    graphical_culture = westerngfx
+    color = { 255 255 255 }
+    playable = yes
+    ai_peaceful = yes
+    ai_fabricate_claims = no
+    hostile_within_group = yes
+    ai_convert_other_group = 1
+    ai_convert_same_group = 1
+    }
+
+    reformed_satori = {
+
+        aggression = 0.5
+        reformed = satori_reformed
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 0 255 229 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = SATORI THE_DEER
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    satori = {
+
+        aggression = 0.5
+        pre_reformed = yes
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 0 255 229 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = SATORI THE_DEER
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    reformed_akkala = {
+
+        aggression = 0.5
+        reformed = akkala_reformed
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 255 238 0 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = AKKALA THE_EAGLE
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    akkala = {
+
+        aggression = 0.5
+        pre_reformed = yes
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 255 238 0 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = AKKALA THE_EAGLE
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    reformed_kokiri = {
+
+        aggression = 0.5
+        reformed = kokiri_reformed
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 0 255 26 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = KOKIRI THE_FOX
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    kokiri = {
+
+        aggression = 0.5
+        pre_reformed = yes
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 0 255 26 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = KOKIRI THE_FOX
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    reformed_eldin = {
+
+        aggression = 0.5
+        reformed = eldin_reformed
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 255 26 5 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = ELDIN THE_WYVERN
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    eldin = {
+
+        aggression = 0.5
+        pre_reformed = yes
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 255 26 5 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = ELDIN THE_WYVERN
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    reformed_tabantha = {
+
+        aggression = 0.5
+        reformed = tabantha_reformed
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 237 226 225 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = TABANTHA THE_WOLF
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    tabantha = {
+
+        aggression = 0.5
+        pre_reformed = yes
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 237 226 225 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = TABANTHA THE_WOLF
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    reformed_ordona = {
+
+        aggression = 0.5
+        reformed = ordona_reformed
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 255 191 0 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = ORDONA THE_GOAT
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    ordona = {
+
+        aggression = 0.5
+        pre_reformed = yes
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 255 191 0 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = ORDONA THE_GOAT
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    reformed_lanayru = {
+
+        aggression = 0.5
+        reformed = lanayru_reformed
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 0 72 255 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = LANAYRU THE_SERPENT
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    lanayru = {
+
+        aggression = 0.5
+        pre_reformed = yes
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 0 72 255 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = LANAYRU THE_SERPENT
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    reformed_necluda = {
+
+        aggression = 0.5
+        reformed = necluda_reformed
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 207 12 2 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = NECLUDA THE_HORSE
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    necluda = {
+
+        aggression = 0.5
+        pre_reformed = yes
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 207 12 2 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = NECLUDA THE_HORSE
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    reformed_holodrum = {
+
+        aggression = 0.5
+        reformed = holodrum_reformed
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 255 0 187 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = HOLODRUM THE_UNICORN
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    holodrum = {
+
+        aggression = 0.5
+        pre_reformed = yes
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 255 0 187 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = HOLODRUM THE_UNICORN
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    reformed_gerudo = {
+
+        aggression = 0.5
+        reformed = gerudo_reformed
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 255 119 0 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = GERUDO THE_WYRM
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    gerudo = {
+
+        aggression = 0.5
+        pre_reformed = yes
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 255 119 0 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = GERUDO THE_WYRM
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    reformed_faron = {
+
+        aggression = 0.5
+        reformed = faron_reformed
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 153 255 0 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = FARON THE_MONKEY
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    faron = {
+
+        aggression = 0.5
+        pre_reformed = yes
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 153 255 0 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = FARON THE_MONKEY
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    reformed_labrynna = {
+
+        aggression = 0.5
+        reformed = labrynna_reformed
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 236 110 255 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = LABRYNNA THE_LION
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    labrynna = {
+
+        aggression = 0.5
+        pre_reformed = yes
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 236 110 255 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = LABRYNNA THE_LION
+        god_names = {
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+naturalist = {
+
+    has_coa_on_barony_only = yes
+    graphical_culture = westerngfx
+    color = { 20 245 0 }
+    playable = yes
+    ai_peaceful = yes
+    ai_fabricate_claims = no
+    hostile_within_group = yes
+    ai_convert_other_group = 1
+    ai_convert_same_group = 0
+    }
+
+    reformed_valadeku = {
+
+        aggression = 0.5
+        reformed = valadeku_reformed
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 55 189 34 }
+        scripture_name = THE_VALA_CARVINGS
+        priest_title = ENCHANTRESS
+        high_god_name = FARORE
+        god_names = {
+        VALA DEKU MAKU
+        }
+        evil_god_names = {
+        VITREOUS BAGA SULKARIS
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = no
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    valadeku = {
+
+        aggression = 0.5
+        pre_reformed = yes
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 55 189 34 }
+        scripture_name = THE_VALA_CARVINGS
+        priest_title = ENCHANTRESS
+        high_god_name = FARORE
+        god_names = {
+        VALA DEKU MAKU
+        }
+        evil_god_names = {
+        VITREOUS BAGA SULKARIS
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = no
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    reformed_deku = {
+
+        aggression = 2.5
+        reformed = deku_reformed
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 20 145 0 }
+        scripture_name = THE_SCRUBSAYINGS
+        priest_title = PRIEST
+        high_god_name =
+        god_names = {
+        SULKARIS STAGNOX ODOLWA
+        }
+        evil_god_names = {
+        THE_VALA_TREES
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = no
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    deku = {
+
+        aggression = 2.5
+        pre_reformed = yes
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 20 145 0 }
+        scripture_name = THE_SCRUBSAYINGS
+        priest_title = PRIEST
+        high_god_name =
+        god_names = {
+        SULKARIS STAGNOX ODOLWA
+        }
+        evil_god_names = {
+        THE_VALA_TREES
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = no
+        matrilineal_marriages = no
+        female_temple_holders = no
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    reformed_dream = {
+
+        aggression = 0.5
+        reformed = dream_reformed
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 255 156 247 }
+        scripture_name = THE_SONG_OF_SEASONS
+        priest_title = PRIEST
+        high_god_name = TARM GOD_OF_SECRETS
+        god_names = {
+        THE_WIND_FISH
+        }
+        evil_god_names = {
+        DETHL DITHLE THE_NIGHTMARE
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = no
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    dream = {
+
+        aggression = 0.5
+        pre_reformed = yes
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 255 156 247 }
+        scripture_name = THE_SONG_OF_SEASONS
+        priest_title = PRIEST
+        high_god_name = TARM GOD_OF_SECRETS
+        god_names = {
+        THE_WIND_FISH
+        }
+        evil_god_names = {
+        DETHL DITHLE THE_NIGHTMARE
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = no
+        can_grant_claim = no
+        can_call_crusade = no
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = no
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+draconic = {
+
+    has_coa_on_barony_only = yes
+    graphical_culture = westerngfx
+    color = { 173 23 0 }
+    playable = yes
+    ai_peaceful = no
+    ai_fabricate_claims = yes
+    hostile_within_group = yes
+    ai_convert_other_group = 2
+    ai_convert_same_group = 2
+    }
+
+    vor_sakes = {
+
+        aggression = 4.5
+
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 112 138 112 }
+        scripture_name = THE_DRAGON_BONES
+        priest_title = PRIEST
+        high_god_name = VYORSOTH
+        god_names = {
+            OK_RA DODALAGON FAROSH DINRAAL GARNYLE_OG TRINEXX
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = yes
+        can_grant_claim = no
+        can_call_crusade = yes
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = no
+    }
+
+    naydran = {
+
+        aggression = 4.5
+        parent = vor_sakes
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 112 126 138 }
+        scripture_name = THE_DRAGON_BONES
+        priest_title = PRIEST
+        high_god_name = VYORSOTH
+        god_names = {
+            OK_RA DODALAGON FAROSH DINRAAL GARNYLE_OG TRINEXX NAYDRA
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = yes
+        can_grant_claim = no
+        can_call_crusade = yes
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = no
+    }
+
+    dynalkushut = {
+
+        aggression = 4.5
+        parent = vor_sakes
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 138 116 112 }
+        scripture_name = THE_DRAGON_BONES
+        priest_title = PRIEST
+        high_god_name = VYORSOTH DYNALKUSHUS
+        god_names = {
+            OK_RA DODALAGON FAROSH DINRAAL GARNYLE_OG TRINEXX NAYDRA
+        }
+        evil_god_names = {
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = yes
+        can_grant_claim = no
+        can_call_crusade = yes
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = no
+    }
+
+    zorana = {
+
+        aggression = 1.5
+
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 247 180 22 }
+        scripture_name = THE_DEEP_SCROLLS
+        priest_title = PRIEST
+        high_god_name =
+        god_names = {
+            OSHUS MALKORBAGIA THE_WIND_FISH NAYDRA MORPHEEL
+        }
+        evil_god_names = {
+            BELLUM GYORG
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = yes
+        can_grant_claim = no
+        can_call_crusade = yes
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    salona = {
+
+        aggression = 1.5
+
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 158 114 9 }
+        scripture_name = THE_SAMASA_STONES
+        priest_title = PRIEST
+        high_god_name =
+        god_names = {
+            SUBROSIAN_DRAGONS
+        }
+        evil_god_names = {
+
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = yes
+        can_grant_claim = no
+        can_call_crusade = yes
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    valoan = {
+
+        aggression = 1.5
+
+        graphical_culture = westerngfx
+        icon = 1
+        heresy_icon = 6
+        color = { 212 123 78 }
+        scripture_name = THE_DRAGONROOST_SCROLLS
+        priest_title = PRIEST
+        high_god_name = VALOO
+        god_names = {
+            ZEPHOS CYCLOS CYLOS
+        }
+        evil_god_names = {
+
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = yes
+        can_grant_claim = no
+        can_call_crusade = yes
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+cyclical = {
+
+    has_coa_on_barony_only = yes
+    graphical_culture = westerngfx
+    color = { 68 61 196 }
+    crusade_cb = crusade
+    playable = yes
+    ai_peaceful = yes
+    ai_fabricate_claims = yes
+    hostile_within_group = yes
+    ai_convert_other_group = 1
+    ai_convert_same_group = 1
+    }
+
+    kovalian = {
+
+        aggression = 2
+        reformed = old_kovalian_reformed
+        graphical_culture = westerngfx
+        icon = 1
+        crusade_name = JIHAD
+        heresy_icon = 6
+        color = { 227 158 61 }
+        scripture_name = THE_SAV'RALO
+        priest_title = PRIEST
+        high_god_name = DIN
+        god_names = {
+            KOVALOO
+        }
+        evil_god_names = {
+
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = yes
+        can_grant_claim = no
+        can_call_crusade = yes
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = no
+    }
+
+    old_kovalian = {
+
+        aggression = 2
+        pre_reformed = yes
+        graphical_culture = westerngfx
+        icon = 1
+        crusade_name = WAR_OF_SPIRIT
+        heresy_icon = 6
+        color = { 227 158 61 }
+        scripture_name = THE_LEGENDS
+        priest_title = PRIEST
+        high_god_name = KOVALOO
+        god_names = {
+
+        }
+        evil_god_names = {
+
+        }
+        investiture = no
+        can_have_antipopes = no
+        can_excommunicate = no
+        can_grant_divorce = yes
+        can_grant_claim = no
+        can_call_crusade = yes
+        can_retire_to_monastery = no
+        priests_can_inherit = no
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = no
+        priests_can_marry = yes
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = no
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = no
+    }
+
+    vrygan = {
+
+        aggression = 0.5
+
+        graphical_culture = westerngfx
+        icon = 1
+        crusade_name = SHADOW_WAR
+        heresy_icon = 6
+        color = { 133 9 171 }
+        scripture_name = THE_CATECHISM
+        priest_title = PRIEST
+        high_god_name = HYLIA
+        god_names = {
+            EVALEEN
+        }
+        evil_god_names = {
+            DEMONS
+        }
+        investiture = yes
+        can_have_antipopes = yes
+        can_excommunicate = yes
+        can_grant_divorce = yes
+        can_grant_claim = no
+        can_call_crusade = yes
+        can_retire_to_monastery = yes
+        priests_can_inherit = yes
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = yes
+        priests_can_marry = yes
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = yes
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
+
+    wronged = {
+
+        aggression = 4.5
+        parent = vrygan
+        graphical_culture = westerngfx
+        icon = 1
+        crusade_name = RITUAL WAR
+        heresy_icon = 6
+        color = { 212 8 29 }
+        scripture_name = THE_CATECHISN
+        priest_title = PRIEST
+        high_god_name = HYLIA
+        god_names = {
+            EVALEEN
+        }
+        evil_god_names = {
+            DEMONS
+        }
+        investiture = yes
+        can_have_antipopes = yes
+        can_excommunicate = yes
+        can_grant_divorce = yes
+        can_grant_claim = no
+        can_call_crusade = yes
+        can_retire_to_monastery = yes
+        priests_can_inherit = yes
+        religious_clothing_head = 0
+        religious_clothing_priest = 1
+        piety_name = PIETY
+        can_hold_temples = yes
+        priests_can_marry = yes
+        matrilineal_marriages = yes
+        female_temple_holders = yes
+        divine_blood = yes
+        has_heir_designation = no
+        peace_piety_gain = 3.0
+        attacking_same_religion_piety_loss = yes
+    }
