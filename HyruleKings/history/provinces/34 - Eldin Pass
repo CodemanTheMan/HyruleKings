@@ -1,0 +1,26 @@
+# 34 - Eldin Pass
+
+# County Title
+title = c_eldin_pass
+
+# Settlements
+max_settlements = 2
+b_eldin_pass = tribal
+
+# Misc
+culture = lizalfos
+religion = vor_sakes
+terrain = hills
+
+# History
+215.3.2 = {
+	culture = akkalan
+	religion = akkala
+}
+530.3.2 = {
+	religion = classical
+}
+744.3.2 = {
+	culture = sheikah
+	religion = vrygan
+}
