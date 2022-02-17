@@ -5,7 +5,7 @@ title = c_torin
 
 # Settlements
 max_settlements = 3
-b_torin = tribe
+b_torin = tribal
 
 # Misc
 culture = river_zora
