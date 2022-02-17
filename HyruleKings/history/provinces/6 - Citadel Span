@@ -1,0 +1,31 @@
+# 6 - Citadel Span
+
+# County Title
+title = c_citadel_span
+
+# Settlements
+max_settlements = 4
+b_lutona = tribal
+
+# Misc
+culture = river_zora
+religion = bellumic
+terrain = hills
+
+# History
+
+10.1.1 = {
+	culture = akkalan
+	religion = akkala
+}
+1012.4.6 = {
+	b_akkala_citadel = castle
+	b_lutona = castle
+}
+1446.1.1 = {
+	culture = high_zora
+	religion = jabunic
+}
+1573.1.1 = {
+	b_falin = castle
+}
