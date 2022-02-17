@@ -1,0 +1,29 @@
+# 38 - Gor Ango
+
+# County Title
+title = c_gor_ango
+
+# Settlements
+max_settlements = 2
+b_gor_ango = tribal
+
+# Misc
+culture = dinolfos
+religion = vor_sakes
+terrain = hills
+
+# History
+215.3.2 = {
+	culture = akkalan
+	religion = akkala
+}
+530.3.2 = {
+	religion = classical
+}
+744.3.2 = {
+	culture = sheikah
+	religion = vrygan
+}
+792.3.2 = {
+	b_gor_ango = castle
+}
