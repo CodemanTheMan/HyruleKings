@@ -1,0 +1,20 @@
+# 17 - Bloodleaf
+
+# County Title
+title = c_bloodleaf
+
+# Settlements
+max_settlements = 2
+b_bloodleaf = tribal
+
+# Misc
+culture = akkalan
+religion = akkala
+terrain = hills
+
+# History
+
+106.1.1 = {
+	culture = rito
+	religion = valoan
+}
