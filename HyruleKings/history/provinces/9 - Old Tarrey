@@ -1,0 +1,31 @@
+# 9 - Old Tarrey
+
+# County Title
+title = c_old_tarrey
+
+# Settlements
+max_settlements = 3
+b_damainis = tribal
+
+# Misc
+culture = river_zora
+religion = bellumic
+terrain = marsh
+
+# History
+
+10.12.12 = {
+    culture = akkalan
+    religion = akkala
+  }
+325.1.1 = {
+	b_old_tarrey = tribal
+}
+1338.1.1 = {
+	culture = high_zora
+	religion = jabunic
+}
+2012.1.1 = {
+	culture = river_zora
+	religion = bellumic
+}
