@@ -1,0 +1,26 @@
+# 26 - Darman Pass
+
+# County Title
+title = c_darman_pass
+
+# Settlements
+max_settlements = 3
+b_darman_pass - tribal
+
+# Misc
+culture = yook
+religion = faron
+terrain = hills
+
+# History
+
+106.1.1 = {
+	culture = rito
+	religion = valoan
+}
+952.1.1 = {
+	culture = goron
+	religion = eldin
+1850.1.1 = {
+	religion = reformed_eldin
+}
