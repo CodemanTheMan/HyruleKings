@@ -1,0 +1,22 @@
+# 3 - Gor Daran
+
+# County Title
+title = c_gor_daran
+
+# Settlements
+max_settlements = 2
+b_gor_daran = tribal
+
+# Misc
+culture = subrosian
+religion = salona
+terrain = mountains
+
+# History
+952.1.1 = {
+	culture = goron
+	religion = eldin
+}
+1850.1.1 = {
+	religion = reformed_eldin
+}
