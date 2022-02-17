@@ -1,0 +1,27 @@
+# 23 - Ordorac
+
+# County Title
+title = c_ordorac
+
+# Settlements
+max_settlements = 3
+b_ordorac = tribal
+
+# Misc
+culture = akkalan
+religion = akkala
+terrain = hills
+
+# History
+
+106.1.1 = {
+	culture = rito
+	religion = valoan
+}
+952.1.1 = {
+	culture = goron
+	religion = eldin
+}
+1850.1.1 = {
+	religion = reformed_eldin
+}
