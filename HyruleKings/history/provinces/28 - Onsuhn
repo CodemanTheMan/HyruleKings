@@ -1,0 +1,22 @@
+# 28 - Onsuhn
+
+# County Title
+title = c_onsuhn
+
+# Settlements
+max_settlements = 3
+b_dawl = tribal
+
+# Misc
+culture = dodongo snake
+religion = vor_sakes
+terrain = mountains
+
+# History
+1380.3.2 = {
+	culture = goron
+	religion = eldin
+}
+1850.4.6 = {
+	religion = old_eldin
+}
