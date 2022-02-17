@@ -1,0 +1,22 @@
+# 2 - Chei Uhn
+
+# County Title
+title = c_chei_uhn
+
+# Settlements
+max_settlements = 2
+b_chei_uhn = tribe
+
+# Misc
+culture = subrosian
+religion = salona
+terrain = mountains
+
+# History
+952.1.1 = {
+	culture = goron
+	religion = eldin
+}
+1850.1.1 = {
+	religion = reformed_eldin
+}
