@@ -1,0 +1,29 @@
+# 25 - Snowhead
+
+# County Title
+title = c_snowhead
+
+# Settlements
+max_settlements = 3
+b_dabetta - tribal
+
+# Misc
+culture = yook
+religion = faron
+terrain = hills
+
+# History
+
+106.1.1 = {
+	culture = rito
+	religion = valoan
+}
+952.1.1 = {
+	culture = goron
+	religion = eldin
+1023.1.1 = {
+	b_snowhead = temple
+}
+1850.1.1 = {
+	religion = reformed_eldin
+}
