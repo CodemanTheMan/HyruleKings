@@ -1,11 +1,11 @@
 # 36 - Uniagon
 
 # County Title
-title = c_zelo
+title = c_uniagon
 
 # Settlements
 max_settlements = 2
-b_zelo = tribal
+b_uniagon = tribal
 
 # Misc
 culture = dinolfos
@@ -23,4 +23,7 @@ terrain = hills
 744.3.2 = {
 	culture = sheikah
 	religion = vrygan
+}
+792.3.2 = {
+	b_uniagon = castle
 }
