@@ -1,0 +1,26 @@
+# 1 - Dawl
+
+# County Title
+title = c_dawl
+
+# Settlements
+max_settlements = 2
+b_dawl = tribal
+
+# Misc
+culture = subrosian
+religion = salona
+terrain = mountains
+
+# History
+5.4.6 = {
+	culture = akkalan
+	religion = akkala
+}
+952.1.1 = {
+	culture = goron
+	religion = eldin
+}
+1850.1.1 = {
+	religion = reformed_eldin
+}
