@@ -1,0 +1,20 @@
+# 22 - Thyphlo
+
+# County Title
+title = c_thyphlo
+
+# Settlements
+max_settlements = 2
+b_thyphlo = tribal
+
+# Misc
+culture = yook
+religion = faron
+terrain = hills
+
+# History
+
+1412.1.1 = {
+	culture = rito
+	religion = valoan
+}
