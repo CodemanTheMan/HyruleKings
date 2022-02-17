@@ -5,7 +5,7 @@ title = c_kanalet_ridge
 
 # Settlements
 max_settlements = 3
-b_kanalet_ridge = tribe
+b_kanalet_ridge = tribal
 
 # Misc
 culture = river_zora
