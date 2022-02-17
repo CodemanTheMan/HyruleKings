@@ -1,0 +1,13 @@
+# 31 - Gor Karac
+
+# County Title
+title = c_gor_karac
+
+# Settlements
+max_settlements = 2
+b_gor_karac = tribal
+
+# Misc
+culture = dodongo
+religion = vor_sakes
+terrain = mountains
