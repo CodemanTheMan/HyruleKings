@@ -1,0 +1,20 @@
+# 20 - Eldin's Flank
+
+# County Title
+title = c_eldin's_flank
+
+# Settlements
+max_settlements = 3
+b_eldin's_flank = tribal
+
+# Misc
+culture = yook
+religion = faron
+terrain = hills
+
+# History
+
+1412.1.1 = {
+	culture = rito
+	religion = valoan
+}
