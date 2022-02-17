@@ -1,0 +1,18 @@
+# 29 - Gor Dalagra
+
+# County Title
+title = c_gor_dalagra
+
+# Settlements
+max_settlements = 3
+b_gor_dalagra = tribal
+
+# Misc
+culture = goron
+religion = eldin
+terrain = mountains
+
+# History
+1850.4.6 = {
+	religion = old_eldin
+}
