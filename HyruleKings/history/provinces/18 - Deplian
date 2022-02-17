@@ -1,0 +1,20 @@
+# 18 - Deplian
+
+# County Title
+title = c_deplian
+
+# Settlements
+max_settlements = 3
+b_deplian = tribal
+
+# Misc
+culture = akkalan
+religion = akkala
+terrain = hills
+
+# History
+
+106.1.1 = {
+	culture = rito
+	religion = valoan
+}
