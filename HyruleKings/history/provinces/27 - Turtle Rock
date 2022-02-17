@@ -1,0 +1,13 @@
+# 27 - Turtle Rock
+
+# County Title
+title = c_turtle_rock
+
+# Settlements
+max_settlements = 2
+b_turtle_rock = tribal
+
+# Misc
+culture = dodongo snake
+religion = vor_sakes
+terrain = mountains
