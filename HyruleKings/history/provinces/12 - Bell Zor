@@ -18,9 +18,15 @@ terrain = plains
 	culture = akkalan
 	religion = akkala
 }
+1350.4.6 = {
+	culture = moblin
+	religion = power_worship
+1377.1.1 = {
+	culture = river_zora
+	religion = jabunic
+}
 1446.1.1 = {
 	culture = high_zora
-	religion = jabunic
 }
 1519.1.1 = {
 	religion = lanayru
