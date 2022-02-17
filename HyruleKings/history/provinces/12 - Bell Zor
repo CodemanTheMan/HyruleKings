@@ -1,0 +1,37 @@
+# 12 - Bell Zor
+
+# County Title
+title = c_bell_zor
+
+# Settlements
+max_settlements = 4
+b_bell_zor = tribal
+
+# Misc
+culture = river_zora
+religion = bellumic
+terrain = plains
+
+# History
+
+9.1.1 = {
+	culture = akkalan
+	religion = akkala
+}
+1446.1.1 = {
+	culture = high_zora
+	religion = jabunic
+}
+1519.1.1 = {
+	religion = lanayru
+}
+1789.1.1 = {
+	religion = reformed_lanayru
+}
+1939.1.1 = {
+	culture = hybrid_zora
+}
+1998.1.1 = {
+	culture = river_zora
+	religion = bellumic
+}
