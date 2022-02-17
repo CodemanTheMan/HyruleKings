@@ -1,0 +1,34 @@
+# 14 - Hylo
+
+# County Title
+title = c_hylo
+
+# Settlements
+max_settlements = 4
+b_hylo = tribal
+
+# Misc
+culture = river_zora
+religion = bellumic
+terrain = hills
+
+# History
+
+7.9.8 = {
+	culture = akkalan
+	religion = akkala
+}
+1350.4.6 = {
+	culture = moblin
+	religion = power_worship
+}
+1377.1.1 = {
+	culture = river_zora
+	religion = jabunic
+}
+1446.1.1 = {
+	culture = high_zora
+}
+1537.1.1 = {
+b_hylo = castle
+}
