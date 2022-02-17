@@ -1,0 +1,20 @@
+# 15 - Nohan's Landing
+
+# County Title
+title = c_nohan's_landing
+
+# Settlements
+max_settlements = 3
+b_nohan's_landing = tribal
+
+# Misc
+culture = akkalan
+religion = akkala
+terrain = hills
+
+# History
+
+106.1.1 = {
+	culture = rito
+	religion = valoan
+}
