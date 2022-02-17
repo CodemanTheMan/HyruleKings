@@ -1,0 +1,26 @@
+# 37 - Kiro
+
+# County Title
+title = c_kiro
+
+# Settlements
+max_settlements = 2
+b_kiro = tribal
+
+# Misc
+culture = dinolfos
+religion = vor_sakes
+terrain = hills
+
+# History
+215.3.2 = {
+	culture = akkalan
+	religion = akkala
+}
+530.3.2 = {
+	religion = classical
+}
+744.3.2 = {
+	culture = sheikah
+	religion = vrygan
+}
