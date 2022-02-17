@@ -1,0 +1,20 @@
+# 16 - Tumlea
+
+# County Title
+title = c_tumlea
+
+# Settlements
+max_settlements = 2
+b_tumlea = tribal
+
+# Misc
+culture = akkalan
+religion = akkala
+terrain = hills
+
+# History
+
+106.1.1 = {
+	culture = rito
+	religion = valoan
+}
