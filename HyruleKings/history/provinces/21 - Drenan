@@ -1,0 +1,20 @@
+# 21 - Drenan
+
+# County Title
+title = c_gdrenan
+
+# Settlements
+max_settlements = 2
+b_drenan = tribal
+
+# Misc
+culture = yook
+religion = faron
+terrain = hills
+
+# History
+
+1412.1.1 = {
+	culture = rito
+	religion = valoan
+}
