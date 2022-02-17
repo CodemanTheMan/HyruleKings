@@ -1,0 +1,13 @@
+# 32 - Dodongo's Cavern
+
+# County Title
+title = c_dodongo's_cavern
+
+# Settlements
+max_settlements = 2
+b_dodongo's_cavern = tribal
+
+# Misc
+culture = dodongo
+religion = vor_sakes
+terrain = mountains
