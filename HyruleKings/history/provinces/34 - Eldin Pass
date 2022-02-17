@@ -24,3 +24,6 @@ terrain = hills
 	culture = sheikah
 	religion = vrygan
 }
+792.3.2 = {
+	b_eldin_pass = castle
+}
