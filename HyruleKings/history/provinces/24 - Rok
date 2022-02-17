@@ -1,0 +1,27 @@
+# 24 - Rok
+
+# County Title
+title = c_rok
+
+# Settlements
+max_settlements = 2
+b_rok = tribal
+
+# Misc
+culture = yook
+religion = faron
+terrain = hills
+
+# History
+
+106.1.1 = {
+	culture = rito
+	religion = valoan
+}
+952.1.1 = {
+	culture = goron
+	religion = eldin
+}
+1850.1.1 = {
+	religion = reformed_eldin
+}
