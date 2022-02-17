@@ -1,0 +1,22 @@
+# 30 - Marpeh
+
+# County Title
+title = c_marpeh
+
+# Settlements
+max_settlements = 2
+b_dawl = tribal
+
+# Misc
+culture = dodongo snake
+religion = vor_sakes
+terrain = mountains
+
+# History
+1380.3.2 = {
+	culture = goron
+	religion = eldin
+}
+1850.4.6 = {
+	religion = old_eldin
+}
