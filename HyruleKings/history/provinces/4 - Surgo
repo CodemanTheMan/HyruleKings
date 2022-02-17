@@ -1,0 +1,22 @@
+# 4 - Surgo
+
+# County Title
+title = c_surgo
+
+# Settlements
+max_settlements = 2
+b_surgo = tribal
+
+# Misc
+culture = subrosian
+religion = salona
+terrain = mountains
+
+# History
+952.1.1 = {
+	culture = goron
+	religion = eldin
+}
+1850.1.1 = {
+	religion = reformed_eldin
+}
