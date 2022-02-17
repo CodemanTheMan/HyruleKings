@@ -1,0 +1,29 @@
+# 6 - Kanalet Ridge
+
+# County Title
+title = c_kanalet_ridge
+
+# Settlements
+max_settlements = 3
+b_kanalet_ridge = tribe
+
+# Misc
+culture = river_zora
+religion = bellumic
+terrain = hills
+
+# History
+
+8.1.1 = {
+	culture = akkalan
+	religion = akkala
+587.9.8 = {
+	b_merona = castle
+}
+1446.1.1 = {
+	culture = high_zora
+	religion = jabunic
+}
+1513.8.4 = {
+	b_kanalet_ridge = castle
+}
