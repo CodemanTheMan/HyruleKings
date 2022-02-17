@@ -1,0 +1,31 @@
+# 10 - Kaepora Pass
+
+# County Title
+title = c_kaepora_pass
+
+# Settlements
+max_settlements = 3
+b_kaepora_pass = tribal
+
+# Misc
+culture = river_zora
+religion = bellumic
+terrain = plains
+
+# History
+
+8.1.2 = {
+	culture = akkalan
+	religion = akkala
+}
+1446.1.1 = {
+	culture = high_zora
+	religion = jabunic
+}
+2001.11.9 = {
+	culture = river_zora
+	religion = bellumic
+}
+2003.1.1 = {
+	b_zikela = tribal
+}
