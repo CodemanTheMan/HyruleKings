@@ -1,0 +1,28 @@
+# 11 - Akkala Spring
+
+# County Title
+title = c_akkala_spring
+
+# Settlements
+max_settlements = 2
+b_akkala_spring = tribal
+
+# Misc
+culture = river_zora
+religion = bellumic
+terrain = plains
+
+# History
+
+8.1.1 = {
+	culture = akkalan
+	religion = akkala
+}
+1446.1.1 = {
+	culture = high_zora
+	religion = jabunic
+}
+2001.1.1 = {
+	culture = river_zora
+	religion = bellumic
+}
