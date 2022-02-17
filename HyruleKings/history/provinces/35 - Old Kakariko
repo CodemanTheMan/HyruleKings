@@ -1,0 +1,31 @@
+# 35 - Old Kakariko
+
+# County Title
+title = c_old_kakariko
+
+# Settlements
+max_settlements = 5
+b_old_kakariko = tribal
+
+# Misc
+culture = lizalfos
+religion = vor_sakes
+terrain = hills
+
+# History
+215.3.2 = {
+	culture = akkalan
+	religion = akkala
+}
+530.3.2 = {
+	religion = classical
+}
+744.3.2 = {
+	culture = sheikah
+	religion = vrygan
+}
+801.1.1 = {
+	b_old_kakariko = castle
+  b_shadow_temple = temple
+  b_kakariko_graveyards = castle
+}
