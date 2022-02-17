@@ -1,0 +1,26 @@
+# 8 - Torin
+
+# County Title
+title = c_torin
+
+# Settlements
+max_settlements = 3
+b_torin = tribe
+
+# Misc
+culture = river_zora
+religion = bellumic
+terrain = hills
+
+# History
+
+7.12.12 = {
+	culture = akkalan
+	religion = akkala
+  }
+1421.1.1 = {
+	culture = high_zora
+	religion = jabunic
+  }
+1560.2.3 = {
+	b_torin = castle
