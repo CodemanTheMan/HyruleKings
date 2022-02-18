@@ -1,0 +1,13 @@
+# 51 - Gor Fogaru
+
+# County Title
+title = c_gor_fogaru
+
+# Settlements
+max_settlements = 2
+b_gor_fogaru = tribal
+
+# Misc
+culture = dinolfos
+religion = vor_sakes
+terrain = mountains
