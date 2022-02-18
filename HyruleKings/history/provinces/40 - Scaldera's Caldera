@@ -1,0 +1,22 @@
+# 40 - Scaldera's Caldera
+
+# County Title
+title = c_scaldera's_caldera
+
+# Settlements
+max_settlements = 3
+b_scaldera's_caldera = tribal
+
+# Misc
+culture = volvagian
+religion = vor_sakes
+terrain = mountains
+
+# History
+1380.3.2 = {
+	culture = goron
+	religion = eldin
+}
+1850.4.6 = {
+	religion = old_eldin
+}
