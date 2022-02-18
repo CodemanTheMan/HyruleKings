@@ -1,0 +1,22 @@
+# 43 - Medingo
+
+# County Title
+title = c_medingo
+
+# Settlements
+max_settlements = 3
+b_medingo = tribal
+
+# Misc
+culture = volvagian
+religion = vor_sakes
+terrain = mountains
+
+# History
+1380.3.2 = {
+	culture = goron
+	religion = eldin
+}
+1850.4.6 = {
+	religion = old_eldin
+}
