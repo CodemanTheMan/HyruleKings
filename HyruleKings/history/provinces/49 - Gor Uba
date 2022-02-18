@@ -1,0 +1,13 @@
+# 49 - Gor Uba
+
+# County Title
+title = c_gor_uba
+
+# Settlements
+max_settlements = 3
+b_gor_uba = tribal
+
+# Misc
+culture = aeralfos
+religion = vor_sakes
+terrain = mountains
