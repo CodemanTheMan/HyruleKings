@@ -1,0 +1,18 @@
+# 61 - Morsuhn
+
+# County Title
+title = c_morsuhn
+
+# Settlements
+max_settlements = 2
+b_morsuhn = tribal
+
+# Misc
+culture = goron
+religion = eldin
+terrain = mountains
+
+# History
+1850.4.6 = {
+	religion = old_eldin
+}
