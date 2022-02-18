@@ -1,0 +1,22 @@
+# 59 - Kaba
+
+# County Title
+title = c_kaba
+
+# Settlements
+max_settlements = 3
+b_kaba = tribal
+
+# Misc
+culture = aeralfos
+religion = vor_sakes
+terrain = mountains
+
+# History
+1380.3.2 = {
+	culture = goron
+	religion = eldin
+}
+1850.4.6 = {
+	religion = old_eldin
+}
