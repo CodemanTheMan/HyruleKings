@@ -1,0 +1,13 @@
+# 50 - Kaman
+
+# County Title
+title = c_kaman
+
+# Settlements
+max_settlements = 3
+b_kaman = tribal
+
+# Misc
+culture = aeralfos
+religion = vor_sakes
+terrain = mountains
