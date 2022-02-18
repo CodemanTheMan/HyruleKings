@@ -5,7 +5,7 @@ title = c_akkala_spring
 
 # Settlements
 max_settlements = 2
-b_akkala_spring = tribal
+b_akkala_spring = temple
 
 # Misc
 culture = river_zora
