@@ -1,0 +1,23 @@
+# 39 - Gor Goronon
+
+# County Title
+title = c_gor_goronon
+
+# Settlements
+max_settlements = 5
+b_gor_goronon = tribal
+b_fire_temple = temple
+
+# Misc
+culture = volvagian
+religion = vor_sakes
+terrain = mountains
+
+# History
+1380.3.2 = {
+	culture = goron
+	religion = eldin
+}
+1850.4.6 = {
+	religion = old_eldin
+}
