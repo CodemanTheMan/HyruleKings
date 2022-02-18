@@ -1,0 +1,13 @@
+# 53 - Corgo
+
+# County Title
+title = c_corgo
+
+# Settlements
+max_settlements = 3
+b_corgo = tribal
+
+# Misc
+culture = dinolfos
+religion = vor_sakes
+terrain = mountains
