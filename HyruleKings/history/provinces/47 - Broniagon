@@ -1,0 +1,22 @@
+# 47 - Broniagon
+
+# County Title
+title = c_broniagon
+
+# Settlements
+max_settlements = 2
+b_broniagon = tribal
+
+# Misc
+culture = volvagian
+religion = vor_sakes
+terrain = mountains
+
+# History
+1380.3.2 = {
+	culture = goron
+	religion = eldin
+}
+1850.4.6 = {
+	religion = old_eldin
+}
