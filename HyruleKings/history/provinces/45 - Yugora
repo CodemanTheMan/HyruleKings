@@ -1,0 +1,22 @@
+# 45 - Yugora
+
+# County Title
+title = c_yugora
+
+# Settlements
+max_settlements = 3
+b_yugora = tribal
+
+# Misc
+culture = volvagian
+religion = vor_sakes
+terrain = mountains
+
+# History
+1380.3.2 = {
+	culture = goron
+	religion = eldin
+}
+1850.4.6 = {
+	religion = old_eldin
+}
