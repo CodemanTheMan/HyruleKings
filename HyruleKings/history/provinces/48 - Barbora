@@ -1,0 +1,13 @@
+# 48 - Barbora
+
+# County Title
+title = c_barbora
+
+# Settlements
+max_settlements = 3
+b_barbora = tribal
+
+# Misc
+culture = aeralfos
+religion = vor_sakes
+terrain = mountains
