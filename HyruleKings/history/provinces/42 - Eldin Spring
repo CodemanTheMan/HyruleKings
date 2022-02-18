@@ -1,11 +1,11 @@
-# 42 - Gortram
+# 42 - eldin spring
 
 # County Title
 title = c_gortram
 
 # Settlements
 max_settlements = 2
-b_gortram = tribal
+b_eldin_spring = temple
 
 # Misc
 culture = volvagian
