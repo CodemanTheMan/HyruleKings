@@ -1,0 +1,13 @@
+# 52 - Shargant
+
+# County Title
+title = c_shargant
+
+# Settlements
+max_settlements = 2
+b_shargant = tribal
+
+# Misc
+culture = dinolfos
+religion = vor_sakes
+terrain = mountains
