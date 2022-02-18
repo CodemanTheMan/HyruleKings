@@ -1,0 +1,22 @@
+# 54 - Ulri
+
+# County Title
+title = c_ulri
+
+# Settlements
+max_settlements = 2
+b_ulri = tribal
+
+# Misc
+culture = dinolfos
+religion = vor_sakes
+terrain = mountains
+
+# History
+1380.3.2 = {
+	culture = goron
+	religion = eldin
+}
+1850.4.6 = {
+	religion = old_eldin
+}
