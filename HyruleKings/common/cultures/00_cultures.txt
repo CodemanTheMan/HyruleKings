@@ -498,12 +498,11 @@ kokiric = {
         allow_looting = no
         feminist = yes
         allow_in_ruler_designer = yes
-    }
 }
-goron = {
+eldinian = {
     graphical_culture = { westerngfx }
 
-    eldinian = {
+    goron = {
         graphical_culture = { englishgfx }
 
         color = { 0.82 0.18 0.11 }
@@ -530,34 +529,7 @@ goron = {
         feminist = no
         allow_in_ruler_designer = yes
     }
-    lost goron = { parent = goron }
-        graphical_culture = { englishgfx }
-
-        color = { 0.58 0.13 0.08 }
-
-	founder_named_dynasties = yes
-
-        from_dynasty_prefix = "gor"
-
-        male_names = {
-        }
-        pat_grf_name_chance = 10
-        mat_grf_name_chance = 10
-        father_name_chance = 25
-        female_names = {
-        }
-        pat_grm_name_chance = 10
-        mat_grm_name_chance = 10
-        mother_name_chance = 25
-        dukes_called_kings = no
-        baron_titles_hidden = no
-        count_titles_hidden = no
-        modifier = default_culture_modifier
-        allow_looting = yes
-        feminist = no
-        allow_in_ruler_designer = yes
-    }
-    rolling ridge goron = {
+  rolling ridge goron = {
         graphical_culture = { englishgfx }
 
         color = { 0.25 0.31 0.15 }
@@ -585,7 +557,7 @@ goron = {
         allow_in_ruler_designer = yes
     }
 }
-lizal = {
+lizal = { parent = zonai }
     graphical_culture = { westerngfx }
 
     lizalfos= {
@@ -826,7 +798,7 @@ Asera Asmal Aruna Akyal Azuma Ahera Baru Beyun Baba Bathlaam Basaara Badunal Bah
         feminist = yes
         allow_in_ruler_designer = yes
     }
-    keaton = {
+    keaton = { parent = darknut }
         graphical_culture = { englishgfx }
 
         color = { 0.97 0.97 0.88 }
@@ -849,7 +821,7 @@ Asera Asmal Aruna Akyal Azuma Ahera Baru Beyun Baba Bathlaam Basaara Badunal Bah
         feminist = yes
         allow_in_ruler_designer = yes
     }
-    wosu = {
+    wosu = { parent = darknut }
         graphical_culture = { englishgfx }
 
         color = { 0.7 0.05 0.0 }z
@@ -899,7 +871,7 @@ thod = {
         feminist = no
         allow_in_ruler_designer = yes
     }
-    fokka = {
+    fokka = { parent = rito }
         graphical_culture = { englishgfx }
 
         color = { 1.0 0.58 0.0 }
@@ -1358,7 +1330,7 @@ dongo = {
 zunai = {
     graphical_culture = { westerngfx }
 
-    zuna = {
+    zuna = { parent = zonai }
         graphical_culture = { englishgfx }
 
         color = { 0.99 1.0 0.42 }
@@ -1381,7 +1353,30 @@ zunai = {
         feminist = no
         allow_in_ruler_designer = yes
     }
-    tokay = {
+ zonai = {
+        graphical_culture = { englishgfx }
+
+        color = { 0.99 1.0 0.42 }
+
+        male_names = {
+        }
+        pat_grf_name_chance = 10
+        mat_grf_name_chance = 10
+        father_name_chance = 25
+        female_names = {
+        }
+        pat_grm_name_chance = 10
+        mat_grm_name_chance = 10
+        mother_name_chance = 25
+        dukes_called_kings = no
+        baron_titles_hidden = no
+        count_titles_hidden = no
+        modifier = default_culture_modifier
+        allow_looting = no
+        feminist = no
+        allow_in_ruler_designer = yes
+    }
+    tokay = { parent = zonai }
         graphical_culture = { englishgfx }
 
         color = { 0.4 0.98 0.13 }
