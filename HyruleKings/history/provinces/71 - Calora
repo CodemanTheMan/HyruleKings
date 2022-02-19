@@ -1,0 +1,17 @@
+# 71 - Calora
+
+# County Title
+title = c_calora
+
+# Settlements
+max_settlements = 2
+b_calora = tribal
+
+# Misc
+culture = kikwi
+religion = akkala
+terrain = jungle
+# History
+300.1.1 = {
+	culture = lizalfos
+        religion = vor_sakes
