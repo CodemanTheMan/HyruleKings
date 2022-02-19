@@ -1,0 +1,17 @@
+# 73 - Great Tree
+
+# County Title
+title = c_great_tree
+
+# Settlements
+max_settlements = 2
+b_great_tree = tribal
+
+# Misc
+culture = kikwi
+religion = akkala
+terrain = jungle
+# History
+300.1.1 = {
+	culture = lizalfos
+  religion = vor_sakes
