@@ -6,6 +6,7 @@ title = c_corta
 # Settlements
 max_settlements = 2
 b_corta = tribal
+
 # Misc
 culture = kikwi
 religion = akkala
@@ -13,4 +14,4 @@ terrain = jungle
 # History
 300.1.1 = {
 	culture = lizalfos
-  	b_finra = tribal
+	religion = vor_sakes
