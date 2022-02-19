@@ -10,7 +10,7 @@ b_keelay = castle
 # Misc
 culture = zonai
 religion = vor_sakes
-terrain = mountains
+terrain = jungle
 
 # History
 120.1.1 = {
