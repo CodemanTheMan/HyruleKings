@@ -1,0 +1,18 @@
+# 65 - Jia
+
+# County Title
+title = c_jia
+
+# Settlements
+max_settlements = 2
+b_jia = castle
+
+# Misc
+culture = zonai
+religion = vor_sakew
+terrain = mountains
+
+# History
+120.1.1 = {
+	culture = lizalfos
+  	b_jia = tribal
