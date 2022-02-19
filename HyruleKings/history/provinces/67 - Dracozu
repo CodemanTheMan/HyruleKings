@@ -1,0 +1,18 @@
+# 67 - Dracozu
+
+# County Title
+title = c_dracozu
+
+# Settlements
+max_settlements = 4
+b_dracozu = castle
+
+# Misc
+culture = zonai
+religion = vor_sakew
+terrain = mountains
+
+# History
+120.1.1 = {
+	culture = lizalfos
+  	b_dracozu = tribal
