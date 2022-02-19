@@ -1,0 +1,17 @@
+# 72 - Ebara
+
+# County Title
+title = c_ebara
+
+# Settlements
+max_settlements = 2
+b_ebara = tribal
+
+# Misc
+culture = kikwi
+religion = akkala
+terrain = jungle
+# History
+300.1.1 = {
+	culture = lizalfos
+        religion = vor_sakes
