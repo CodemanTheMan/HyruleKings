@@ -1,0 +1,18 @@
+# 68 - Finra
+
+# County Title
+title = c_finra
+
+# Settlements
+max_settlements = 3
+b_jia = castle
+
+# Misc
+culture = zonai
+religion = vor_sakes
+terrain = mountains
+
+# History
+120.1.1 = {
+	culture = lizalfos
+  	b_finra = tribal
