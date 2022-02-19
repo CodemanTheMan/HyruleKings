@@ -14,5 +14,4 @@ terrain = jungle
 # History
 300.1.1 = {
 	culture = lizalfos
-  religion = vor_sakes
-  	b_finra = tribal
+        religion = vor_sakes
