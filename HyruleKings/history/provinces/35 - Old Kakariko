@@ -20,12 +20,12 @@ terrain = hills
 530.3.2 = {
 	religion = classical
 }
-744.3.2 = {
-	culture = sheikah
-	religion = vrygan
-}
 801.1.1 = {
 	b_old_kakariko = castle
-  b_shadow_temple = temple
-  b_kakariko_graveyards = castle
+}
+1400.3.2 = {
+	culture = sheikah
+	religion = vrygan
+	b_shadow_temple = temple
+        b_kakariko_graveyards = castle
 }
