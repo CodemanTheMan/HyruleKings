@@ -20,10 +20,10 @@ terrain = hills
 530.3.2 = {
 	religion = classical
 }
-744.3.2 = {
-	culture = sheikah
-	religion = vrygan
-}
 792.3.2 = {
 	b_zelo = castle
+}
+1400.3.2 = {
+	culture = sheikah
+	religion = vrygan
 }
