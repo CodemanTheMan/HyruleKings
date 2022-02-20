@@ -13,7 +13,7 @@ religion = vor_sakes
 terrain = hills
 
 # History
-215.3.2 = {
+90.3.2 = {
 	culture = akkalan
 	religion = akkala
 }
