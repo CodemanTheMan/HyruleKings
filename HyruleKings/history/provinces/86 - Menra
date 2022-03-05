@@ -1,0 +1,19 @@
+# 86 - Menra
+
+# County Title
+title = c_menra
+
+# Settlements
+max_settlements = 2
+b_menra = castle
+
+# Misc
+culture = zonai
+religion = vor_sakes
+terrain = jungle
+
+# History
+120.1.1 = {
+	culture = darkhammer
+  	b_menra = tribal
+}
