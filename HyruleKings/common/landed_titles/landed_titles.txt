@@ -1747,12 +1747,12 @@ e_faron = {
 
 			}
 
-			c_dracozu = {
+			c_smauk = {
 
 				color = {154 123 133}
 				color2 = {54 23 33}
 
-				b_dracozu={}
+				b_smauk={}
 				b_walodrich={}
 				b_forzosaur={}
 				b_lengereon={}
