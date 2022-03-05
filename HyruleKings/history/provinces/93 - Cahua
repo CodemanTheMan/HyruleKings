@@ -1,0 +1,19 @@
+# 93 - Cahua
+
+# County Title
+title = c_cahua
+
+# Settlements
+max_settlements = 2
+b_cahua = castle
+
+# Misc
+culture = zonai
+religion = vor_sakes
+terrain = jungle
+
+# History
+120.1.1 = {
+	culture = chamelfos
+  	b_cahua = tribal
+}
