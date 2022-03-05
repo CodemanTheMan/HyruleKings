@@ -1,0 +1,19 @@
+# 109 - Zonai Ruins
+
+# County Title
+title = c_zonai_ruins
+
+# Settlements
+max_settlements = 2
+b_zonai_ruins = castle
+
+# Misc
+culture = zonai
+religion = vor_sakes
+terrain = jungle
+
+# History
+120.1.1 = {
+	culture = chamelfos
+  	b_zonai_ruins = tribal
+}
