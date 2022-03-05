@@ -1,0 +1,19 @@
+# 98 - Larlik
+
+# County Title
+title = c_larlik
+
+# Settlements
+max_settlements = 2
+b_larlik = castle
+
+# Misc
+culture = zonai
+religion = vor_sakes
+terrain = jungle
+
+# History
+120.1.1 = {
+	culture = iguanalfos
+  	b_larlik = tribal
+}
