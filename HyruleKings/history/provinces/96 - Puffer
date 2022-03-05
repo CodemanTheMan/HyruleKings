@@ -1,0 +1,19 @@
+# 96 - Puffer
+
+# County Title
+title = c_puffer
+
+# Settlements
+max_settlements = 2
+b_puffer = castle
+
+# Misc
+culture = zonai
+religion = vor_sakes
+terrain = jungle
+
+# History
+120.1.1 = {
+	culture = iguanalfos
+  	b_puffer = tribal
+}
