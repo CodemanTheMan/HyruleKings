@@ -1,0 +1,19 @@
+# 74 - Harker
+
+# County Title
+title = c_harker
+
+# Settlements
+max_settlements = 3
+b_harker = castle
+
+# Misc
+culture = zonai
+religion = vor_sakes
+terrain = jungle
+
+# History
+120.1.1 = {
+	culture = lizalfos
+  	b_harker = tribal
+}
