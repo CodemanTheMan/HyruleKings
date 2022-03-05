@@ -1,0 +1,19 @@
+# 97 - Farok
+
+# County Title
+title = c_farok
+
+# Settlements
+max_settlements = 2
+b_farok = castle
+
+# Misc
+culture = zonai
+religion = vor_sakes
+terrain = jungle
+
+# History
+120.1.1 = {
+	culture = iguanalfos
+  	b_farok = tribal
+}
