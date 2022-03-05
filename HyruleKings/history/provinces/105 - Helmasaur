@@ -1,0 +1,19 @@
+# 105 - Helmasaur
+
+# County Title
+title = c_helmasaur
+
+# Settlements
+max_settlements = 2
+b_helmasaur = castle
+
+# Misc
+culture = zonai
+religion = vor_sakes
+terrain = jungle
+
+# History
+120.1.1 = {
+	culture = chamelfos
+  	b_helmasaur = tribal
+}
