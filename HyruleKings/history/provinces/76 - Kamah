@@ -1,0 +1,19 @@
+# 76 - Kamah
+
+# County Title
+title = c_kamah
+
+# Settlements
+max_settlements = 2
+b_kamah = castle
+
+# Misc
+culture = zonai
+religion = vor_sakes
+terrain = jungle
+
+# History
+120.1.1 = {
+	culture = lizalfos
+  	b_kamah = tribal
+}
