@@ -1,0 +1,19 @@
+# 77 - Guchini
+
+# County Title
+title = c_guchini
+
+# Settlements
+max_settlements = 2
+b_guchini = castle
+
+# Misc
+culture = zonai
+religion = vor_sakes
+terrain = jungle
+
+# History
+120.1.1 = {
+	culture = lizalfos
+  	b_guchini = tribal
+}
