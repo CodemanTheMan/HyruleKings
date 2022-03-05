@@ -1,0 +1,19 @@
+# 75 - Damel
+
+# County Title
+title = c_damel
+
+# Settlements
+max_settlements = 4
+b_damel = castle
+
+# Misc
+culture = zonai
+religion = vor_sakes
+terrain = jungle
+
+# History
+120.1.1 = {
+	culture = lizalfos
+  	b_damel = tribal
+}
