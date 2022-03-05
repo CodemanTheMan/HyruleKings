@@ -1,11 +1,11 @@
-# 101 - Menoch
+# 101 - Menoato
 
 # County Title
-title = c_menoch
+title = c_menoato
 
 # Settlements
 max_settlements = 2
-b_menoch = castle
+b_menoato = castle
 
 # Misc
 culture = zonai
@@ -15,5 +15,5 @@ terrain = jungle
 # History
 120.1.1 = {
 	culture = lizalfos
-  	b_menoch = tribal
+  	b_menoato = tribal
 }
