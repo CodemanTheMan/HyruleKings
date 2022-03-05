@@ -1,0 +1,20 @@
+# 95 - Malanya
+
+# County Title
+title = c_malanya
+
+# Settlements
+max_settlements = 3
+b_malanya_spring = temple
+b_mondpo = castle
+
+# Misc
+culture = zonai
+religion = vor_sakes
+terrain = jungle
+
+# History
+120.1.1 = {
+	culture = iguanalfos
+  	b_mondpo = tribal
+}
