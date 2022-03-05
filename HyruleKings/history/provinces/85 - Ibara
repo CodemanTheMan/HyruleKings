@@ -1,0 +1,19 @@
+# 85 - Ibara
+
+# County Title
+title = c_ibara
+
+# Settlements
+max_settlements = 2
+b_ibara = castle
+
+# Misc
+culture = zonai
+religion = vor_sakes
+terrain = jungle
+
+# History
+120.1.1 = {
+	culture = darkhammer
+  	b_ibara = tribal
+}
