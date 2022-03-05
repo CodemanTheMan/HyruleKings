@@ -1,0 +1,19 @@
+# 90 - Fakut Sakis
+
+# County Title
+title = c_fakut_sakis
+
+# Settlements
+max_settlements = 2
+b_fakut_sakis = castle
+
+# Misc
+culture = zonai
+religion = vor_sakes
+terrain = jungle
+
+# History
+120.1.1 = {
+	culture = chamelfos
+  	b_fakut_sakis = tribal
+}
