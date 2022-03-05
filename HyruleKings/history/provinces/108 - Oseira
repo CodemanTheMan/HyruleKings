@@ -1,0 +1,19 @@
+# 108 - Oseira
+
+# County Title
+title = c_oseira
+
+# Settlements
+max_settlements = 2
+b_oseira = castle
+
+# Misc
+culture = zonai
+religion = vor_sakes
+terrain = jungle
+
+# History
+120.1.1 = {
+	culture = chamelfos
+  	b_oseira = tribal
+}
