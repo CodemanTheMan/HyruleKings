@@ -1,0 +1,19 @@
+# 87 - Rassla
+
+# County Title
+title = c_rassla
+
+# Settlements
+max_settlements = 2
+b_rassla = castle
+
+# Misc
+culture = zonai
+religion = vor_sakes
+terrain = jungle
+
+# History
+120.1.1 = {
+	culture = chamelfos
+  	b_rassla = tribal
+}
