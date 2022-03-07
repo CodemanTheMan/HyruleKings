@@ -1,0 +1,19 @@
+# 116 - For Kud
+
+# County Title
+title = c_for_kud
+
+# Settlements
+max_settlements = 2
+b_for_kud = tribal
+
+# Misc
+culture = vala tree
+religion = valadeku
+terrain = marsh
+
+# History
+503.1.1 = {
+	culture = deku scrub
+  religion = deku
+}
