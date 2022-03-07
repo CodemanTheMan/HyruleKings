@@ -1,0 +1,19 @@
+# 117 - Scrub Do
+
+# County Title
+title = c_scrub_do
+
+# Settlements
+max_settlements = 2
+b_scrub_do = tribal
+
+# Misc
+culture = vala tree
+religion = valadeku
+terrain = marsh
+
+# History
+503.1.1 = {
+	culture = deku scrub
+  religion = deku
+}
