@@ -1,0 +1,19 @@
+# 122 - Kudu Kedi
+
+# County Title
+title = c_kudu_kedi
+
+# Settlements
+max_settlements = 2
+b_kudu_kedi = tribal
+
+# Misc
+culture = gekko
+religion = odolwan
+terrain = marsh
+
+# History
+503.1.1 = {
+	culture = deku scrub
+  religion = deku
+}
