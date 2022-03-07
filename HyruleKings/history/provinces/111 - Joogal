@@ -1,0 +1,19 @@
+# 111 - Joogal
+
+# County Title
+title = c_joogal
+
+# Settlements
+max_settlements = 2
+b_joogal = tribal
+
+# Misc
+culture = gekko
+religion = odolwan
+terrain = marsh
+
+# History
+503.1.1 = {
+	culture = deku scrub
+  religion = deku
+}
