@@ -1,0 +1,19 @@
+# 119 - Ord Nan
+
+# County Title
+title = c_ord_nan
+
+# Settlements
+max_settlements = 2
+b_ord_nan = tribal
+
+# Misc
+culture = vala tree
+religion = valadeku
+terrain = marsh
+
+# History
+503.1.1 = {
+	culture = deku scrub
+  religion = deku
+}
