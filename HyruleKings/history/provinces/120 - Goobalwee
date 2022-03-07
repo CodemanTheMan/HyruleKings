@@ -1,0 +1,19 @@
+# 120 - Goobalwee
+
+# County Title
+title = c_goobalwee
+
+# Settlements
+max_settlements = 2
+b_goobalwee = tribal
+
+# Misc
+culture = vala tree
+religion = valadeku
+terrain = marsh
+
+# History
+503.1.1 = {
+	culture = deku scrub
+  religion = deku
+}
