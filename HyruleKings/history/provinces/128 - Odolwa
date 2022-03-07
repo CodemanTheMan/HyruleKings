@@ -1,0 +1,13 @@
+# 128 - Odolwa
+
+# County Title
+title = c_odolwa
+
+# Settlements
+max_settlements = 2
+b_odolwa = tribal
+
+# Misc
+culture = gekko
+religion = odolwan
+terrain = marsh
