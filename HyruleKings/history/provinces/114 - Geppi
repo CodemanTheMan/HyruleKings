@@ -1,0 +1,19 @@
+# 114 - Geppi
+
+# County Title
+title = c_geppi
+
+# Settlements
+max_settlements = 2
+b_geppi = tribal
+
+# Misc
+culture = vala tree
+religion = valadeku
+terrain = marsh
+
+# History
+503.1.1 = {
+	culture = deku scrub
+  religion = deku
+}
