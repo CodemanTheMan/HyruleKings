@@ -11,9 +11,3 @@ b_nautelle = tribal
 culture = gekko
 religion = odolwan
 terrain = marsh
-
-# History
-503.1.1 = {
-	culture = deku scrub
-  religion = deku
-}
