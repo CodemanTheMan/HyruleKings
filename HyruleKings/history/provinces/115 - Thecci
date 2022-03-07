@@ -1,0 +1,19 @@
+# 115 - Thecci
+
+# County Title
+title = c_thecci
+
+# Settlements
+max_settlements = 2
+b_thecci = tribal
+
+# Misc
+culture = vala tree
+religion = valadeku
+terrain = marsh
+
+# History
+503.1.1 = {
+	culture = deku scrub
+  religion = deku
+}
