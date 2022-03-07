@@ -1,0 +1,19 @@
+# 124 - Satling
+
+# County Title
+title = c_satling
+
+# Settlements
+max_settlements = 2
+b_satling = tribal
+
+# Misc
+culture = gekko
+religion = odolwan
+terrain = marsh
+
+# History
+503.1.1 = {
+	culture = deku scrub
+  religion = deku
+}
