@@ -1,0 +1,19 @@
+# 113 - Kan Loh
+
+# County Title
+title = c_kan_loh
+
+# Settlements
+max_settlements = 2
+b_kan_loh = tribal
+
+# Misc
+culture = gekko
+religion = odolwan
+terrain = marsh
+
+# History
+503.1.1 = {
+	culture = deku scrub
+  religion = deku
+}
