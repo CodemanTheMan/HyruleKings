@@ -11,6 +11,8 @@ Rolf Dew - Naming assistance
 
 UndyingNephalim - Hyrule Conquest mod, initial inspiration, lore
 
+Deox - Lore and dating help
+
 StygianWhite - Custom music
 
 TK Joey - Additional help
