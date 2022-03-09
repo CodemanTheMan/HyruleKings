@@ -16,6 +16,9 @@ terrain = desert
 167.1.1 = {
 	culture = zuna
 }
+1111.5.2 = {
+	b_zunayus = city
+}
 1612.1.1 = {
 	religion = hero worship
 }
