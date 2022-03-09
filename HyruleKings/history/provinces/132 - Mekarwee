@@ -1,0 +1,19 @@
+# 132 - Mekarwee
+
+# County Title
+title = c_mekarwee
+
+# Settlements
+max_settlements = 4
+b_mekarwee = tribal
+
+# Misc
+culture = gekko
+religion = odolwan
+terrain = marsh
+
+# History
+503.1.1 = {
+	culture = deku scrub
+  religion = deku
+}
