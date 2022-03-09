@@ -1,0 +1,24 @@
+# 139 - Pato
+
+# County Title
+title = c_pato
+
+# Settlements
+max_settlements = 2
+b_pato = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = marsh
+
+# History
+120.1.1 = {
+	culture = vala tree
+  religion = valadeku
+  	b_pato = tribal
+}
+503.1.1 = {
+	culture = deku scrub
+  religion = deku
+}
