@@ -1,0 +1,23 @@
+# 160 - Udou
+
+# County Title
+title = c_udou
+
+# Settlements
+max_settlements = 2
+b_udou = castle
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = desert
+
+# History
+167.1.1 = {
+	culture = zuna
+}
+1111.5.2
+	b_udou = city
+1612.1.1 = {
+	religion = hero worship
+}
