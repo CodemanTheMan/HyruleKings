@@ -1,0 +1,24 @@
+# 161 - Madara
+
+# County Title
+title = c_madara
+
+# Settlements
+max_settlements = 2
+b_madara = castle
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = desert
+
+# History
+167.1.1 = {
+	culture = zuna
+}
+1111.5.2
+	b_madara = city
+}
+1612.1.1 = {
+	religion = hero worship
+}
