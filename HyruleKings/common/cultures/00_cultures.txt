@@ -1484,6 +1484,29 @@ dragon = {
         feminist = yes
         allow_in_ruler_designer = yes
     }
+        zazak = {
+        graphical_culture = { englishgfx }
+
+        color = { 1.0 0.16 0.0 }
+
+        male_names = {
+        }
+        pat_grf_name_chance = 10
+        mat_grf_name_chance = 10
+        father_name_chance = 25
+        female_names = {
+        }
+        pat_grm_name_chance = 10
+        mat_grm_name_chance = 10
+        mother_name_chance = 25
+        dukes_called_kings = no
+        baron_titles_hidden = no
+        count_titles_hidden = no
+        modifier = default_culture_modifier
+        allow_looting = yes
+        feminist = yes
+        allow_in_ruler_designer = yes
+    }
     dark dragon = {
         graphical_culture = { englishgfx }
 
