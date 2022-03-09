@@ -1,0 +1,14 @@
+
+# 129 - Peahet
+
+# County Title
+title = c_Peahet
+
+# Settlements
+max_settlements = 2
+b_peahet = tribal
+
+# Misc
+culture = gekko
+religion = odolwan
+terrain = marsh
