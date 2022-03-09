@@ -1,0 +1,19 @@
+# 150 - Kano
+
+# County Title
+title = c_kano
+
+# Settlements
+max_settlements = 2
+b_arnoo = tribal
+
+# Misc
+culture = deku monkey
+religion = faron
+terrain = forest
+
+503.1.1 = {
+	culture = deku scrub
+  religion = deku
+  b_kano_palace = tribal
+}
