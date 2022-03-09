@@ -11,8 +11,3 @@ b_benaanan = tribal
 culture = deku monkey
 religion = faron
 terrain = forest
-
-503.1.1 = {
-	culture = deku scrub
-  religion = deku
-}
