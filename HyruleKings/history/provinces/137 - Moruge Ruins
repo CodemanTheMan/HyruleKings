@@ -16,7 +16,7 @@ terrain = marsh
 120.1.1 = {
 	culture = vala tree
   religion = valadeku
-  	b_fural = tribal
+  	b_moruge_ruins = tribal
 }
 503.1.1 = {
 	culture = deku scrub
