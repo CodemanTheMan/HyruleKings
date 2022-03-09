@@ -1,0 +1,22 @@
+# 135 - Felku
+
+# County Title
+title = c_felku
+
+# Settlements
+max_settlements = 3
+b_felku = tribal
+
+# Misc
+culture = gekko
+religion = odolwan
+terrain = marsh
+
+# History
+503.1.1 = {
+	culture = deku scrub
+  religion = deku
+}
+1956.1.1 = {
+  religion = odolwan
+}
