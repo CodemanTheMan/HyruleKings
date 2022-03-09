@@ -1,0 +1,19 @@
+# 141 - Zokassa
+
+# County Title
+title = c_zokassa
+
+# Settlements
+max_settlements = 2
+b_zokassa = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = marsh
+
+# History
+120.1.1 = {
+	culture = lizalfos
+  	b_zokassa = tribal
+}
