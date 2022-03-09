@@ -1,0 +1,22 @@
+# 134 - Weedkit
+
+# County Title
+title = c_weedkit
+
+# Settlements
+max_settlements = 3
+b_weedkit = tribal
+
+# Misc
+culture = gekko
+religion = odolwan
+terrain = marsh
+
+# History
+503.1.1 = {
+	culture = deku scrub
+  religion = deku
+}
+1956.1.1 = {
+  religion = odolwan
+}
