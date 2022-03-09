@@ -1,0 +1,25 @@
+# 165 - Gerudo Spring
+
+# County Title
+title = c_gerudo_spring
+
+# Settlements
+max_settlements = 5
+b_gerudo_spring = temple
+b_murou = castle
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = desert
+
+# History
+167.1.1 = {
+	culture = zuna
+}
+1111.5.2
+	b_murou = city
+}
+1612.1.1 = {
+	religion = hero worship
+}
