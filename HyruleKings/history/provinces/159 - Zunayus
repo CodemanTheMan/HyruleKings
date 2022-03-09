@@ -1,0 +1,21 @@
+# 159 - Zunayus
+
+# County Title
+title = c_zunayus
+
+# Settlements
+max_settlements = 4
+b_zunayus = castle
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = desert
+
+# History
+167.1.1 = {
+	culture = zuna
+}
+1612.1.1 = {
+	religion = hero worship
+}
