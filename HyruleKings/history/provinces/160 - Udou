@@ -18,6 +18,7 @@ terrain = desert
 }
 1111.5.2
 	b_udou = city
+}
 1612.1.1 = {
 	religion = hero worship
 }
