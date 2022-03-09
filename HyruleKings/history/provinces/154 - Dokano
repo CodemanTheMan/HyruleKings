@@ -1,0 +1,18 @@
+# 154 - Dokano
+
+# County Title
+title = c_dokano
+
+# Settlements
+max_settlements = 2
+b_dokano = tribal
+
+# Misc
+culture = vala tree
+religion = valadeku
+terrain = forest
+
+503.1.1 = {
+	culture = deku scrub
+  religion = deku
+}
