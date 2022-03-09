@@ -1,0 +1,14 @@
+
+# 130 - Hy Ku
+
+# County Title
+title = c_hy_ku
+
+# Settlements
+max_settlements = 2
+b_hy_ku = tribal
+
+# Misc
+culture = gekko
+religion = odolwan
+terrain = marsh
