@@ -1,0 +1,18 @@
+# 144 - Nutu
+
+# County Title
+title = c_nutu
+
+# Settlements
+max_settlements = 2
+b_dekuru = tribal
+
+# Misc
+culture = vala tree
+religion = valadeku
+terrain = marsh
+
+503.1.1 = {
+	culture = deku scrub
+  religion = deku
+}
