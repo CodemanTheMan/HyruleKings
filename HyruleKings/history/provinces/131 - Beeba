@@ -1,0 +1,19 @@
+# 131 - Beeba
+
+# County Title
+title = c_beeba
+
+# Settlements
+max_settlements = 2
+b_beeba = tribal
+
+# Misc
+culture = gekko
+religion = odolwan
+terrain = marsh
+
+# History
+503.1.1 = {
+	culture = deku scrub
+  religion = deku
+}
