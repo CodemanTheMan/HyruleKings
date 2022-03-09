@@ -1,0 +1,18 @@
+# 151 - Dead Deku Tree
+
+# County Title
+title = c_dead_deku_tree
+
+# Settlements
+max_settlements = 2
+b_dead_deku_tree = tribal
+
+# Misc
+culture = deku monkey
+religion = faron
+terrain = forest
+
+503.1.1 = {
+	culture = deku scrub
+  religion = deku
+}
