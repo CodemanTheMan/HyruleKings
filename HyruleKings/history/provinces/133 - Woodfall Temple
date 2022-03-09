@@ -1,0 +1,23 @@
+# 133 - Woodfall Temple
+
+# County Title
+title = c_woodfall_temple
+
+# Settlements
+max_settlements = 5
+b_woodfall_temple = temple
+b_hudyat = tribal
+
+# Misc
+culture = gekko
+religion = odolwan
+terrain = marsh
+
+# History
+503.1.1 = {
+	culture = deku scrub
+  religion = deku
+}
+1956.1.1 = {
+  religion = odolwan
+}
