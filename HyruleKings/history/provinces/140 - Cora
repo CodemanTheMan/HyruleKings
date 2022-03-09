@@ -1,0 +1,18 @@
+# 140 - Cora
+
+# County Title
+title = c_cora
+
+# Settlements
+max_settlements = 2
+b_cora = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = jungle
+
+# History
+120.1.1 = {
+	culture = lizalfos
+  	b_cora = tribal
