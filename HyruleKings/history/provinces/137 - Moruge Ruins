@@ -1,0 +1,24 @@
+# 137 - Moruge Ruins
+
+# County Title
+title = c_moruge_ruins
+
+# Settlements
+max_settlements = 2
+b_moruge_ruins = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = marsh
+
+# History
+120.1.1 = {
+	culture = vala tree
+  religion = valadeku
+  	b_fural = tribal
+}
+503.1.1 = {
+	culture = deku scrub
+  religion = deku
+}
