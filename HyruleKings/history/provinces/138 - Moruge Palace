@@ -1,0 +1,24 @@
+# 138 - Moruge Palace
+
+# County Title
+title = c_moruge_palace
+
+# Settlements
+max_settlements = 2
+b_moruge_palace = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = marsh
+
+# History
+120.1.1 = {
+	culture = vala tree
+  religion = valadeku
+  	b_moruge_palace = tribal
+}
+503.1.1 = {
+	culture = deku scrub
+  religion = deku
+}
