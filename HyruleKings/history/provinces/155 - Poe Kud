@@ -1,0 +1,18 @@
+# 155 - Poe Kud
+
+# County Title
+title = c_poe_kud
+
+# Settlements
+max_settlements = 2
+b_poe_kud = tribal
+
+# Misc
+culture = vala tree
+religion = valadeku
+terrain = forest
+
+503.1.1 = {
+	culture = deku scrub
+  religion = deku
+}
