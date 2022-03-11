@@ -1,0 +1,19 @@
+# 201 - Nephra Hill
+
+# County Title
+title = c_nephra_hill
+
+# Settlements
+max_settlements = 2
+b_nephra = castle
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = desert
+
+# History
+503.1.1 = {
+	culture = gerudo
+  religion = badoan
+}
