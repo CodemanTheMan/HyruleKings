@@ -1,0 +1,19 @@
+# 178 - Risoka Snowfield
+
+# County Title
+title = c_risoka_snowfield
+
+# Settlements
+max_settlements = 2
+b_risoka = castle
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = hills
+
+# History
+633.1.1 = {
+	culture = gerudo
+  religion = badoan
+}
