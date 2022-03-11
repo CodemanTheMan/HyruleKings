@@ -1,0 +1,20 @@
+# 203 - Ayloc
+
+# County Title
+title = c_ayloc
+
+# Settlements
+max_settlements = 4
+b_ayloc = city
+b_ayloch_fortress = castle
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = desert
+
+# History
+503.1.1 = {
+	culture = gerudo
+  religion = badoan
+}
