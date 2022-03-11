@@ -1,0 +1,23 @@
+# 228 - Spool Swamp
+
+# County Title
+title = c_spool_swamp
+
+# Settlements
+max_settlements = 2
+b_poison_moth's_lair = tribal
+
+# Misc
+culture = fairy
+religion = tarminian
+terrain = woods
+
+# History
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+}
+1899.4.6 = {
+	culture = horonian
+  b_lanessa = city
+}
