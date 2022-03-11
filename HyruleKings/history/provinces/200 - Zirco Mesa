@@ -1,0 +1,19 @@
+# 200 - Zirco Mesa
+
+# County Title
+title = c_zirco_mesa
+
+# Settlements
+max_settlements = 2
+b_zirco = castle
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = desert
+
+# History
+503.1.1 = {
+	culture = gerudo
+  religion = badoan
+}
