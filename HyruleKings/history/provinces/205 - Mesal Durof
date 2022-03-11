@@ -1,0 +1,19 @@
+# 205 - Mesal Durof
+
+# County Title
+title = c_mesal_durof
+
+# Settlements
+max_settlements = 2
+b_mesal_durof = castle
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = desert
+
+# History
+503.1.1 = {
+	culture = gerudo
+  religion = badoan
+}
