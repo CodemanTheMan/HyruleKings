@@ -1,0 +1,19 @@
+# 224 - Daval
+
+# County Title
+title = c_daval
+
+# Settlements
+max_settlements = 2
+b_daval = castle
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = desert
+
+# History
+503.1.1 = {
+	culture = gerudo
+  religion = badoan
+}
