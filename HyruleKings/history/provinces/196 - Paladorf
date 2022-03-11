@@ -1,0 +1,19 @@
+# 196 - Paladorf
+
+# County Title
+title = c_paladorf
+
+# Settlements
+max_settlements = 2
+b_paladorf = castle
+
+# Misc
+culture = mazura
+religion = necluda
+terrain = desert
+
+# History
+503.1.1 = {
+	culture = gerudo
+  religion = badoan
+}
