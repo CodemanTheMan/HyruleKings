@@ -1,0 +1,19 @@
+# 219 - Garuda
+
+# County Title
+title = c_garuda
+
+# Settlements
+max_settlements = 2
+b_garuda = castle
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = desert
+
+# History
+503.1.1 = {
+	culture = gerudo
+  religion = badoan
+}
