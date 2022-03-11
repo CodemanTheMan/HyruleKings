@@ -1,0 +1,22 @@
+# 167 - Valdoon
+
+# County Title
+title = c_valdoon
+
+# Settlements
+max_settlements = 2
+b_valdoon = castle
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = desert
+
+# History
+149.1.1 = {
+	culture = fokka
+  religion = valoan
+}
+1612.1.1 = {
+	religion = hero worship
+}
