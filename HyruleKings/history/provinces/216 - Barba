@@ -1,0 +1,14 @@
+# 216 - Barba
+
+# County Title
+title = c_barba
+
+# Settlements
+max_settlements = 2
+b_barba = castle
+b_dragon's_exile = castle
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = desert
