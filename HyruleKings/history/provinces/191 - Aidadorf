@@ -1,0 +1,20 @@
+# 191 - Aidadorf
+
+# County Title
+title = c_aidadorf
+
+# Settlements
+max_settlements = 2
+b_aidadorf = castle
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = desert
+
+# History
+503.1.1 = {
+	culture = gerudo
+  religion = badoan
+  b_spirit_temple
+}
