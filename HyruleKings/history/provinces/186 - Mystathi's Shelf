@@ -1,0 +1,23 @@
+# 186 - Mystathi's Shelf
+
+# County Title
+title = c_mystathi's_shelf
+
+# Settlements
+max_settlements = 2
+b_mystathi = castle
+
+# Misc
+culture = mazura
+religion = necluda
+terrain = desert
+
+# History
+503.1.1 = {
+	culture = gerudo
+  religion = badoan
+}
+1647.1.1 = {
+	culture = sheikah
+  religion = vrygan
+}
