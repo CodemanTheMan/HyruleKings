@@ -1,0 +1,19 @@
+# 198 - Rokaro
+
+# County Title
+title = c_rokaro
+
+# Settlements
+max_settlements = 2
+b_rokaro = castle
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = desert
+
+# History
+503.1.1 = {
+	culture = gerudo
+  religion = badoan
+}
