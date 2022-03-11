@@ -1,0 +1,24 @@
+# 226 - Netook
+
+# County Title
+title = c_netook
+
+# Settlements
+max_settlements = 2
+b_netook = tribal
+
+# Misc
+culture = fairy
+religion = tarminian
+terrain = woods
+
+# History
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_netook = castle
+}
+1899.4.6 = {
+	culture = horonian
+  b_netook = city
+}
