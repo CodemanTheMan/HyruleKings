@@ -5,7 +5,7 @@ title = c_crenandorf
 
 # Settlements
 max_settlements = 2
-b_crenandorf = castle
+b_crenando = castle
 
 # Misc
 culture = zazak
@@ -16,10 +16,10 @@ terrain = hills
 149.1.1 = {
 	culture = fokka
   religion = valoan
-  b_crenandorf = tribe
+  b_crenando = tribe
 }
 1612.1.1 = {
 	culture = gerudo
   religion = badoan
-  b_crenandorf = castle
+  b_crenando = castle
 }
