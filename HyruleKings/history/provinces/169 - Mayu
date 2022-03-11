@@ -1,0 +1,23 @@
+# 169 - Mayu
+
+# County Title
+title = c_mayu
+
+# Settlements
+max_settlements = 2
+b_mayu = castle
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = desert
+
+# History
+149.1.1 = {
+	culture = fokka
+  religion = valoan
+}
+1612.1.1 = {
+	religion = hero worship
+  culture = darknut
+}
