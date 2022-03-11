@@ -10,7 +10,7 @@ b_ebara = tribal
 # Misc
 culture = kikwi
 religion = akkala
-terrain = jungle
+terrain = forest
 # History
 300.1.1 = {
 	culture = lizalfos
