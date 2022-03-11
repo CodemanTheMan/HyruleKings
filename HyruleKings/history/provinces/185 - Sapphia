@@ -1,0 +1,23 @@
+# 185 - Sapphia
+
+# County Title
+title = c_sapphia
+
+# Settlements
+max_settlements = 2
+b_sapphia = castle
+
+# Misc
+culture = mazura
+religion = necluda
+terrain = desert
+
+# History
+503.1.1 = {
+	culture = gerudo
+  religion = badoan
+}
+1647.1.1 = {
+	culture = sheikah
+  religion = vrygan
+}
