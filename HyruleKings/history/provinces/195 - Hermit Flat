@@ -1,0 +1,20 @@
+# 195 - Hermit Flat
+
+# County Title
+title = c_hermit_flat
+
+# Settlements
+max_settlements = 4
+b_cave_of_vision = temple
+b_pale'eda = castle
+
+# Misc
+culture = mazura
+religion = necluda
+terrain = desert
+
+# History
+503.1.1 = {
+	culture = gerudo
+  religion = badoan
+}
