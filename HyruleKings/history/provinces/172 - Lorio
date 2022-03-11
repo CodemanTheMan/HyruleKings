@@ -1,0 +1,27 @@
+# 172 - Lorio
+
+# County Title
+title = c_lorio
+
+# Settlements
+max_settlements = 2
+b_lorio = tribe
+
+# Misc
+culture = keaton
+religion = kokiri
+terrain = hills
+
+# History
+530.1.1 = {
+	culture = akkalan
+  religion = adventist
+}
+1152.1.1 = {
+	culture = hylian
+  b_lorio = castle
+}
+1647.1.1 = {
+	culture = sheikah
+  religion = vrygan
+}
