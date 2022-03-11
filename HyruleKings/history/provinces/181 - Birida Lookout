@@ -1,0 +1,19 @@
+# 181 - Birida Lookout
+
+# County Title
+title = c_birida_lookout
+
+# Settlements
+max_settlements = 2
+b_birida = castle
+
+# Misc
+culture = mazura
+religion = necluda
+terrain = desert
+
+# History
+1610.1.1 = {
+	culture = gerudo
+  religion = badoan
+}
