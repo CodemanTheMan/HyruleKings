@@ -1,0 +1,24 @@
+# 225 - Clarnet
+
+# County Title
+title = c_clarnet
+
+# Settlements
+max_settlements = 2
+b_clarnet = tribal
+
+# Misc
+culture = fairy
+religion = tarminian
+terrain = woods
+
+# History
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_clarnet = castle
+}
+1899.4.6 = {
+	culture = horonian
+  b_clarnet = city
+}
