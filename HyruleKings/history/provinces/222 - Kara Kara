@@ -1,0 +1,19 @@
+# 222 - Kara Kara
+
+# County Title
+title = c_kara_kara
+
+# Settlements
+max_settlements = 2
+b_kara_kara = city
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = desert
+
+# History
+503.1.1 = {
+	culture = gerudo
+  religion = badoan
+}
