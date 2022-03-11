@@ -1,0 +1,19 @@
+# 190 - Nabu
+
+# County Title
+title = c_nabu
+
+# Settlements
+max_settlements = 2
+b_nabu = castle
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = desert
+
+# History
+503.1.1 = {
+	culture = gerudo
+  religion = badoan
+}
