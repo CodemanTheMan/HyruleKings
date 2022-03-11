@@ -1,0 +1,23 @@
+# 183 - Rutimala
+
+# County Title
+title = c_rutimala
+
+# Settlements
+max_settlements = 2
+b_rutimala = castle
+
+# Misc
+culture = mazura
+religion = necluda
+terrain = desert
+
+# History
+503.1.1 = {
+	culture = gerudo
+  religion = badoan
+}
+1647.1.1 = {
+	culture = sheikah
+  religion = vrygan
+}
