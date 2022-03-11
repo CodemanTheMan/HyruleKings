@@ -1,0 +1,19 @@
+# 192 - Sakrela
+
+# County Title
+title = c_sakrela
+
+# Settlements
+max_settlements = 2
+b_sakrela = castle
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = desert
+
+# History
+503.1.1 = {
+	culture = gerudo
+  religion = badoan
+}
