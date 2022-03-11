@@ -1,0 +1,19 @@
+# 212 - Faldoon
+
+# County Title
+title = c_faldoon
+
+# Settlements
+max_settlements = 2
+b_faldoon = castle
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = desert
+
+# History
+503.1.1 = {
+	culture = gerudo
+  religion = badoan
+}
