@@ -1,0 +1,19 @@
+# 207 - Avei
+
+# County Title
+title = c_avei
+
+# Settlements
+max_settlements = 2
+b_avei = castle
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = desert
+
+# History
+503.1.1 = {
+	culture = gerudo
+  religion = badoan
+}
