@@ -1,0 +1,25 @@
+# 175 - Zaldorf
+
+# County Title
+title = c_zaldorf
+
+# Settlements
+max_settlements = 2
+b_zaldorf = castle
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = hills
+
+# History
+149.1.1 = {
+	culture = fokka
+  religion = valoan
+  b_zaldorf = tribe
+}
+1612.1.1 = {
+	culture = gerudo
+  religion = badoan
+  b_zaldorf = castle
+}
