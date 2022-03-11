@@ -10,7 +10,7 @@ b_herin = castle
 # Misc
 culture = zonai
 religion = vor_sakes
-terrain = jungle
+terrain = forest
 
 # History
 120.1.1 = {
