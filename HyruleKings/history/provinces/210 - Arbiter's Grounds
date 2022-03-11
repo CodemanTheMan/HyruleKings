@@ -1,0 +1,20 @@
+# 210 - Arbiter's Grounds
+
+# County Title
+title = c_arbiter's_grounds
+
+# Settlements
+max_settlements = 2
+b_arbiter's_grounds = temple
+b_ames = castle
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = desert
+
+# History
+503.1.1 = {
+	culture = gerudo
+  religion = badoan
+}
