@@ -1,0 +1,19 @@
+# 223 - Mesal Alol
+
+# County Title
+title = c_mesal_alol
+
+# Settlements
+max_settlements = 2
+b_mesal_alol = castle
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = desert
+
+# History
+503.1.1 = {
+	culture = gerudo
+  religion = badoan
+}
