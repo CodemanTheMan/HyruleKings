@@ -1,0 +1,27 @@
+# 173 - Nakure
+
+# County Title
+title = c_nakure
+
+# Settlements
+max_settlements = 2
+b_nakure = tribe
+
+# Misc
+culture = keaton
+religion = kokiri
+terrain = hills
+
+# History
+530.1.1 = {
+	culture = akkalan
+  religion = adventist
+}
+1152.1.1 = {
+	culture = hylian
+  b_nakure = castle
+}
+1647.1.1 = {
+	culture = sheikah
+  religion = vrygan
+}
