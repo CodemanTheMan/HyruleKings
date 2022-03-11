@@ -1,0 +1,20 @@
+# 206 - Ashinon
+
+# County Title
+title = c_ashinon
+
+# Settlements
+max_settlements = 2
+b_ashinon = castle
+b_great_oasis = city
+
+# Misc
+culture = zazak
+religion = gerudo
+terrain = desert
+
+# History
+503.1.1 = {
+	culture = gerudo
+  religion = badoan
+}
