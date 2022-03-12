@@ -8,11 +8,16 @@ max_settlements = 2
 b_temto = tribal
 
 # Misc
-culture = fairy
-religion = tarminian
+culture = zonai
+religion = vor sakes
 terrain = woods
 
 # History
+121.4.6 = {
+	culture = fairy
+	religion = tarminian
+  b_temto = tribal
+}
 1421.4.6 = {
 	culture = hylian
 	religion = hyrulean
