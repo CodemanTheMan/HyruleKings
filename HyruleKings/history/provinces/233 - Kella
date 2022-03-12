@@ -1,0 +1,29 @@
+# 233 - Kella
+
+# County Title
+title = c_kella
+
+# Settlements
+max_settlements = 2
+b_kella = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = desert
+
+# History
+121.4.6 = {
+	culture = tokay
+	religion = clothes worship
+  b_kella = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_kella = castle
+}
+1899.4.6 = {
+	culture = horonian
+  b_kella = city
+}
