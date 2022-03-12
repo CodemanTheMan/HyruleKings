@@ -1,0 +1,35 @@
+# 231 - Samasa
+
+# County Title
+title = c_samasa
+
+# Settlements
+max_settlements = 2
+b_samasa = tribal
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = desert
+
+# History
+121.4.6 = {
+	culture = fairy
+	religion = tarminian
+  b_samasa = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_samasa = castle
+}
+1899.4.6 = {
+	culture = horonian
+  b_samasa = city
+}
+2110.4.6 = {
+	culture = subrosian
+  b_samasa = tribal
+  b_xebo = tribal
+  b_xolin = tribal
+}
