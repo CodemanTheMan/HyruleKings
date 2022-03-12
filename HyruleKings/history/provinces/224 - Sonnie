@@ -1,0 +1,29 @@
+# 234 - Sonnie
+
+# County Title
+title = c_sonnie
+
+# Settlements
+max_settlements = 2
+b_sonnie = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = desert
+
+# History
+121.4.6 = {
+	culture = tokay
+	religion = clothes worship
+  b_sonnie = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_sonnie = castle
+}
+1899.4.6 = {
+	culture = horonian
+  b_sonnie = city
+}
