@@ -5,17 +5,23 @@ title = c_spool_swamp
 
 # Settlements
 max_settlements = 2
-b_poison_moth's_lair = tribal
+b_poison_moth's_lair = temple
 
 # Misc
-culture = fairy
-religion = tarminian
+culture = zonai
+religion = vor sakes
 terrain = woods
 
 # History
+121.4.6 = {
+	culture = fairy
+	religion = tarminian
+  b_lanessa = tribal
+}
 1421.4.6 = {
 	culture = hylian
 	religion = hyrulean
+  b_lanessa = castle
 }
 1899.4.6 = {
 	culture = horonian
