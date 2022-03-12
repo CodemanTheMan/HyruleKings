@@ -1,0 +1,29 @@
+# 232 - Jaenet
+
+# County Title
+title = c_jaenet
+
+# Settlements
+max_settlements = 2
+b_jaenet = tribal
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = desert
+
+# History
+121.4.6 = {
+	culture = tokay
+	religion = clothes worship
+  b_jaenet = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_jaenet = castle
+}
+1899.4.6 = {
+	culture = horonian
+  b_jaenet = city
+}
