@@ -1,0 +1,29 @@
+# 235 - Sley
+
+# County Title
+title = c_sley
+
+# Settlements
+max_settlements = 2
+b_sley = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = desert
+
+# History
+121.4.6 = {
+	culture = vala tree
+	religion = valadeku
+  b_sley = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_sley = castle
+}
+1899.4.6 = {
+	culture = horonian
+  b_sley = city
+}
