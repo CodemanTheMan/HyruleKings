@@ -8,14 +8,13 @@ max_settlements = 2
 b_noritoko = tribe
 
 # Misc
-culture = keaton
-religion = kokiri
+culture = wizzrobe
+religion = adventist
 terrain = hills
 
 # History
 530.1.1 = {
 	culture = akkalan
-  religion = adventist
 }
 1152.1.1 = {
 	culture = hylian
