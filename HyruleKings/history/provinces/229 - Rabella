@@ -1,0 +1,29 @@
+# 229 - Rabella
+
+# County Title
+title = c_rabella
+
+# Settlements
+max_settlements = 2
+b_rabella = tribal
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = woods
+
+# History
+121.4.6 = {
+	culture = fairy
+	religion = tarminian
+  b_rabella = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_rabella = castle
+}
+1899.4.6 = {
+	culture = horonian
+  b_rabella = city
+}
