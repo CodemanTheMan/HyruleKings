@@ -1,0 +1,29 @@
+# 230 - Karnsel
+
+# County Title
+title = c_karnsel
+
+# Settlements
+max_settlements = 2
+b_karnsel = tribal
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = woods
+
+# History
+121.4.6 = {
+	culture = fairy
+	religion = tarminian
+  b_karnsel = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_karnsel = castle
+}
+1899.4.6 = {
+	culture = horonian
+  b_karnsel = city
+}
