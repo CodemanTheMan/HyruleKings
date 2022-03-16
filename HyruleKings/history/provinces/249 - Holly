@@ -1,0 +1,29 @@
+# 249 - Holly
+
+# County Title
+title = c_holly
+
+# Settlements
+max_settlements = 3
+b_holly = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = desert
+
+# History
+121.4.6 = {
+	culture = vala tree
+	religion = valadeku
+  b_holly = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_holly = castle
+}
+1899.4.6 = {
+	culture = horonian
+  b_holly = city
+}
