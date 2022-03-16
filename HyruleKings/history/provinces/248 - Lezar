@@ -1,0 +1,29 @@
+# 248 - Byde
+
+# County Title
+title = c_lezar
+
+# Settlements
+max_settlements = 3
+b_lezar = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = desert
+
+# History
+121.4.6 = {
+	culture = vala tree
+	religion = valadeku
+  b_lezar = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_lezar = castle
+}
+1899.4.6 = {
+	culture = horonian
+  b_lezar = city
+}
