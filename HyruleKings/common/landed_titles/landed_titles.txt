@@ -3985,7 +3985,7 @@ e_holodrum = {
 				color={32 4 32}
 				color2={76 5 98}
 
-				b_castle_cucco={}
+				b_cucco={}
 				b_kakro={}
 				b_vina={}
 				b_kenu={}
@@ -3999,7 +3999,7 @@ e_holodrum = {
 				color={32 4 32}
 				color2={76 5 98}
 
-				b_castle_dunsel={}
+				b_dunsel={}
 				b_fardu={}
 				b_vonne={}
 				b_eslaba={}
@@ -4013,7 +4013,7 @@ e_holodrum = {
 				color={32 4 32}
 				color2={76 5 98}
 
-				b_castle_onox={}
+				b_onox={}
 				b_afrasie={}
 				b_skye={}
 				b_throndic={}
@@ -4027,7 +4027,7 @@ e_holodrum = {
 				color={32 4 32}
 				color2={76 5 98}
 
-				b_castle_laime={}
+				b_laime={}
 				b_lebair={}
 				b_lapena={}
 				b_kaves={}
