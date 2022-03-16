@@ -1,0 +1,29 @@
+# 241 - Mt. Laime
+
+# County Title
+title = c_laime
+
+# Settlements
+max_settlements = 4
+b_laime = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = desert
+
+# History
+121.4.6 = {
+	culture = vala tree
+	religion = valadeku
+  b_laime = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_laime = castle
+}
+1899.4.6 = {
+	culture = horonian
+  b_laime = city
+}
