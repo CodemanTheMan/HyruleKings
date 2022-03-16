@@ -1,0 +1,29 @@
+# 237 - Kair
+
+# County Title
+title = c_kair
+
+# Settlements
+max_settlements = 4
+b_kair = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = desert
+
+# History
+121.4.6 = {
+	culture = vala tree
+	religion = valadeku
+  b_kair = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_kair = castle
+}
+1899.4.6 = {
+	culture = horonian
+  b_kair = city
+}
