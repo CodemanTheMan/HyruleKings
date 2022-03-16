@@ -1,0 +1,29 @@
+# 247 - Byde
+
+# County Title
+title = c_byde
+
+# Settlements
+max_settlements = 3
+b_byde = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = desert
+
+# History
+121.4.6 = {
+	culture = vala tree
+	religion = valadeku
+  b_byde = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_byde = castle
+}
+1899.4.6 = {
+	culture = horonian
+  b_byde = city
+}
