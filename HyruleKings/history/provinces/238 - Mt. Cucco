@@ -1,0 +1,29 @@
+# 238 - Mt. Cucco
+
+# County Title
+title = c_mt._cucco
+
+# Settlements
+max_settlements = 4
+b_cucco = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = desert
+
+# History
+121.4.6 = {
+	culture = vala tree
+	religion = valadeku
+  b_cucco = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_cucco = castle
+}
+1899.4.6 = {
+	culture = horonian
+  b_kakro = city
+}
