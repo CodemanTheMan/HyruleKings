@@ -1,0 +1,29 @@
+# 245 - Skaba
+
+# County Title
+title = c_skaba
+
+# Settlements
+max_settlements = 3
+b_skaba = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = desert
+
+# History
+121.4.6 = {
+	culture = vala tree
+	religion = valadeku
+  b_skaba = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_skaba = castle
+}
+1899.4.6 = {
+	culture = horonian
+  b_skaba = city
+}
