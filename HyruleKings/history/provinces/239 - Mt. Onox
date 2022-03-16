@@ -1,0 +1,29 @@
+# 239 - Mt. Onox
+
+# County Title
+title = c_mt._onox
+
+# Settlements
+max_settlements = 4
+b_onox = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = desert
+
+# History
+121.4.6 = {
+	culture = vala tree
+	religion = valadeku
+  b_onox = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_onox = castle
+}
+1899.4.6 = {
+	culture = horonian
+  b_afrasie = city
+}
