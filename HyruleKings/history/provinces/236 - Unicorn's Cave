@@ -1,0 +1,30 @@
+# 236 - Unicorn's Cave
+
+# County Title
+title = c_unicorn's_cave
+
+# Settlements
+max_settlements = 4
+b_visla = castle
+b_unicorn's_cave = temple
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = desert
+
+# History
+121.4.6 = {
+	culture = vala tree
+	religion = valadeku
+  b_visla = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_visla = castle
+}
+1899.4.6 = {
+	culture = horonian
+  b_visla = city
+}
