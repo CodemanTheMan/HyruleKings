@@ -1,0 +1,29 @@
+# 242 - Sunken City
+
+# County Title
+title = c_sunken_city
+
+# Settlements
+max_settlements = 4
+b_sunken_city = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = desert
+
+# History
+121.4.6 = {
+	culture = vala tree
+	religion = valadeku
+  b_sunken_city = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_sunken_city = castle
+}
+1899.4.6 = {
+	culture = horonian
+  b_sunken_city = city
+}
