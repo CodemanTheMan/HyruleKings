@@ -1,0 +1,30 @@
+# 251 - Horon Cemetery
+
+# County Title
+title = c_horon_cemetery
+
+# Settlements
+max_settlements = 3
+b_explorer's_crypt = temple
+b_manoeuk = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = desert
+
+# History
+121.4.6 = {
+	culture = vala tree
+	religion = valadeku
+  b_manoeuk = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_manoeuk = castle
+}
+1899.4.6 = {
+	culture = horonian
+  b_manoeuk = city
+}
