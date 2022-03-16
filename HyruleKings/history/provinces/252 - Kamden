@@ -1,0 +1,29 @@
+# 252 - Kamden
+
+# County Title
+title = c_kamden
+
+# Settlements
+max_settlements = 3
+b_kamden = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = desert
+
+# History
+121.4.6 = {
+	culture = vala tree
+	religion = valadeku
+  b_kamden = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_kamden = castle
+}
+1899.4.6 = {
+	culture = horonian
+  b_kamden = city
+}
