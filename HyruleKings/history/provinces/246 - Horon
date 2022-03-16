@@ -1,0 +1,29 @@
+# 246 - Horon
+
+# County Title
+title = c_horon
+
+# Settlements
+max_settlements = 3
+b_horon_village = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = desert
+
+# History
+121.4.6 = {
+	culture = vala tree
+	religion = valadeku
+  b_horon_village = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_horon_village = castle
+}
+1899.4.6 = {
+	culture = horonian
+  b_horon_village = city
+}
