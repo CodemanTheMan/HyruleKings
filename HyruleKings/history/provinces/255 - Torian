@@ -1,0 +1,27 @@
+# 255 - Torian
+
+# County Title
+title = c_torian
+
+# Settlements
+max_settlements = 3
+b_torian = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = forest
+
+# History
+121.4.6 = {
+	culture = fairy
+	religion = tarminian
+  b_torian = tribal
+}
+1421.4.6 = {
+	culture = hinox
+	religion = power worship
+}
+1733.4.6 = {
+	culture = bokonox
+}
