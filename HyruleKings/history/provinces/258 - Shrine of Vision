@@ -1,0 +1,27 @@
+# 258 - Shrine of Vision
+
+# County Title
+title = c_shrine_of_vision
+
+# Settlements
+max_settlements = 3
+b_brenno = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = forest
+
+# History
+121.4.6 = {
+	culture = tarminian
+	religion = tarminian
+  b_brenno = tribal
+}
+1421.4.6 = {
+	culture = bokoblin
+	religion = power worship
+}
+1733.4.6 = {
+	culture = bokonox
+}
