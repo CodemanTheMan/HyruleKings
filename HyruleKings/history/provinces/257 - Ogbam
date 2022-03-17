@@ -1,0 +1,27 @@
+# 257 - Ogbam
+
+# County Title
+title = c_ogbam
+
+# Settlements
+max_settlements = 3
+b_ogbam = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = forest
+
+# History
+121.4.6 = {
+	culture = tarminian
+	religion = tarminian
+  b_ogbam = tribal
+}
+1421.4.6 = {
+	culture = bokoblin
+	religion = power worship
+}
+1733.4.6 = {
+	culture = bokonox
+}
