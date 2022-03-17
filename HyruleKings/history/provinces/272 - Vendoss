@@ -1,0 +1,19 @@
+# 272 - Vendoss
+
+# County Title
+title = c_vendoss
+
+# Settlements
+max_settlements = 3
+b_vendoss = tribal
+
+# Misc
+culture = tarminian
+religion = vrygan
+terrain = forest
+
+# History
+1421.4.6 = {
+	culture = fairy
+	religion = dream
+}
