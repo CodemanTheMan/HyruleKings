@@ -1,0 +1,28 @@
+# 253 - Tarin Ruins
+
+# County Title
+title = c_tarin_ruins
+
+# Settlements
+max_settlements = 3
+b_tarin_ruins = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = forest
+
+# History
+121.4.6 = {
+	culture = fairy
+	religion = tarminian
+  b_tarin_ruins = tribal
+  b_tarm's_tears = temple
+}
+1421.4.6 = {
+	culture = hinox
+	religion = power worship
+}
+1733.4.6 = {
+	culture = bokonox
+}
