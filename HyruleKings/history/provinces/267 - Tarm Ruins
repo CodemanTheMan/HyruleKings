@@ -1,0 +1,20 @@
+# 267 - Tarm Ruins
+
+# County Title
+title = c_tarm_ruins
+
+# Settlements
+max_settlements = 3
+b_tarm_ruins = tribal
+b_shrine_of_illusion = temple
+
+# Misc
+culture = tarminian
+religion = vrygan
+terrain = forest
+
+# History
+1421.4.6 = {
+	culture = fairy
+	religion = dream
+}
