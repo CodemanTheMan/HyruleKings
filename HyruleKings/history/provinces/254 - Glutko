@@ -1,0 +1,27 @@
+# 254 - Glutko
+
+# County Title
+title = c_glutko
+
+# Settlements
+max_settlements = 3
+b_glutko_face = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = forest
+
+# History
+121.4.6 = {
+	culture = fairy
+	religion = tarminian
+  b_glutko_face = tribal
+}
+1421.4.6 = {
+	culture = hinox
+	religion = power worship
+}
+1733.4.6 = {
+	culture = bokonox
+}
