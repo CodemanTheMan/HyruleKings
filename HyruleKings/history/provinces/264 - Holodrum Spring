@@ -1,0 +1,20 @@
+# 264 - Holodrum Spring
+
+# County Title
+title = c_holodrum_spring
+
+# Settlements
+max_settlements = 3
+b_holodrum_spring = temple
+b_uryk = tribal
+
+# Misc
+culture = tarminian
+religion = vrygan
+terrain = forest
+
+# History
+1421.4.6 = {
+	culture = fairy
+	religion = dream
+}
