@@ -1,0 +1,22 @@
+# 275 - Illumeni Plateau
+
+# County Title
+title = c_illumeni_plateau
+
+# Settlements
+max_settlements = 4
+b_dolash = castle
+
+# Misc
+culture = wizzrobe
+religion = adventist
+terrain = hills
+
+# History
+150.4.6 = {
+	culture = akkalan
+  b_castle_rhoam = castle
+}
+1152.1.1 = {
+	culture = hylian
+}
