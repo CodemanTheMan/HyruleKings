@@ -1,0 +1,19 @@
+# 261 - Casia
+
+# County Title
+title = c_casia
+
+# Settlements
+max_settlements = 3
+b_casia = tribal
+
+# Misc
+culture = tarminian
+religion = vrygan
+terrain = forest
+
+# History
+1421.4.6 = {
+	culture = fairy
+	religion = dream
+}
