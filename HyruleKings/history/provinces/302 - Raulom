@@ -1,0 +1,20 @@
+# 302 - Raulom
+
+# County Title
+title = c_raulom
+
+# Settlements
+max_settlements = 3
+b_raulom = tribal
+
+# Misc
+culture = keaton
+religion = kokiri
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+  b_raulom = castle
+}
