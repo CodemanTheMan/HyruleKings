@@ -557,10 +557,10 @@ eldinian = {
         allow_in_ruler_designer = yes
     }
 }
-lizal = { parent = zonai }
+lizal = {
     graphical_culture = { westerngfx }
 
-    lizalfos= {
+    lizalfos = { parent = zonai }
         graphical_culture = { englishgfx }
 
         color = { 0.4 0.52 0.34 }
@@ -721,7 +721,7 @@ lizal = { parent = zonai }
         feminist = yes
         allow_in_ruler_designer = yes
     }
-    geru = {
+    geru = { parent = lizalfos }
         graphical_culture = { englishgfx }
 
         color = { 1.0 0.95 0.24 }
@@ -744,7 +744,7 @@ lizal = { parent = zonai }
         feminist = yes
         allow_in_ruler_designer = yes
     }
-    daira = {
+    daira = { parent = lizalfos }
         graphical_culture = { englishgfx }
 
         color = { 0.21 0.93 0.1 }
@@ -842,6 +842,52 @@ Asera Asmal Aruna Akyal Azuma Ahera Baru Beyun Baba Bathlaam Basaara Badunal Bah
         modifier = default_culture_modifier
         allow_looting = no
         feminist = no
+        allow_in_ruler_designer = yes
+    }
+    goriya = { parent = darknut }
+        graphical_culture = { englishgfx }
+
+        color = { 0.97 0.97 0.88 }
+
+        male_names = {
+        }
+        pat_grf_name_chance = 10
+        mat_grf_name_chance = 10
+        father_name_chance = 25
+        female_names = {
+        }
+        pat_grm_name_chance = 10
+        mat_grm_name_chance = 10
+        mother_name_chance = 25
+        dukes_called_kings = no
+        baron_titles_hidden = no
+        count_titles_hidden = no
+        modifier = default_culture_modifier
+        allow_looting = yes
+        feminist = yes
+        allow_in_ruler_designer = yes
+    }
+    pikku = { parent = keaton }
+        graphical_culture = { englishgfx }
+
+        color = { 0.97 0.97 0.88 }
+
+        male_names = {
+        }
+        pat_grf_name_chance = 10
+        mat_grf_name_chance = 10
+        father_name_chance = 25
+        female_names = {
+        }
+        pat_grm_name_chance = 10
+        mat_grm_name_chance = 10
+        mother_name_chance = 25
+        dukes_called_kings = no
+        baron_titles_hidden = no
+        count_titles_hidden = no
+        modifier = default_culture_modifier
+        allow_looting = yes
+        feminist = yes
         allow_in_ruler_designer = yes
     }
 }
