@@ -1,0 +1,23 @@
+# 305 - Darangar
+
+# County Title
+title = c_darangar
+
+# Settlements
+max_settlements = 3
+b_darangar = tribal
+
+# Misc
+culture = keaton
+religion = kokiri
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+  b_darangar = castle
+}
+1152.1.1 = {
+	culture = hylian
+}
