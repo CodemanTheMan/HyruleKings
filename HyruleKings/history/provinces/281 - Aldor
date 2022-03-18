@@ -15,6 +15,7 @@ terrain = plains
 # History
 150.4.6 = {
 	culture = akkalan
+	religion = hyrulean
   b_aldor = castle
 }
 1152.1.1 = {
