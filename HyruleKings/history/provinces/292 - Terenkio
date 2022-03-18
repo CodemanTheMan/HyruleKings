@@ -1,0 +1,23 @@
+# 292 - Terenkio
+
+# County Title
+title = c_terenkio
+
+# Settlements
+max_settlements = 3
+b_terenkio = tribal
+
+# Misc
+culture = yook
+religion = faron
+terrain = hills
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+  b_terenkio = castle
+}
+1152.1.1 = {
+	culture = hylian
+}
