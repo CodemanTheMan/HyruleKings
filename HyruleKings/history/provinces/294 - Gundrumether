@@ -1,0 +1,28 @@
+# 294 - Gundrumether
+
+# County Title
+title = c_gundrumether
+
+# Settlements
+max_settlements = 3
+b_castle_town = tribal
+
+# Misc
+culture = keaton
+religion = kokiri
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+  b_castle_town = city
+  b_hyrule_castle = castle
+  b_east_district = castle
+}
+1152.1.1 = {
+	culture = hylian
+  b_temple_of_time = temple
+  b_west_district = castle
+  b_hyrule_barracks = castle
+}
