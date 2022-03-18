@@ -10,7 +10,7 @@ b_illumeni = castle
 # Misc
 culture = wizzrobe
 religion = adventist
-terrain = hills
+terrain = plains
 
 # History
 150.4.6 = {
