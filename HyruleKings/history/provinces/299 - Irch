@@ -1,0 +1,24 @@
+# 299 - Irch
+
+# County Title
+title = c_irch
+
+# Settlements
+max_settlements = 3
+b_irch = tribal
+
+# Misc
+culture = keaton
+religion = kokiri
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+  b_irch = castle
+}
+1400.4.6 = {
+	culture = sheikah
+	religion = vrygan
+}
