@@ -1,0 +1,23 @@
+# 284 - Audorn
+
+# County Title
+title = c_audorn
+
+# Settlements
+max_settlements = 3
+b_audorn = tribal
+
+# Misc
+culture = wizzrobe
+religion = adventist
+terrain = hills
+
+# History
+150.4.6 = {
+	culture = akkalan
+  b_audorn = castle
+}
+1152.1.1 = {
+	culture = hylian
+  b_bandit's_cove = castle
+}
