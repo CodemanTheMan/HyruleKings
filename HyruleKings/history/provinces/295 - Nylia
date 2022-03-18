@@ -1,0 +1,23 @@
+# 295 - Nylia
+
+# County Title
+title = c_nylia
+
+# Settlements
+max_settlements = 3
+b_nylia = tribal
+
+# Misc
+culture = keaton
+religion = kokiri
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+  b_nylia = castle
+}
+1152.1.1 = {
+	culture = hylian
+}
