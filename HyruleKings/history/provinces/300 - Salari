@@ -1,0 +1,24 @@
+# 300 - Salari
+
+# County Title
+title = c_salari
+
+# Settlements
+max_settlements = 3
+b_salari = tribal
+
+# Misc
+culture = keaton
+religion = kokiri
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+  b_salari = castle
+}
+1400.4.6 = {
+	culture = sheikah
+	religion = vrygan
+}
