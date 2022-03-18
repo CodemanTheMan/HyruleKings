@@ -1,0 +1,23 @@
+# 285 - Vigjaro
+
+# County Title
+title = c_aldor
+
+# Settlements
+max_settlements = 5
+b_vigjaro = tribal
+
+# Misc
+culture = keaton
+religion = kokiri
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+  b_vigjaro = castle
+}
+1152.1.1 = {
+	culture = hylian
+}
