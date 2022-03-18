@@ -1,0 +1,23 @@
+# 293 - Ariel
+
+# County Title
+title = c_ariel
+
+# Settlements
+max_settlements = 3
+b_ariel = tribal
+
+# Misc
+culture = yook
+religion = faron
+terrain = hills
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+  b_ariel = castle
+}
+1152.1.1 = {
+	culture = hylian
+}
