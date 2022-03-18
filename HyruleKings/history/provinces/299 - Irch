@@ -18,6 +18,9 @@ terrain = plains
 	religion = hyrulean
   b_irch = castle
 }
+1152.1.1 = {
+	culture = hylian
+}
 1400.4.6 = {
 	culture = sheikah
 	religion = vrygan
