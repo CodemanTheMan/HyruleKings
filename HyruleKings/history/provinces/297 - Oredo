@@ -1,0 +1,23 @@
+# 297 - Oredo
+
+# County Title
+title = c_oredo
+
+# Settlements
+max_settlements = 3
+b_aldor = tribal
+
+# Misc
+culture = keaton
+religion = kokiri
+terrain = farmlands
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+  b_oredo = castle
+}
+1152.1.1 = {
+	culture = hylian
+}
