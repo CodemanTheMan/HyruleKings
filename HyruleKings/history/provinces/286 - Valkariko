@@ -1,0 +1,23 @@
+# 286 - Valkariko
+
+# County Title
+title = c_valkariko
+
+# Settlements
+max_settlements = 3
+b_valkariko = tribal
+
+# Misc
+culture = keaton
+religion = kokiri
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+  b_valkariko = castle
+}
+1152.1.1 = {
+	culture = hylian
+}
