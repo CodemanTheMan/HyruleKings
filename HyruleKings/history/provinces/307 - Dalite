@@ -5,18 +5,17 @@ title = c_dalite
 
 # Settlements
 max_settlements = 5
-b_sanidin = tribal
+b_sanidin = castle
 
 # Misc
-culture = wizzrobe
-religion = adventist
+culture = mazura
+religion = necluda
 terrain = forest
 
 # History
 150.4.6 = {
 	culture = akkalan
 	religion = hyrulean
-  b_sanidin = castle
   b_manhala = temple
 }
 1152.1.1 = {
