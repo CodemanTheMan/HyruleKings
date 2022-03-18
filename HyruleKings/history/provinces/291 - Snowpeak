@@ -1,0 +1,24 @@
+# 291 - Snowpeak
+
+# County Title
+title = c_snowpeak
+
+# Settlements
+max_settlements = 4
+b_alashe = tribal
+
+# Misc
+culture = yook
+religion = faron
+terrain = mountain
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+  b_alashe = castle
+}
+1152.1.1 = {
+	culture = hylian
+  b_snowpeak = castle
+}
