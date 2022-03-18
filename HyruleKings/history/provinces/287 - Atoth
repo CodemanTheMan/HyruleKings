@@ -8,14 +8,13 @@ max_settlements = 3
 b_atoth = tribal
 
 # Misc
-culture = keaton
-religion = kokiri
-terrain = plains
+culture = wizzrobe
+religion = adventist
+terrain = hills
 
 # History
 150.4.6 = {
 	culture = akkalan
-	religion = hyrulean
   b_atoth = castle
 }
 1152.1.1 = {
