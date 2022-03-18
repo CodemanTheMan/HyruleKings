@@ -1,0 +1,13 @@
+# 289 - Great Hyrule Forest
+
+# County Title
+title = c_great_hyrule_forest
+
+# Settlements
+max_settlements = 3
+b_mohyjaro = tribal
+
+# Misc
+culture = keaton
+religion = kokiri
+terrain = forest
