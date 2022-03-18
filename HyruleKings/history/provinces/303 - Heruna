@@ -1,0 +1,23 @@
+# 303 - Heruna
+
+# County Title
+title = c_heruna
+
+# Settlements
+max_settlements = 3
+b_heruna = tribal
+
+# Misc
+culture = keaton
+religion = kokiri
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+  b_heruna = castle
+}
+1152.1.1 = {
+	culture = hylian
+}
