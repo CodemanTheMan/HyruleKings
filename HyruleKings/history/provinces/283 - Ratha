@@ -1,0 +1,23 @@
+# 283 - Ratha
+
+# County Title
+title = c_ratha
+
+# Settlements
+max_settlements = 3
+b_ratha = tribal
+
+# Misc
+culture = keaton
+religion = kokiri
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+  b_ratha = castle
+}
+1152.1.1 = {
+	culture = hylian
+}
