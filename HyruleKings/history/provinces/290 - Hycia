@@ -1,0 +1,13 @@
+# 290 - Hycia
+
+# County Title
+title = c_hycia
+
+# Settlements
+max_settlements = 3
+b_hycia = tribal
+
+# Misc
+culture = keaton
+religion = kokiri
+terrain = forest
