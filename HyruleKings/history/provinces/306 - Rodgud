@@ -1,0 +1,23 @@
+# 306 - Rodgud
+
+# County Title
+title = c_rodgud
+
+# Settlements
+max_settlements = 3
+b_aldor = tribal
+
+# Misc
+culture = keaton
+religion = kokiri
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+  b_aldor = castle
+}
+1152.1.1 = {
+	culture = hylian
+}
