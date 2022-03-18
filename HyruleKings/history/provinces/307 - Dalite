@@ -1,0 +1,25 @@
+# 307 - Dalite
+
+# County Title
+title = c_dalite
+
+# Settlements
+max_settlements = 5
+b_sanidin = tribal
+
+# Misc
+culture = wizzrobe
+religion = adventist
+terrain = forest
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+  b_sanidin = castle
+  b_manhala = temple
+}
+1152.1.1 = {
+	culture = hylian
+  b_safula = castle
+}
