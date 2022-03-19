@@ -1,0 +1,22 @@
+# 317 - Gustaf
+
+# County Title
+title = c_mt._gustaf
+
+# Settlements
+max_settlements = 3
+b_mount_gustaf = castle
+
+# Misc
+culture = mazura
+religion = necluda
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+}
+1152.1.1 = {
+	culture = hylian
+}
