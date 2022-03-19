@@ -1,0 +1,23 @@
+# 318 - Rumlore
+
+# County Title
+title = c_rumlore
+
+# Settlements
+max_settlements = 3
+b_rumlore = tribe
+
+# Misc
+culture = keaton
+religion = kokiri
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+}
+1152.1.1 = {
+	culture = hylian
+  b_rumlore = castle
+}
