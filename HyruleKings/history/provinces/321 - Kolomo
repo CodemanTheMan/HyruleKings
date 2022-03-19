@@ -1,0 +1,22 @@
+# 321 - Kolomo
+
+# County Title
+title = c_kolomo
+
+# Settlements
+max_settlements = 3
+b_kolomo = castle
+
+# Misc
+culture = mazura
+religion = necluda
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+}
+1152.1.1 = {
+	culture = hylian
+}
