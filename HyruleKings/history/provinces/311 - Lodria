@@ -10,7 +10,7 @@ b_lodria = castle
 # Misc
 culture = mazura
 religion = necluda
-terrain = mountains
+terrain = plains
 
 # History
 150.4.6 = {
