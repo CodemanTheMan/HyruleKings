@@ -1,0 +1,22 @@
+# 316 - Maramos
+
+# County Title
+title = c_maramos
+
+# Settlements
+max_settlements = 3
+b_maramos = castle
+
+# Misc
+culture = mazura
+religion = necluda
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+}
+1152.1.1 = {
+	culture = hylian
+}
