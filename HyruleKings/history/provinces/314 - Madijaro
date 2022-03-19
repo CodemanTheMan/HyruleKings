@@ -1,0 +1,26 @@
+# 314 - Madijaro
+
+# County Title
+title = c_madijaro
+
+# Settlements
+max_settlements = 3
+b_madijaro = castle
+
+# Misc
+culture = mazura
+religion = necluda
+terrain = mountains
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+}
+1152.1.1 = {
+	culture = hylian
+}
+1452.1.1 = {
+	culture = sheikah
+  religion = vrygan
+}
