@@ -1,0 +1,22 @@
+# 315 - Moriko
+
+# County Title
+title = c_moriko
+
+# Settlements
+max_settlements = 3
+b_moriko = castle
+
+# Misc
+culture = mazura
+religion = necluda
+terrain = mountains
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+}
+1152.1.1 = {
+	culture = hylian
+}
