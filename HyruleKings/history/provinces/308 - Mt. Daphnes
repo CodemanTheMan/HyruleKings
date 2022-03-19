@@ -1,0 +1,24 @@
+# 308 - Mt. Daphnes
+
+# County Title
+title = c_mt._daphnes
+
+# Settlements
+max_settlements = 3
+b_mount_daphnes = tribe
+
+# Misc
+culture = mazura
+religion = necluda
+terrain = mountains
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+  b_mount_daphnes = temple
+}
+1152.1.1 = {
+	culture = hylian
+  b_daphnes = castle
+}
