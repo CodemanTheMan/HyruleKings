@@ -1,0 +1,27 @@
+# 312 - Naldariko
+
+# County Title
+title = c_naldariko
+
+# Settlements
+max_settlements = 3
+b_naldariko = castle
+
+# Misc
+culture = mazura
+religion = necluda
+terrain = mountains
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+}
+1152.1.1 = {
+	culture = hylian
+  b_naldari = temple
+}
+1452.1.1 = {
+	culture = sheikah
+  religion = vrygan
+}
