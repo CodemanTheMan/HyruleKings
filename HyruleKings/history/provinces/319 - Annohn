@@ -1,0 +1,23 @@
+319 - Annohn
+
+# County Title
+title = c_annohn
+
+# Settlements
+max_settlements = 3
+b_annohn = tribe
+
+# Misc
+culture = keaton
+religion = kokiri
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+	religion = hyrulean
+}
+1152.1.1 = {
+	culture = hylian
+  b_annohn = castle
+}
