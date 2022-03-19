@@ -1,0 +1,21 @@
+# 324 - Rutile
+
+# County Title
+title = c_illumeni
+
+# Settlements
+max_settlements = 3
+b_rutile = castle
+
+# Misc
+culture = wizzrobe
+religion = adventist
+terrain = hills
+
+# History
+150.4.6 = {
+	culture = akkalan
+}
+1152.1.1 = {
+	culture = hylian
+}
