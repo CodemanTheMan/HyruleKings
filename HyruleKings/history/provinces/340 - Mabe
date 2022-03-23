@@ -1,0 +1,23 @@
+# 340 - Mabe
+
+# County Title
+title = c_mabe
+
+# Settlements
+max_settlements = 3
+b_mabe = castle
+
+# Misc
+culture = mazura
+religion = necluda
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
