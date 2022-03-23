@@ -1,0 +1,23 @@
+# 347 - Arlohn
+
+# County Title
+title = c_arlohn
+
+# Settlements
+max_settlements = 3
+b_arlohn = castle
+
+# Misc
+culture = mazura
+religion = necluda
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
