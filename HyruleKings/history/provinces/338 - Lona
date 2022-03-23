@@ -1,0 +1,23 @@
+# 338 - Lona
+
+# County Title
+title = c_lona
+
+# Settlements
+max_settlements = 3
+b_lona = tribal
+
+# Misc
+culture = mazura
+religion = necluda
+terrain = farmlands
+
+# History
+150.4.6 = {
+	culture = akkalan
+  b_stalry = castle
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
