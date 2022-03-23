@@ -1,0 +1,24 @@
+# 353 - Eagus
+
+# County Title
+title = c_eagus
+
+# Settlements
+max_settlements = 3
+b_eagus = tribal
+
+# Misc
+culture = goriya
+religion = tabantha
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+  b_eagus = castle
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
