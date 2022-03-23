@@ -1,0 +1,23 @@
+# 344 - Rauru
+
+# County Title
+title = c_rauru
+
+# Settlements
+max_settlements = 3
+b_rauru = castle
+
+# Misc
+culture = mazura
+religion = necluda
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
