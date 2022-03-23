@@ -1,0 +1,24 @@
+# 355 - Tonalin
+
+# County Title
+title = c_tonalin
+
+# Settlements
+max_settlements = 3
+b_tonalin = tribal
+
+# Misc
+culture = goriya
+religion = tabantha
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+  b_tonalin = castle
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
