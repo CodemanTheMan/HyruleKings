@@ -1,0 +1,23 @@
+# 337 - Stalry Plateau
+
+# County Title
+title = c_stalry_plateau
+
+# Settlements
+max_settlements = 3
+b_stalry = tribal
+
+# Misc
+culture = rito
+religion = akkala
+terrain = hills
+
+# History
+150.4.6 = {
+	culture = akkalan
+  b_stalry = castle
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
