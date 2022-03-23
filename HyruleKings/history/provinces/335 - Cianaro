@@ -1,0 +1,23 @@
+# 335 - Cianaro
+
+# County Title
+title = c_cianaro
+
+# Settlements
+max_settlements = 3
+b_cianaro = tribal
+
+# Misc
+culture = rito
+religion = akkala
+terrain = hills
+
+# History
+150.4.6 = {
+	culture = akkalan
+  b_cianaro = castle
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
