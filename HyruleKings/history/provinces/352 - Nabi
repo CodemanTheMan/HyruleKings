@@ -1,0 +1,23 @@
+# 352 - Nabi
+
+# County Title
+title = c_nabi
+
+# Settlements
+max_settlements = 3
+b_nabi = tribal
+
+# Misc
+culture = goriya
+religion = tabantha
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
