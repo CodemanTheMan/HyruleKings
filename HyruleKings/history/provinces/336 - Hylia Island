@@ -1,0 +1,22 @@
+# 336 - Hylia Island
+
+# County Title
+title = c_hylia_island
+
+# Settlements
+max_settlements = 3
+b_water_temple = temple
+
+# Misc
+culture = rito
+religion = akkala
+terrain = hills
+
+# History
+150.4.6 = {
+	culture = akkalan
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
