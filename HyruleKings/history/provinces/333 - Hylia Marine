@@ -1,0 +1,24 @@
+# 333 - Hylia Marine
+
+# County Title
+title = c_hylia_marine
+
+# Settlements
+max_settlements = 3
+b_lieku = tribal
+
+# Misc
+culture = rito
+religion = akkala
+terrain = hills
+
+# History
+150.4.6 = {
+	culture = akkalan
+  b_lieku = temple
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+  b_hylia = castle
+}
