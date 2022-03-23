@@ -1,0 +1,31 @@
+# 330 - Sorkariko
+
+# County Title
+title = c_sorkariko
+
+# Settlements
+max_settlements = 3
+b_sorkariko = tribal
+
+# Misc
+culture = rito
+religion = akkala
+terrain = hills
+
+# History
+150.4.6 = {
+	culture = akkalan
+  b_malkariko = city
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
+1400.4.6 = {
+	culture = sheikah
+	religion = vrygan
+}
+1918.4.6 = {
+	culture = hylian
+	religion = hyrulean
+}
