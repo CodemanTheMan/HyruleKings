@@ -16,6 +16,7 @@ terrain = plains
 150.4.6 = {
 	culture = akkalan
   religion = akkala
+  b_nabi = castle
 }
 1152.1.1 = {
 	culture = hylian
