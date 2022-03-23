@@ -1,0 +1,25 @@
+# 345 - Othry
+
+# County Title
+title = c_othry
+
+# Settlements
+max_settlements = 3
+b_othrynon = castle
+
+# Misc
+culture = mazura
+religion = necluda
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+  b_othrynon = city
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+  b_othry = castle
+}
