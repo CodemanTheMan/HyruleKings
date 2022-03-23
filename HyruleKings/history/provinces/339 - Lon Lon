@@ -1,0 +1,23 @@
+# 339 - Lon Lon
+
+# County Title
+title = c_lon_lon
+
+# Settlements
+max_settlements = 3
+b_lon_lon = castle
+
+# Misc
+culture = mazura
+religion = necluda
+terrain = farmlands
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
