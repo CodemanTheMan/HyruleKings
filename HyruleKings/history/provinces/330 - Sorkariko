@@ -15,7 +15,7 @@ terrain = hills
 # History
 150.4.6 = {
 	culture = akkalan
-  b_malkariko = city
+  b_sorkariko = castle
 }
 1152.1.1 = {
 	culture = hylian
