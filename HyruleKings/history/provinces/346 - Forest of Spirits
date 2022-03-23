@@ -1,0 +1,23 @@
+# 346 - Forest of Spirits
+
+# County Title
+title = c_forest_of_spirits
+
+# Settlements
+max_settlements = 3
+b_edroh = castle
+
+# Misc
+culture = mazura
+religion = necluda
+terrain = woods
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
