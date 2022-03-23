@@ -1,0 +1,24 @@
+# 354 - Owlan
+
+# County Title
+title = c_owlan
+
+# Settlements
+max_settlements = 3
+b_owlan = tribal
+
+# Misc
+culture = goriya
+religion = tabantha
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+  b_owlan = castle
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
