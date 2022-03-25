@@ -1,0 +1,24 @@
+# 382 - Harknon
+
+# County Title
+title = c_harknon
+
+# Settlements
+max_settlements = 3
+b_harknon = tribal
+
+# Misc
+culture = goriya
+religion = tabantha
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+  b_harknon = castle
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
