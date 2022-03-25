@@ -1,0 +1,24 @@
+# 377 - Alde
+
+# County Title
+title = c_alde
+
+# Settlements
+max_settlements = 3
+b_alde = tribal
+
+# Misc
+culture = goriya
+religion = kokiri
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+  b_alde = castle
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
