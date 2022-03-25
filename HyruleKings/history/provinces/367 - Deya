@@ -1,0 +1,24 @@
+# 367 - Deya
+
+# County Title
+title = c_deya
+
+# Settlements
+max_settlements = 3
+b_deya = tribal
+
+# Misc
+culture = pikku
+religion = kokiri
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+  b_deya = castle
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
