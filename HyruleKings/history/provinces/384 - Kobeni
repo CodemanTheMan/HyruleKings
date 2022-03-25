@@ -1,0 +1,24 @@
+# 384 - Kobeni
+
+# County Title
+title = c_kobeni
+
+# Settlements
+max_settlements = 3
+b_kobeni = tribal
+
+# Misc
+culture = goriya
+religion = tabantha
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+  b_kobeni = castle
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
