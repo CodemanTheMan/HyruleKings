@@ -1,0 +1,24 @@
+# 357 - Srarjaro
+
+# County Title
+title = c_srarjaro
+
+# Settlements
+max_settlements = 3
+b_srarjaro = tribal
+
+# Misc
+culture = keaton
+religion = kokiri
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+  b_srarjaro = castle
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
