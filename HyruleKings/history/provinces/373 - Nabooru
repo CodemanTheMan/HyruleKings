@@ -1,0 +1,24 @@
+# 373 - Nabooru
+
+# County Title
+title = c_nabooru
+
+# Settlements
+max_settlements = 3
+b_nabooru = tribal
+
+# Misc
+culture = keaton
+religion = kokiri
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+  b_nabooru = castle
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
