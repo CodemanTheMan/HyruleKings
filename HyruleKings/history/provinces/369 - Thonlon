@@ -1,0 +1,24 @@
+# 369 - Thonlon
+
+# County Title
+title = c_thonlon
+
+# Settlements
+max_settlements = 3
+b_thonlon = tribal
+
+# Misc
+culture = pikku
+religion = kokiri
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+  b_thonlon = castle
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
