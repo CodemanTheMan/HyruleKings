@@ -1,0 +1,24 @@
+# 362 - Scout's Hill
+
+# County Title
+title = c_scout's_hill
+
+# Settlements
+max_settlements = 3
+b_arthon = tribal
+
+# Misc
+culture = pikku
+religion = kokiri
+terrain = hills
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+  b_arthon = castle
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
