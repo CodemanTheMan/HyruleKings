@@ -1,0 +1,24 @@
+# 358 - Orelia
+
+# County Title
+title = c_orelia
+
+# Settlements
+max_settlements = 3
+b_orelia = tribal
+
+# Misc
+culture = keaton
+religion = kokiri
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+  b_orelia = castle
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
