@@ -1,0 +1,24 @@
+# 359 - Mahmaro
+
+# County Title
+title = c_mahmaro
+
+# Settlements
+max_settlements = 3
+b_mahmaro = tribal
+
+# Misc
+culture = keaton
+religion = kokiri
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+  b_mahmaro = castle
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
