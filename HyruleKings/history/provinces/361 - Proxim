@@ -1,0 +1,24 @@
+# 361 - Proxim
+
+# County Title
+title = c_proxim
+
+# Settlements
+max_settlements = 3
+b_proxim = tribal
+
+# Misc
+culture = pikku
+religion = kokiri
+terrain = hills
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+  b_proxim = castle
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
