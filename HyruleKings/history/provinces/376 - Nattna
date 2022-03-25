@@ -1,0 +1,24 @@
+# 376 - Nattna
+
+# County Title
+title = c_nattna
+
+# Settlements
+max_settlements = 3
+b_nattna = tribal
+
+# Misc
+culture = goriya
+religion = kokiri
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+  b_nattna = castle
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
