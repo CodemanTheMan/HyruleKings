@@ -1,0 +1,25 @@
+# 372 - Tarrey
+
+# County Title
+title = c_tarrey
+
+# Settlements
+max_settlements = 3
+b_tarrey = tribal
+
+# Misc
+culture = keaton
+religion = kokiri
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+  b_castle_tarrey = castle
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+  b_tarrey = city
+}
