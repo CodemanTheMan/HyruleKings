@@ -1,0 +1,24 @@
+# 363 - Whistling Hills
+
+# County Title
+title = c_whistling_hills
+
+# Settlements
+max_settlements = 3
+b_whistling_hills = tribal
+
+# Misc
+culture = pikku
+religion = kokiri
+terrain = hills
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+  b_whistling_hills = castle
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
