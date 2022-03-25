@@ -1,0 +1,24 @@
+# 378 - Thims
+
+# County Title
+title = c_thims
+
+# Settlements
+max_settlements = 3
+b_thims = tribal
+
+# Misc
+culture = goriya
+religion = tabantha
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+  b_thims = castle
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
