@@ -1,0 +1,24 @@
+# 368 - Squabble
+
+# County Title
+title = c_squabble
+
+# Settlements
+max_settlements = 3
+b_squabble = tribal
+
+# Misc
+culture = pikku
+religion = kokiri
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+  b_squabble = castle
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
