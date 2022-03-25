@@ -1,0 +1,24 @@
+# 360 - Arthos
+
+# County Title
+title = c_arthos
+
+# Settlements
+max_settlements = 3
+b_arthos = tribal
+
+# Misc
+culture = keaton
+religion = kokiri
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+  b_arthos = castle
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
