@@ -1,0 +1,24 @@
+# 380 - Orsedd
+
+# County Title
+title = c_orsedd
+
+# Settlements
+max_settlements = 3
+b_orsedd = tribal
+
+# Misc
+culture = goriya
+religion = tabantha
+terrain = plains
+
+# History
+150.4.6 = {
+	culture = akkalan
+  religion = akkala
+  b_orsedd = castle
+}
+1152.1.1 = {
+	culture = hylian
+  religion = hyrulean
+}
