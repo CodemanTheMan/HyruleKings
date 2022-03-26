@@ -1,0 +1,18 @@
+# 385 - Rimela
+
+# County Title
+title = c_rimela
+
+# Settlements
+max_settlements = 3
+b_rimela = tribe
+
+# Misc
+culture = vala_tree
+religion = valadeku
+terrain = forest
+
+# History
+1451.4.6 = {
+	culture = mudman
+}
