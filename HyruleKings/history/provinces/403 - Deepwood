@@ -1,0 +1,13 @@
+# 403 - Deepwood
+
+# County Title
+title = c_deepwood
+
+# Settlements
+max_settlements = 3
+b_deepwood = tribe
+
+# Misc
+culture = vala_tree
+religion = valadeku
+terrain = forest
