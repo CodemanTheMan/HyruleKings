@@ -1,0 +1,19 @@
+# 410 - Fort Dunsel
+
+# County Title
+title = c_fort_dunsel
+
+# Settlements
+max_settlements = 3
+b_dunsel = tribe
+
+# Misc
+culture = minish
+religion = holodrum
+terrain = forest
+
+# History
+1684.4.6 = {
+	culture = forest_blin
+  religion = power_worship
+  }
