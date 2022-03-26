@@ -1,0 +1,25 @@
+# 401 - Korkoro
+
+# County Title
+title = c_korkoro
+
+# Settlements
+max_settlements = 3
+b_korkoro = tribe
+
+# Misc
+culture = vala_tree
+religion = valadeku
+terrain = forest
+
+# History
+1359.4.6 = {
+	culture = hylian
+  religion = hyrulean
+}
+1372.4.6 = {
+	culture = kokiri
+}
+1451.4.6 = {
+	religion = valadeku
+}
