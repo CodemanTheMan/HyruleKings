@@ -1,0 +1,14 @@
+# 408 - Minshi
+
+# County Title
+title = c_minshi
+
+# Settlements
+max_settlements = 3
+b_minshi = tribe
+b_picarou = temple
+
+# Misc
+culture = minish
+religion = holodrum
+terrain = forest
