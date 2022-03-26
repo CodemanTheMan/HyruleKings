@@ -1,0 +1,13 @@
+# 400 - Rela
+
+# County Title
+title = c_rela
+
+# Settlements
+max_settlements = 3
+b_rela = tribe
+
+# Misc
+culture = vala_tree
+religion = valadeku
+terrain = forest
