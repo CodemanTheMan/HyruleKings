@@ -1,0 +1,30 @@
+# 406 - Kokiri Spring
+
+# County Title
+title = c_kokiri_spring
+
+# Settlements
+max_settlements = 3
+b_kokiri_spring = temple
+b_medi = tribe
+
+# Misc
+culture = minish
+religion = holodrum
+terrain = forest
+
+# History
+1359.4.6 = {
+	culture = hylian
+  religion = hyrulean
+}
+1372.4.6 = {
+	culture = kokiri
+}
+1451.4.6 = {
+	religion = valadeku
+}
+1713.4.6 = {
+	culture = skull_kid
+  religion = majoran
+}
