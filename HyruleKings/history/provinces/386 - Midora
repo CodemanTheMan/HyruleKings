@@ -1,0 +1,18 @@
+# 386 - Midora
+
+# County Title
+title = c_midora
+
+# Settlements
+max_settlements = 3
+b_midora = tribe
+
+# Misc
+culture = vala_tree
+religion = valadeku
+terrain = forest
+
+# History
+1451.4.6 = {
+	culture = mudman
+}
