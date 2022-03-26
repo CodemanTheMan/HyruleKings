@@ -1,0 +1,15 @@
+# 407 - Crenel
+
+# County Title
+title = c_crenel
+
+# Settlements
+max_settlements = 3
+b_mount_crenel = tribe
+b_melari_mines = castle
+b_cave_of_flames = temple
+
+# Misc
+culture = minish
+religion = holodrum
+terrain = mountains
