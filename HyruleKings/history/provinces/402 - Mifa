@@ -1,0 +1,13 @@
+# 402 - Mifa
+
+# County Title
+title = c_mifa
+
+# Settlements
+max_settlements = 3
+b_mifa = tribe
+
+# Misc
+culture = wolfos
+religion = tabantha
+terrain = forest
