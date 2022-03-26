@@ -1,0 +1,29 @@
+# 405 - Skull Grove
+
+# County Title
+title = c_skull_grove
+
+# Settlements
+max_settlements = 3
+b_skull_grove = tribe
+
+# Misc
+culture = minish
+religion = holodrum
+terrain = forest
+
+# History
+1359.4.6 = {
+	culture = hylian
+  religion = hyrulean
+}
+1372.4.6 = {
+	culture = kokiri
+}
+1451.4.6 = {
+	religion = valadeku
+}
+1713.4.6 = {
+	culture = skull_kid
+  religion = majoran
+}
