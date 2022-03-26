@@ -1,0 +1,26 @@
+# 393 - Sacred Grove
+
+# County Title
+title = c_sacred_grove
+
+# Settlements
+max_settlements = 3
+b_mirale = tribe
+
+# Misc
+culture = pikku
+religion = kokiri
+terrain = forest
+
+# History
+1359.4.6 = {
+	culture = hylian
+  religion = hyrulean
+  b_forest_temple = temple
+}
+1372.4.6 = {
+	culture = kokiri
+}
+1451.4.6 = {
+	religion = valadeku
+}
