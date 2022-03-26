@@ -1,0 +1,25 @@
+# 392 - Fami
+
+# County Title
+title = c_fami
+
+# Settlements
+max_settlements = 3
+b_fami = tribe
+
+# Misc
+culture = pikku
+religion = kokiri
+terrain = forest
+
+# History
+1359.4.6 = {
+	culture = hylian
+  religion = hyrulean
+}
+1372.4.6 = {
+	culture = kokiri
+}
+1451.4.6 = {
+	religion = valadeku
+}
