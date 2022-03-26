@@ -1,0 +1,18 @@
+# 391 - Lare
+
+# County Title
+title = c_lare
+
+# Settlements
+max_settlements = 3
+b_lare = tribe
+
+# Misc
+culture = vala_tree
+religion = valadeku
+terrain = forest
+
+# History
+1451.4.6 = {
+	culture = mudman
+}
