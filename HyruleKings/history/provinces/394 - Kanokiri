@@ -1,0 +1,26 @@
+# 394 - Kanokiri
+
+# County Title
+title = c_kanokiri
+
+# Settlements
+max_settlements = 3
+b_kanokiri = tribe
+
+# Misc
+culture = pikku
+religion = kokiri
+terrain = forest
+
+# History
+1359.4.6 = {
+	culture = hylian
+  religion = hyrulean
+  b_kanokiri_redoubt = castle
+}
+1372.4.6 = {
+	culture = kokiri
+}
+1451.4.6 = {
+	religion = valadeku
+}
