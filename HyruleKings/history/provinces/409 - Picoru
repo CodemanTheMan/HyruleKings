@@ -1,0 +1,14 @@
+# 409 - Picoru
+
+# County Title
+title = c_picoru
+
+# Settlements
+max_settlements = 3
+b_picoru = tribe
+b_cilori = temple
+
+# Misc
+culture = minish
+religion = holodrum
+terrain = forest
