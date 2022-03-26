@@ -1,0 +1,25 @@
+# 397 - Saria
+
+# County Title
+title = c_saria
+
+# Settlements
+max_settlements = 3
+b_saria = tribe
+
+# Misc
+culture = vala_tree
+religion = valadeku
+terrain = forest
+
+# History
+1359.4.6 = {
+	culture = hylian
+  religion = hyrulean
+}
+1372.4.6 = {
+	culture = kokiri
+}
+1451.4.6 = {
+	religion = valadeku
+}
