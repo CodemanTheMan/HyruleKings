@@ -1,0 +1,19 @@
+# 411 - Molblin
+
+# County Title
+title = c_molblin
+
+# Settlements
+max_settlements = 3
+b_molblin = tribe
+
+# Misc
+culture = minish
+religion = holodrum
+terrain = forest
+
+# History
+1684.4.6 = {
+	culture = forest_blin
+  religion = power_worship
+  }
