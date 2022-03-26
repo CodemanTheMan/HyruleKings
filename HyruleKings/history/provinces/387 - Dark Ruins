@@ -1,0 +1,23 @@
+# 387 - Dark Ruins
+
+# County Title
+title = c_dark_ruins
+
+# Settlements
+max_settlements = 3
+b_dark_ruins = castle
+
+# Misc
+culture = zonai
+religion = vor_sakes
+terrain = forest
+
+# History
+150.4.6 = {
+	culture = vala_tree
+  religion = valadeku
+  b_rado = tribal
+}
+1451.4.6 = {
+	culture = mudman
+}
