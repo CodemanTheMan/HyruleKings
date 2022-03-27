@@ -1,0 +1,25 @@
+# 426 - Woods of Winter
+
+# County Title
+title = c_woods_of_winter
+
+# Settlements
+max_settlements = 2
+b_snake's_remains = temple
+b_moctor = tribe
+
+# Misc
+culture = vala_tree
+religion = valadeku
+terrain = forest
+
+# History
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_moctor = castle
+}
+1899.4.6 = {
+	culture = labrynnian
+  b_moctor = city
+}
