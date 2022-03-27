@@ -1,0 +1,29 @@
+# 423 - Lurelin
+
+# County Title
+title = c_lurelin
+
+# Settlements
+max_settlements = 2
+b_lurelin = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = coastal_desert
+
+# History
+121.4.6 = {
+	culture = tokay
+	religion = clothes worship
+  b_lurelin = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_lurelin = castle
+}
+1899.4.6 = {
+	culture = labrynnian
+  b_lurelin = city
+}
