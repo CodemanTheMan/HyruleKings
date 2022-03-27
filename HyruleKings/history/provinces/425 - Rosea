@@ -1,0 +1,29 @@
+# 425 - Rosea
+
+# County Title
+title = c_rosea
+
+# Settlements
+max_settlements = 2
+b_rosea = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = coastal_desert
+
+# History
+121.4.6 = {
+	culture = tokay
+	religion = clothes worship
+  b_rosea = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_rosea = castle
+}
+1899.4.6 = {
+	culture = labrynnian
+  b_rosea = city
+}
