@@ -1,0 +1,29 @@
+# 417 - Fort of Wings
+
+# County Title
+title = c_fort_of_wings
+
+# Settlements
+max_settlements = 2
+b_losa = tribal
+
+# Misc
+culture = goron
+religion = eldin
+terrain = forest
+
+# History
+1367.1.1 = {
+	culture = hylian
+  religion = hyrulean
+  b_losa = temple
+  b_fort_of_wings = castle
+}
+1367.1.1 = {
+	culture = fairy
+  religion = dream
+}
+1944.1.1 = {
+	culture = labrynnian
+  religion = hyrulean
+}
