@@ -19,7 +19,7 @@ terrain = forest
   b_losa = temple
   b_fort_of_wings = castle
 }
-1367.1.1 = {
+1402.1.1 = {
 	culture = fairy
   religion = dream
 }
