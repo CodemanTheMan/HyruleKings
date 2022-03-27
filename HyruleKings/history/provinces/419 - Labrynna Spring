@@ -1,0 +1,29 @@
+# 419 - Labrynna Spring
+
+# County Title
+title = c_labrynna_spring
+
+# Settlements
+max_settlements = 2
+b_labrynna_spring = temple
+b_garotolo = tribe
+
+# Misc
+culture = goron
+religion = eldin
+terrain = forest
+
+# History
+1367.1.1 = {
+	culture = hylian
+  religion = hyrulean
+  b_garotolo = castle
+}
+1402.1.1 = {
+	culture = fairy
+  religion = dream
+}
+1944.1.1 = {
+	culture = labrynnian
+  religion = hyrulean
+}
