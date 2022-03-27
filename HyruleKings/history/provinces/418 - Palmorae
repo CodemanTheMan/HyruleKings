@@ -1,0 +1,28 @@
+# 418 - Palmorae
+
+# County Title
+title = c_palmorae
+
+# Settlements
+max_settlements = 2
+b_palmorae = tribal
+
+# Misc
+culture = goron
+religion = eldin
+terrain = forest
+
+# History
+1367.1.1 = {
+	culture = hylian
+  religion = hyrulean
+  b_palmorae = castle
+}
+1402.1.1 = {
+	culture = fairy
+  religion = dream
+}
+1944.1.1 = {
+	culture = labrynnian
+  religion = hyrulean
+}
