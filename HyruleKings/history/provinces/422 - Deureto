@@ -1,0 +1,29 @@
+# 422 - Deureto
+
+# County Title
+title = c_deureto
+
+# Settlements
+max_settlements = 2
+b_deureto = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = coastal_desert
+
+# History
+121.4.6 = {
+	culture = tokay
+	religion = clothes worship
+  b_deureto = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_deureto = castle
+}
+1899.4.6 = {
+	culture = labrynnian
+  b_deureto = city
+}
