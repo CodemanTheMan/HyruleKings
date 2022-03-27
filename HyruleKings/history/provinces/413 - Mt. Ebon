@@ -1,0 +1,21 @@
+# 413 - Mt. Ebon
+
+# County Title
+title = c_mt._ebon
+
+# Settlements
+max_settlements = 2
+b_ebon = tribal
+
+# Misc
+culture = goron
+religion = eldin
+terrain = mountains
+
+# History
+1567.1.1 = {
+	culture = rolling_ridge_goron
+}
+1850.1.1 = {
+	religion = old_eldin
+}
