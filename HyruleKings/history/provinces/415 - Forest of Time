@@ -1,0 +1,21 @@
+# 415 - Forest of Time
+
+# County Title
+title = c_forest_of_time
+
+# Settlements
+max_settlements = 2
+b_nayru = tribal
+
+# Misc
+culture = goron
+religion = eldin
+terrain = forest
+
+# History
+1567.1.1 = {
+	culture = rolling_ridge_goron
+}
+1850.1.1 = {
+	religion = old_eldin
+}
