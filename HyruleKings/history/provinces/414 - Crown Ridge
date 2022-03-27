@@ -1,0 +1,21 @@
+# 414 - Crown_Ridge
+
+# County Title
+title = c_crown_ridge
+
+# Settlements
+max_settlements = 2
+b_crown_ridge = tribal
+
+# Misc
+culture = goron
+religion = eldin
+terrain = mountains
+
+# History
+1567.1.1 = {
+	culture = rolling_ridge_goron
+}
+1850.1.1 = {
+	religion = old_eldin
+}
