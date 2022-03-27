@@ -6893,7 +6893,7 @@ e_labrynna = {
 				color={32 4 32}
 				color2={76 5 98}
 
-				b_wings={}
+				b_fort_of_wings={}
 				b_losa={}
 				b_cataba={}
 				b_alonrynna={}
