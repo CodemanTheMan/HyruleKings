@@ -1,0 +1,29 @@
+# 421 - Soka
+
+# County Title
+title = c_soka
+
+# Settlements
+max_settlements = 2
+b_soka = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = coastal_desert
+
+# History
+121.4.6 = {
+	culture = tokay
+	religion = clothes worship
+  b_soka = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_soka = castle
+}
+1899.4.6 = {
+	culture = labrynnian
+  b_soka = city
+}
