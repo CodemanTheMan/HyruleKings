@@ -1,0 +1,29 @@
+# 424 - Jelena
+
+# County Title
+title = c_jelena
+
+# Settlements
+max_settlements = 2
+b_jelena = castle
+
+# Misc
+culture = zonai
+religion = vor sakes
+terrain = coastal_desert
+
+# History
+121.4.6 = {
+	culture = tokay
+	religion = clothes worship
+  b_jelena = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_jelena = castle
+}
+1899.4.6 = {
+	culture = labrynnian
+  b_jelena = city
+}
