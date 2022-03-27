@@ -1,0 +1,21 @@
+# 416 - Gor Grolon
+
+# County Title
+title = c_gor_grolon
+
+# Settlements
+max_settlements = 2
+b_gor_grolon = tribal
+
+# Misc
+culture = goron
+religion = eldin
+terrain = mountains
+
+# History
+1567.1.1 = {
+	culture = rolling_ridge_goron
+}
+1850.1.1 = {
+	religion = old_eldin
+}
