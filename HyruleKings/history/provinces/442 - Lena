@@ -1,0 +1,29 @@
+# 442 - Lena
+
+# County Title
+title = c_veraen
+
+# Settlements
+max_settlements = 3
+b_lena = castle
+
+# Misc
+culture = zonai
+religion = vor_sakes
+terrain = plains
+
+# History
+121.4.6 = {
+	culture = tokay
+	religion = clothes worship
+  b_lena = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_lena = castle
+}
+1899.4.6 = {
+	culture = labrynnian
+  b_arturo = city
+}
