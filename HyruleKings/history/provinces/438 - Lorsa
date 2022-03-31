@@ -1,0 +1,24 @@
+# 438 - Lorsa
+
+# County Title
+title = c_lorsa
+
+# Settlements
+max_settlements = 2
+b_lorsa = tribal
+
+# Misc
+culture = east_lynel
+religion = power_worship
+terrain = hills
+
+# History
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_lorsa = castle
+}
+1899.4.6 = {
+	culture = labrynnian
+  b_elopoma = temple
+}
