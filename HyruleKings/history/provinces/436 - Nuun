@@ -1,0 +1,24 @@
+# 436 - Nuun
+
+# County Title
+title = c_nuun
+
+# Settlements
+max_settlements = 2
+b_lynoto = tribal
+
+# Misc
+culture = east_lynel
+religion = power_worship
+terrain = hills
+
+# History
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_lynoto = castle
+}
+1899.4.6 = {
+	culture = labrynnian
+  b_nuun = city
+}
