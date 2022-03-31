@@ -1,0 +1,24 @@
+# 437 - Fort Nuun
+
+# County Title
+title = c_fort_nuun
+
+# Settlements
+max_settlements = 2
+b_ecriano = tribal
+
+# Misc
+culture = east_lynel
+religion = power_worship
+terrain = hills
+
+# History
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_ecriano = city
+}
+1899.4.6 = {
+	culture = labrynnian
+  b_fort_nuun = castle
+}
