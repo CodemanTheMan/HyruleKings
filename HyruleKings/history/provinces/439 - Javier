@@ -1,0 +1,24 @@
+# 439 - Javier
+
+# County Title
+title = c_javier
+
+# Settlements
+max_settlements = 2
+b_javier = tribal
+
+# Misc
+culture = east_lynel
+religion = power_worship
+terrain = hills
+
+# History
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_javier = castle
+}
+1899.4.6 = {
+	culture = labrynnian
+  b_feuld = city
+}
