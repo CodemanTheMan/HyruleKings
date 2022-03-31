@@ -1,0 +1,29 @@
+# 444 - Dolom
+
+# County Title
+title = c_dolom
+
+# Settlements
+max_settlements = 3
+b_dolom = castle
+
+# Misc
+culture = zonai
+religion = vor_sakes
+terrain = plains
+
+# History
+121.4.6 = {
+	culture = tokay
+	religion = clothes worship
+  b_dolom = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_dolom = castle
+}
+1899.4.6 = {
+	culture = labrynnian
+  b_revault = city
+}
