@@ -1,0 +1,28 @@
+# 428 - Bire
+
+# County Title
+title = c_bire
+
+# Settlements
+max_settlements = 3
+b_bire = tribal
+
+# Misc
+culture = east_lynel
+religion = power_worship
+terrain = plains
+
+# History
+
+127.1.2 = {
+	culture = akkalan
+	religion = akkala
+}
+150.1.2 = {
+	religion = hyrulean
+  b_vemma = temple
+}
+1350.4.6 = {
+	culture = moblin
+	religion = power_worship
+}
