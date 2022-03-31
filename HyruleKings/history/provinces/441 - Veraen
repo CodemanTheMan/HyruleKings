@@ -1,0 +1,29 @@
+# 441 - Veraen
+
+# County Title
+title = c_veraen
+
+# Settlements
+max_settlements = 2
+b_veraen = tribal
+
+# Misc
+culture = zonai
+religion = vor_sakes
+terrain = plains
+
+# History
+121.4.6 = {
+	culture = tokay
+	religion = clothes worship
+  b_veraen = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_veraen = temple
+}
+1899.4.6 = {
+	culture = labrynnian
+  b_post_lynna = city
+}
