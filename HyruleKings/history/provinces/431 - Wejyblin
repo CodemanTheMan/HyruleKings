@@ -1,0 +1,28 @@
+# 431 - Wejyblin
+
+# County Title
+title = c_wejyblin
+
+# Settlements
+max_settlements = 3
+b_wejyblin = tribal
+
+# Misc
+culture = east_lynel
+religion = power_worship
+terrain = plains
+
+# History
+
+127.1.2 = {
+	culture = akkalan
+	religion = akkala
+}
+150.1.2 = {
+	religion = hyrulean
+  b_weleina = tribal
+}
+1350.4.6 = {
+	culture = moblin
+	religion = power_worship
+}
