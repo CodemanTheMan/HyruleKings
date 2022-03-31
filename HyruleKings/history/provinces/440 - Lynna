@@ -1,0 +1,25 @@
+# 440 - Lynna
+
+# County Title
+title = c_lynna
+
+# Settlements
+max_settlements = 5
+b_lynna = tribal
+
+# Misc
+culture = east_lynel
+religion = power_worship
+terrain = plains
+
+# History
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_solado = temple
+  b_lynna = city
+}
+1899.4.6 = {
+	culture = labrynnian
+  b_ambi = castle
+}
