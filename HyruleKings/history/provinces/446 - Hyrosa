@@ -1,0 +1,30 @@
+# 446 - Hyrosa
+
+# County Title
+title = c_hyrosa
+
+# Settlements
+max_settlements = 3
+b_hyrosa = castle
+
+# Misc
+culture = zonai
+religion = vor_sakes
+terrain = plains
+
+# History
+121.4.6 = {
+	culture = tokay
+	religion = clothes worship
+  b_hyrosa = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_hyrosa = castle
+}
+1899.4.6 = {
+	culture = labrynnian
+  b_thelle = city
+  b_hyrosa = city
+}
