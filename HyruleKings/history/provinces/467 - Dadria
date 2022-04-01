@@ -1,0 +1,19 @@
+# 467 - Dadria
+
+# County Title
+title = c_dadria
+
+# Settlements
+max_settlements = 3
+b_dadria = tribal
+
+# Misc
+culture = east_lynel
+religion = power_worship
+terrain = plains
+
+# History
+
+1350.4.6 = {
+	culture = moblin
+}
