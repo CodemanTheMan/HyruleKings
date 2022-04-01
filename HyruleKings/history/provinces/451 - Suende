@@ -1,0 +1,29 @@
+# 451 - Suende
+
+# County Title
+title = c_suende
+
+# Settlements
+max_settlements = 3
+b_suende = castle
+
+# Misc
+culture = zonai
+religion = vor_sakes
+terrain = plains
+
+# History
+121.4.6 = {
+	culture = tokay
+	religion = clothes worship
+  b_suende = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_suende = castle
+}
+1899.4.6 = {
+	culture = labrynnian
+  b_horbi = city
+}
