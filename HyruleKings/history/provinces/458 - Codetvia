@@ -1,0 +1,13 @@
+# 458 - Codetvia
+
+# County Title
+title = c_codetvia
+
+# Settlements
+max_settlements = 3
+b_codetvia = tribal
+
+# Misc
+culture = east_lynel
+religion = power_worship
+terrain = plains
