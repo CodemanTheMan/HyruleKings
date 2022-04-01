@@ -1,0 +1,36 @@
+###################################
+#
+# Events for TK Decisions
+#
+# Id 1000000000 - 1000001000 reserved
+#
+###################################
+#
+# Written by Omsharan Rampertaub
+
+
+# TK Feast
+character_event = {
+	id = 1000000000
+	desc = "EVTDESC1000000000"
+	picture = GFX_evt_emissary
+	border = GFX_event_normal_frame_religion
+	
+	is_triggered_only = yes
+	
+	option = {
+       name = "Yes"
+	   
+	   add_character_modifier = {
+			modifier = TK_feast
+			years = 10
+		}
+		
+		wealth = -20
+		prestige = 200
+    }
+	
+	option = {
+		name = "No, I change my mind."
+	}
+}
