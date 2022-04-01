@@ -1,0 +1,29 @@
+# 445 - Symmetry
+
+# County Title
+title = c_symmetry
+
+# Settlements
+max_settlements = 3
+b_symmetry = castle
+
+# Misc
+culture = zonai
+religion = vor_sakes
+terrain = plains
+
+# History
+121.4.6 = {
+	culture = tokay
+	religion = clothes worship
+  b_symmetry = tribal
+}
+1421.4.6 = {
+	culture = hylian
+	religion = hyrulean
+  b_symmetry = city
+}
+1899.4.6 = {
+	culture = labrynnian
+  b_yare_suelo = temple
+}
