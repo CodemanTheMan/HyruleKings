@@ -1,0 +1,13 @@
+# 457 - Firly
+
+# County Title
+title = c_firly
+
+# Settlements
+max_settlements = 3
+b_firly = tribal
+
+# Misc
+culture = east_lynel
+religion = power_worship
+terrain = plains
