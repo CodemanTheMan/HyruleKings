@@ -7755,7 +7755,7 @@ e_lanayru = {
 				color={32 4 32}
 				color2={76 5 98}
 
-				b_don_vana={}
+				b_dor_vana={}
 				b_rutonis={}
 				b_nulla={}
 				b_matoval={}
