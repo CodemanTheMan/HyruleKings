@@ -1,0 +1,27 @@
+# 469 - Dor Vana
+
+# County Title
+title = c_dor_vana
+
+# Settlements
+max_settlements = 4
+b_dor_vana = tribal
+
+# Misc
+culture = lizalfos
+religion = vor_sakes
+terrain = hills
+
+# History
+341.3.2 = {
+	culture = river_zora
+	religion = zorana
+  b_dor_vana = castle
+}
+529.3.2 = {
+	b_rutonis = city
+}
+1446.1.1 = {
+	culture = high_zora
+  religion = hyrulean
+}
