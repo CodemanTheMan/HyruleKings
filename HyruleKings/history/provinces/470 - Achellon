@@ -1,0 +1,28 @@
+# 469 - Achellon
+
+# County Title
+title = c_achellon
+
+# Settlements
+max_settlements = 4
+b_intenoch = tribal
+
+# Misc
+culture = lizalfos
+religion = vor_sakes
+terrain = hills
+
+# History
+341.3.2 = {
+	culture = river_zora
+	religion = zorana
+  b_narkoch = castle
+}
+529.3.2 = {
+	b_intenoch = city
+  b_aruton = temple
+}
+1446.1.1 = {
+	culture = high_zora
+  religion = hyrulean
+}
