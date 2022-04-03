@@ -1,0 +1,27 @@
+# 476 - Chelleth
+
+# County Title
+title = c_chelleth
+
+# Settlements
+max_settlements = 4
+b_chelleth = tribal
+
+# Misc
+culture = lizalfos
+religion = vor_sakes
+terrain = hills
+
+# History
+341.3.2 = {
+	culture = river_zora
+	religion = zorana
+  b_chelleth = castle
+}
+529.3.2 = {
+	b_zoranis = temple
+}
+1446.1.1 = {
+	culture = high_zora
+  religion = jabunic
+}
