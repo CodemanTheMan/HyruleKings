@@ -1,0 +1,27 @@
+# 473 - Val En
+
+# County Title
+title = c_val_en
+
+# Settlements
+max_settlements = 4
+b_val_en = tribal
+
+# Misc
+culture = lizalfos
+religion = vor_sakes
+terrain = hills
+
+# History
+341.3.2 = {
+	culture = river_zora
+	religion = zorana
+  b_val_en = castle
+}
+529.3.2 = {
+	b_macia = temple
+}
+1446.1.1 = {
+	culture = high_zora
+  religion = jabunic
+}
