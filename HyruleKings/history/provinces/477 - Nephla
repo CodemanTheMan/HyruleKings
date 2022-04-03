@@ -1,0 +1,28 @@
+# 477 - Nephla
+
+# County Title
+title = c_nephla
+
+# Settlements
+max_settlements = 4
+b_nephla = tribal
+
+# Misc
+culture = lizalfos
+religion = vor_sakes
+terrain = hills
+
+# History
+341.3.2 = {
+	culture = river_zora
+	religion = zorana
+  b_nephla = temple
+}
+529.3.2 = {
+	b_lato = castle
+  b_dufarko = castle
+}
+1446.1.1 = {
+	culture = high_zora
+  religion = jabunic
+}
