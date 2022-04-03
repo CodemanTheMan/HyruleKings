@@ -1,0 +1,28 @@
+# 471 - Ternio
+
+# County Title
+title = c_ternio
+
+# Settlements
+max_settlements = 4
+b_ternio = tribal
+
+# Misc
+culture = lizalfos
+religion = vor_sakes
+terrain = hills
+
+# History
+341.3.2 = {
+	culture = river_zora
+	religion = zorana
+  b_ternio = castle
+}
+529.3.2 = {
+	b_mellina = city
+  b_uchellon = city
+}
+1446.1.1 = {
+	culture = high_zora
+  religion = hyrulean
+}
