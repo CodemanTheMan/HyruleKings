@@ -1,0 +1,33 @@
+# 480 - Shatterback Point
+
+# County Title
+title = c_shatterback_point
+
+# Settlements
+max_settlements = 4
+b_shatterback = tribal
+
+# Misc
+culture = river_zora
+religion = bellumic
+terrain = hills
+
+# History
+
+10.1.1 = {
+	culture = akkalan
+	religion = akkala
+}
+1310.1.1 = {
+	culture = tarminian
+	religion = vrygan
+}
+1377.1.1 = {
+	culture = river_zora
+	religion = jabunic
+  b_shatterback = castle
+}
+1446.1.1 = {
+	culture = high_zora
+  b_miruton = temple
+}
