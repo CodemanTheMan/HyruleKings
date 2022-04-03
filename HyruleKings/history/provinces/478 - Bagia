@@ -1,0 +1,28 @@
+# 478 - Bagia
+
+# County Title
+title = c_bagia
+
+# Settlements
+max_settlements = 4
+b_bagia = tribal
+
+# Misc
+culture = lizalfos
+religion = vor_sakes
+terrain = hills
+
+# History
+341.3.2 = {
+	culture = river_zora
+	religion = zorana
+  b_bagia = castle
+}
+529.3.2 = {
+	b_ileth = city
+  b_raspar = castle
+}
+1446.1.1 = {
+	culture = high_zora
+  religion = jabunic
+}
