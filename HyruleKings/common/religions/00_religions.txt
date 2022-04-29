@@ -22,7 +22,7 @@ trillith = {
         priest_title = PRIEST
         high_god_name = THE_GOLDEN_GODDESSES
         god_names = {
-            THE_OLD_GODS THE_NEW_GODS THE_ETERNAL_RAIN THE_FIRSTBORN
+            THE_OLD_GODS THE_NEW_GODS
         }
         evil_god_names = {
             THE_PRIMORDIALS MAJORA DEMISE MALLADUS
@@ -58,9 +58,9 @@ trillith = {
         color = { 252 250 187 }
         scripture_name = THE_BOOK_OF_MUDORA THE_SAGA_OF_NOHAN
         priest_title = PRIEST
-        high_god_name = THE_GOLDEN_GODDESSES SOLAHRASIN
+        high_god_name = THE_GOLDEN_GODDESSES
         god_names = {
-            THE_OLD_GODS THE_NEW_GODS THE_ETERNAL_RAIN THE_FIRSTBORN
+            THE_OLD_GODS THE_NEW_GODS SOLAHRASIN
         }
         evil_god_names = {
             THE_PRIMORDIALS MAJORA DEMISE MALLADUS
@@ -98,7 +98,7 @@ trillith = {
         priest_title = PRIEST
         high_god_name = THE_GOLDEN_GODDESSES
         god_names = {
-            THE_OLD_GODS THE_NEW_GODS THE_ETERNAL_RAIN THE_FIRSTBORN
+            THE_OLD_GODS THE_NEW_GODS
         }
         evil_god_names = {
             THE_PRIMORDIALS MAJORA DEMISE MALLADUS
@@ -136,7 +136,7 @@ trillith = {
         priest_title = PRIEST
         high_god_name = THE_GOLDEN_GODDESSES
         god_names = {
-            THE_OLD_GODS THE_NEW_GODS THE_ETERNAL_RAIN THE_FIRSTBORN
+            THE_OLD_GODS THE_NEW_GODS
         }
         evil_god_names = {
             THE_PRIMORDIALS MAJORA DEMISE MALLADUS
@@ -174,7 +174,7 @@ trillith = {
         priest_title = PRIEST
         high_god_name = THE_GOLDEN_GODDESSES
         god_names = {
-            THE_OLD_GODS THE_NEW_GODS THE_ETERNAL_RAIN THE_FIRSTBORN
+            THE_OLD_GODS THE_NEW_GODS
         }
         evil_god_names = {
             THE_PRIMORDIALS MAJORA DEMISE MALLADUS
@@ -212,7 +212,7 @@ trillith = {
         priest_title = PRIEST
         high_god_name = THE_SUN
         god_names = {
-            THE_OLD_GODS THE_NEW_GODS THE_ETERNAL_RAIN THE_FIRSTBORN
+            THE_OLD_GODS THE_NEW_GODS
         }
         evil_god_names = {
             THE_PRIMORDIALS MAJORA DEMISE MALLADUS
@@ -250,7 +250,7 @@ trillith = {
         priest_title = PRIEST
         high_god_name = THE_GOLDEN_GODDESSES
         god_names = {
-            THE_OLD_GODS THE_NEW_GODS THE_ETERNAL_RAIN THE_FIRSTBORN
+            THE_OLD_GODS THE_NEW_GODS
         }
         evil_god_names = {
             THE_PRIMORDIALS MAJORA DEMISE MALLADUS
@@ -288,7 +288,7 @@ trillith = {
         priest_title = PRIEST
         high_god_name = MALKORBAGIA
         god_names = {
-            THE_OLD_GODS THE_NEW_GODS THE_ETERNAL_RAIN THE_FIRSTBORN
+            THE_OLD_GODS THE_NEW_GODS
         }
         evil_god_names = {
             THE_PRIMORDIALS MAJORA DEMISE MALLADUS
