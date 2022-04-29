@@ -245,7 +245,7 @@ akkalan = {
 zora = {
     graphical_culture = { westerngfx }
 
-    high zora = {
+    high_zora = {
         graphical_culture = { englishgfx }
 
         color = { 0.0 0.03 0.61 }
@@ -272,7 +272,7 @@ zora = {
         feminist = yes
         allow_in_ruler_designer = yes
     }
-    lanayru = { parent = high zora}
+    lanayru = { parent = high_zora}
         graphical_culture = { englishgfx }
 
         color = { 0.33 0.36 0.83 }
@@ -301,7 +301,7 @@ zora = {
         feminist = yes
         allow_in_ruler_designer = yes
     }
-    river zora = {
+    river_zora = {
         graphical_culture = { englishgfx }
 
         color = { 0.22 0.9 0.88 }
@@ -328,7 +328,7 @@ zora = {
         feminist = yes
         allow_in_ruler_designer = yes
     }
-    storm zora= {
+    storm_zora= {
         graphical_culture = { englishgfx }
 
         color = { 0.07 0.17 0.33 }
@@ -350,7 +350,7 @@ zora = {
         feminist = no
         allow_in_ruler_designer = yes
     }
-    octozora = { parent = river zora }
+    octozora = { parent = river_zora }
         graphical_culture = { englishgfx }
 
         color = { 0.93 0.29 0.9 }
@@ -376,7 +376,7 @@ zora = {
         feminist = yes
         allow_in_ruler_designer = yes
     }
-    ku = { parent = river zora }
+    ku = { parent = river_zora }
         graphical_culture = { englishgfx }
 
         color = { 0.22 0.75 0.5 }
@@ -407,7 +407,7 @@ zora = {
 kokiric = {
     graphical_culture = { westerngfx }
 
-    kokiri = { parent = vala tree }
+    kokiri = { parent = vala_tree }
         graphical_culture = { englishgfx }
 
         color = { 0.0 0.92 0.2 }
@@ -453,7 +453,7 @@ kokiric = {
         feminist = yes
         allow_in_ruler_designer = yes
     }
-    skull kid= {
+    skull_kid= {
         graphical_culture = { englishgfx }
 
         color = { 0.0 0.13 0.03 }
@@ -476,7 +476,7 @@ kokiric = {
         feminist = yes
         allow_in_ruler_designer = yes
     }
-    korok = { parent = vala tree }
+    korok = { parent = vala_tree }
         graphical_culture = { englishgfx }
 
         color = { 0.02 0.36 0.1 }
@@ -529,7 +529,7 @@ eldinian = {
         feminist = no
         allow_in_ruler_designer = yes
     }
-  rolling ridge goron = {
+  rolling_ridge_goron = {
         graphical_culture = { englishgfx }
 
         color = { 0.25 0.31 0.15 }
@@ -1220,7 +1220,7 @@ blin = {
 lynel = {
     graphical_culture = { westerngfx }
 
-    west lynel= {
+    west_lynel= {
         graphical_culture = { englishgfx }
 
         color = { 1.0 0.06 0.67 }
@@ -1243,7 +1243,7 @@ lynel = {
         feminist = no
         allow_in_ruler_designer = yes
     }
-    east lynel= {
+    east_lynel= {
         graphical_culture = { englishgfx }
 
         color = { 0.72 1.0 0.61 }
@@ -1322,7 +1322,7 @@ dongo = {
         feminist = no
         allow_in_ruler_designer = yes
     }
-    dodongo snake = {
+    dodongo_snake = {
         graphical_culture = { englishgfx }
 
         color = { 0.1 0.21 0.2 }
@@ -1453,7 +1453,7 @@ Otaylo Amaylo Otoya Orolayo Naralayo Onala Marjala Arjala Sambasa Maraylo Matayl
 monkey = {
     graphical_culture = { westerngfx }
 
-    deku monkey = {
+    deku_monkey = {
         graphical_culture = { englishgfx }
 
         color = { 0.81 0.9 0.55 }
@@ -1553,7 +1553,7 @@ dragon = {
         feminist = yes
         allow_in_ruler_designer = yes
     }
-    dark dragon = {
+    dark_dragon = {
         graphical_culture = { englishgfx }
 
         color = { 0.0 0.18 0.12 }
@@ -1690,7 +1690,7 @@ mudoran= {
 scrub = {
     graphical_culture = { westerngfx }
 
-    deku scrub = {
+    deku_scrub = {
         graphical_culture = { englishgfx }
 
         color = { 0.15 0.36 0.07 }
@@ -1743,7 +1743,7 @@ huskus = {
         allow_in_ruler_designer = yes
     }
 }
-vala tree = {
+vala_tree = {
     graphical_culture = { westerngfx }
 
     vala tree = {
@@ -2007,10 +2007,10 @@ oocca = {
         allow_in_ruler_designer = yes
     }
 }
-old god = {
+old_god = {
     graphical_culture = { westerngfx }
 
-    light spirit = {
+    light_spirit = {
         graphical_culture = { englishgfx }
 
         color = { 0.96 0.98 0.02 }
